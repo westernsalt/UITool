@@ -1,0 +1,15 @@
+[START]
+FrameFilePath	.\Frame\Achievement\Achievement.rfi
+FramePosition	-129,-96
+FrameSize		1280,960
+[END]	
+[START]
+FrameFilePath	.\Frame\Achievement\AM_Summary.rfi
+FramePosition	347,203
+FrameSize		484,394
+[END]	
+[START]
+FrameFilePath	.\Frame\Achievement\AM_List.rfi
+FramePosition	342,209
+FrameSize		492,394
+[END]	

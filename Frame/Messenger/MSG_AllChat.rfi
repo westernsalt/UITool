@@ -1,0 +1,31 @@
+[REVISE_FRAME]
+0,0
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Messenger\MSG_Bg_AllChat_GRI.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Messenger\MSG_Bg_Head_AllChat_GRI.rai
+AssetPosition	3,3
+[END]	
+[START]
+AssetPath		.\Asset\Messenger\MSG_Btn_Close_BTN.rai
+AssetPosition	273,9
+[END]	
+[START]
+AssetPath		.\Asset\Messenger\MSG_ListBox_AllChat_LST.rai
+AssetPosition	6,31
+[END]	
+[START]
+AssetPath		.\Asset\Messenger\MSG_TextInput_AllChat_INP.rai
+AssetPosition	4,264
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Icon_Chatting_PIC.rai
+AssetPosition	9,9
+[END]	
+[START]
+AssetPath		.\Asset\Messenger\MSG_Text_Title_Chat_TXT.rai
+AssetPosition	31,3
+[END]	

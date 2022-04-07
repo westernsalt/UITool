@@ -1,0 +1,39 @@
+[START]
+Attribute		1
+Position		0,0
+HitBox			0,0,80,26
+FileSize		0,0,80,26
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\MasterApprentice\MA_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\MasterApprentice\MA_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[BUTTON START]
+NormalTex		90,128
+PressedTex		90,180
+DisableTex		90,206
+HighlightTex	90,154
+Size			80,26
+TextBoxSetApart	0
+IconFront		1
+TextBoxIndent	0
+Attribute		3
+Position		0,0
+HitBox			0,0,80,26
+FileSize		0,0,80,26
+Scale			1,1
+[TEXTBOX START]
+TextBox			0,0,80,26
+TextScaling		1
+SortFlag		37
+RGBA			193,193,193
+DisableRGB		93,93,93
+Indent			0,0
+DefaultShow		1
+[FONT_BOLD_START]
+0
+[TEXTBOX END]
+[BUTTON END]
+[END]	

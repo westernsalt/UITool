@@ -1,0 +1,131 @@
+[REVISE_FRAME]
+265,246
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\CreatureBook\CB_PopupBg_DetailInfo_S_GRI.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Bg_DividePage_H225_PIC.rai
+AssetPosition	230,36
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Close_BTN.rai
+AssetPosition	477,9
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_Buy_BTN.rai
+AssetPosition	42,222
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_14Px_TXT.rai
+AssetPosition	248,34
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W124_L_TXT.rai
+AssetPosition	248,62
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W112_R_TXT.rai
+AssetPosition	372,62
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W124_L_TXT.rai
+AssetPosition	248,82
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W124_L_TXT.rai
+AssetPosition	248,116
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W49_TXT.rai
+AssetPosition	374,116
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W59_TXT.rai
+AssetPosition	425,116
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W124_L_TXT.rai
+AssetPosition	248,134
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W49_TXT.rai
+AssetPosition	374,134
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W59_TXT.rai
+AssetPosition	425,134
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W124_L_TXT.rai
+AssetPosition	248,152
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W49_TXT.rai
+AssetPosition	374,152
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W59_TXT.rai
+AssetPosition	425,152
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W124_L_TXT.rai
+AssetPosition	248,170
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W49_TXT.rai
+AssetPosition	374,170
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W59_TXT.rai
+AssetPosition	425,170
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W124_L_TXT.rai
+AssetPosition	248,188
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W49_TXT.rai
+AssetPosition	374,188
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W59_TXT.rai
+AssetPosition	425,188
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W124_L_TXT.rai
+AssetPosition	248,206
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W49_TXT.rai
+AssetPosition	374,206
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W59_TXT.rai
+AssetPosition	425,206
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W124_L_TXT.rai
+AssetPosition	248,224
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W49_TXT.rai
+AssetPosition	374,224
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W59_TXT.rai
+AssetPosition	425,224
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W124_L_TXT.rai
+AssetPosition	248,242
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W49_TXT.rai
+AssetPosition	374,242
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W59_TXT.rai
+AssetPosition	425,242
+[END]	

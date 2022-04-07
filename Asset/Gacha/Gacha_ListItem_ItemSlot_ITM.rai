@@ -1,0 +1,48 @@
+[START]
+Attribute		5
+Position		0,0
+HitBox			0,0,66,66
+FileSize		0,0,66,66
+Scale			1,1
+[LISTITEM START]
+[LISTITEM]
+Attribute		0
+Position		0,0
+HitBox			0,0,66,66
+FileSize		0,0,66,66
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\Common_Texture_1.tga
+TexFilePath		TexturesSV\ui\newUI\Common\Common_Texture_1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		132,194
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		4,4
+HitBox			4,4,64,64
+FileSize		0,0,60,60
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Gacha\Gacha_Texture_1.tga
+TexFilePath		TexturesSV\ui\newUI\Gacha\Gacha_Texture_1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		3,3
+HitBox			3,3,63,63
+FileSize		0,0,60,60
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Gacha\Gacha_Texture_1.tga
+TexFilePath		TexturesSV\ui\newUI\Gacha\Gacha_Texture_1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		296,90
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM COMPLETE]
+[END]	

@@ -1,0 +1,22 @@
+syntax: glob
+*.obj
+*.tlog
+*.manifest
+*.res
+*.exe
+*.ilk
+*.lastbuildstate
+*.log
+*.pch
+*.pdb
+*.cache
+*.rc
+*.idb
+*.ipch
+*.rai
+*.opensdf
+*.rsi
+*.sdf
+*.suo
+*.orig
+*.rfi

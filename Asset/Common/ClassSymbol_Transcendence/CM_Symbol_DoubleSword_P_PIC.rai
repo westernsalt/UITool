@@ -1,0 +1,13 @@
+[START]
+Attribute		0
+Position		0,0
+HitBox			0,0,50,50
+FileSize		0,0,50,50
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\Common_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\Common\Common_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		412,53
+[PICTURE END]
+[END]	

@@ -1,0 +1,43 @@
+[REVISE_FRAME]
+-128,-96
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Common\PopupBg\CM_BlackBg_Popup_PIC.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_1_PIC.rai
+AssetPosition	393,272
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_Symbol_Basic_PIC.rai
+AssetPosition	613,289
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_OK_BTN.rai
+AssetPosition	564,538
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotBg_S64_PIC.rai
+AssetPosition	605,370
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_64_PIC.rai
+AssetPosition	608,373
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_Text_13_TXT.rai
+AssetPosition	415,447
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Creature_SlotDeco_PIC.rai
+AssetPosition	608,373
+[END]	
+[START]
+AssetPath		.\Asset\Common\Creatrue_Upgrade\CM_Creature_Plus1_PIC.rai
+AssetPosition	652,376
+[END]	
+[START]
+AssetPath		.\Asset\Common\Creature_Property\CM_CP_Water_PIC.rai
+AssetPosition	608,411
+[END]	

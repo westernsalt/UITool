@@ -1,0 +1,31 @@
+[REVISE_FRAME]
+-128,-96
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Common\PopupBg\Inven_Blur_Bg_PIC.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_1_PIC.rai
+AssetPosition	393,272
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_Symbol_Basic_PIC.rai
+AssetPosition	613,289
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_Yes_BTN.rai
+AssetPosition	462,538
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_No_BTN.rai
+AssetPosition	672,538
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_Text_15_TXT.rai
+AssetPosition	415,399
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_Text_13_TXT.rai
+AssetPosition	415,435
+[END]	

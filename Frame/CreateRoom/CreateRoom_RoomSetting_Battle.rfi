@@ -1,0 +1,159 @@
+[REVISE_FRAME]
+573,197
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\CreateRoom\CR_DecoLine_Top_Content_PIC.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_DecoLine_Bottom_Content_PIC.rai
+AssetPosition	0,105
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_Text_W170_TXT.rai
+AssetPosition	3,19
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_Text_W170_TXT.rai
+AssetPosition	3,49
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_Text_W170_TXT.rai
+AssetPosition	3,81
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_Minus_BTN.rai
+AssetPosition	197,18
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_Plus_BTN.rai
+AssetPosition	287,18
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_Minus_BTN.rai
+AssetPosition	197,49
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_Plus_BTN.rai
+AssetPosition	287,49
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_Minus_BTN.rai
+AssetPosition	197,80
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_Plus_BTN.rai
+AssetPosition	287,80
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_TextInput_Num_INP.rai
+AssetPosition	215,13
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_TextInput_Num_INP.rai
+AssetPosition	215,44
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_TextInput_Num_INP.rai
+AssetPosition	215,75
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_ComboBox_LvLimit_CMB.rai
+AssetPosition	125,146
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_Text_W120_TXT.rai
+AssetPosition	3,152
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_DecoLine_Top_Content_PIC.rai
+AssetPosition	0,176
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_DecoLine_Bottom_Content_PIC.rai
+AssetPosition	0,323
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_CheckBox_LimitEffect_CHK.rai
+AssetPosition	5,190
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_CheckBox_LimitPotion_CHK.rai
+AssetPosition	5,216
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_CheckBox_LimitRandomPotion_CHK.rai
+AssetPosition	5,242
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_CheckBox_LimitLife_CHK.rai
+AssetPosition	5,268
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_CheckBox_LimitCreature_CHK.rai
+AssetPosition	5,294
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_CheckBox_BasicMode_CHK.rai
+AssetPosition	197,190
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_CheckBox_FriendMode_CHK.rai
+AssetPosition	197,217
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_Minus_BTN.rai
+AssetPosition	217,269
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_Plus_BTN.rai
+AssetPosition	287,269
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_Minus_BTN.rai
+AssetPosition	217,297
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_Plus_BTN.rai
+AssetPosition	287,297
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_InputText_Num_INP.rai
+AssetPosition	235,264
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_InputText_Num_INP.rai
+AssetPosition	235,292
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_DecoLine_Top_Content_PIC.rai
+AssetPosition	0,335
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_DecoLine_Bottom_Content_PIC.rai
+AssetPosition	0,423
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_Text_W290_TXT.rai
+AssetPosition	3,350
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_CheckBox_LimitKingCreature_CHK.rai
+AssetPosition	5,371
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_CheckBox_LimitTWeapon_CHK.rai
+AssetPosition	5,397
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_CheckBox_SuperMode_CHK.rai
+AssetPosition	197,371
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_ComboBox_GameMode_1_CMB.rai
+AssetPosition	125,115
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_Text_W120_TXT.rai
+AssetPosition	3,121
+[END]	

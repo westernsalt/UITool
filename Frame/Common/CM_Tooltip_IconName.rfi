@@ -1,0 +1,8 @@
+[START]
+AssetPath		.\Asset\Common\CM_TooltipBg_H_GRI.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ToolTip_Text_IconName_TXT.rai
+AssetPosition	5,3
+[END]	

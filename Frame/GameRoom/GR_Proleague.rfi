@@ -1,0 +1,35 @@
+[REVISE_FRAME]
+79,106
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\GameRoom\GR_Title_RoomType_Proleague_PIC.rai
+AssetPosition	177,0
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Img_Proleague_PIC.rai
+AssetPosition	239,66
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_ListBox_ChaSlot_Proleague_LST.rai
+AssetPosition	0,66
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Load_MapImg_128_PIC.rai
+AssetPosition	486,117
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_Proleague_Yellow_TXT.rai
+AssetPosition	437,280
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_Proleague_TXT.rai
+AssetPosition	437,360
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_Proleague_TXT.rai
+AssetPosition	437,339
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_Proleague_TXT.rai
+AssetPosition	437,318
+[END]	

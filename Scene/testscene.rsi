@@ -1,0 +1,98 @@
+[BACKGROUND]
+BackgroundPath	.\Asset\Common\CM_MainBg_PIC.rai
+[START]
+FrameFilePath	.\Frame\Common\CM_TooltipBg_V.rfi
+FramePosition	0,0
+FrameSize		282,127
+FrameScale		1,1
+[END]	
+[START]
+FrameFilePath	.\Frame\Common\CM_Tooltip_Head_1.rfi
+FramePosition	12,12
+FrameSize		259,73
+FrameScale		1,1
+[END]	
+[START]
+FrameFilePath	.\Frame\Common\CM_Tooltip_Head_2.rfi
+FramePosition	12,12
+FrameSize		259,88
+FrameScale		1,1
+[END]	
+[START]
+FrameFilePath	.\Frame\Common\CM_Tooltip_BasicStats_Inventory.rfi
+FramePosition	3,100
+FrameSize		280,177
+FrameScale		1,1
+[END]	
+[START]
+FrameFilePath	.\Frame\Common\CM_Tooltip_BasicStats_Wearing.rfi
+FramePosition	3,100
+FrameSize		280,177
+FrameScale		1,1
+[END]	
+[START]
+FrameFilePath	.\Frame\Common\CM_Tooltip_AddStats.rfi
+FramePosition	3,282
+FrameSize		280,73
+FrameScale		1,1
+[END]	
+[START]
+FrameFilePath	.\Frame\Common\CM_Tooltip_AddStats.rfi
+FramePosition	3,360
+FrameSize		280,73
+FrameScale		1,1
+[END]	
+[START]
+FrameFilePath	.\Frame\Common\CM_Tooltip_JewelrySoket.rfi
+FramePosition	3,438
+FrameSize		280,120
+FrameScale		1,1
+[END]	
+[START]
+FrameFilePath	.\Frame\Common\CM_Tooltip_HiddenAbility.rfi
+FramePosition	3,562
+FrameSize		280,21
+FrameScale		1,1
+[END]	
+[START]
+FrameFilePath	.\Frame\Common\CM_Tooltip_Buff.rfi
+FramePosition	3,588
+FrameSize		280,34
+FrameScale		1,1
+[END]	
+[START]
+FrameFilePath	.\Frame\Common\CM_Tooltip_Automatic.rfi
+FramePosition	3,627
+FrameSize		280,20
+FrameScale		1,1
+[END]	
+[START]
+FrameFilePath	.\Frame\Common\CM_Tooltip_ItemExplain.rfi
+FramePosition	3,653
+FrameSize		280,87
+FrameScale		1,1
+[END]	
+[START]
+FrameFilePath	.\Frame\Common\CM_Tooltip_Rental.rfi
+FramePosition	1,735
+FrameSize		280,21
+FrameScale		1,1
+[END]	
+[START]
+FrameFilePath	.\Frame\Common\CM_Tooltip_Head_3.rfi
+FramePosition	12,12
+FrameSize		256,20
+FrameScale		1,1
+[END]	
+[START]
+FrameFilePath	.\Frame\Common\CM_Tooltip_CreatureProperty.rfi
+FramePosition	1,426
+FrameSize		280,139
+FrameScale		1,1
+[END]	
+[START]
+FrameFilePath	.\Frame\testsave.rfi
+FramePosition	324,189
+FrameSize		609,267
+FrameScale		1,1
+[END]	

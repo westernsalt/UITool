@@ -1,0 +1,35 @@
+[REVISE_FRAME]
+-128,-96
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Common\PopupBg\CM_BlackBg_Popup_PIC.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_1_PIC.rai
+AssetPosition	393,272
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_Symbol_Basic_PIC.rai
+AssetPosition	613,289
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_OK_BTN.rai
+AssetPosition	564,538
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_2_TXT.rai
+AssetPosition	412,363
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_DecoLine_Top_PIC.rai
+AssetPosition	420,381
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_DecoLine_Bottom_PIC.rai
+AssetPosition	420,523
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Select\CS_Popup_ListBox_LST.rai
+AssetPosition	424,391
+[END]	

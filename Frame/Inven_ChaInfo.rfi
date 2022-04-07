@@ -1,0 +1,60 @@
+[START]
+AssetPath		.\Asset\Inventory\Inven_ChaInfo_Bg_PIC.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\ClassSymbol_Nomal\Inven_Symbol_Archer_N_PIC.rai
+AssetPosition	59,20
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_ProgressBar_L_PIC.rai
+AssetPosition	41,3
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_ProgressBar_Cover_1_PIC.rai
+AssetPosition	42,50
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_ProgressBar_Cover_2_PIC.rai
+AssetPosition	85,4
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_ProgressBar_R_PIC.rai
+AssetPosition	89,3
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_ProgressBar_Cover_3_PIC.rai
+AssetPosition	132,47
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_ProgressBar_Cover_4_PIC.rai
+AssetPosition	112,70
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_ChaInfo_LvBg_PIC.rai
+AssetPosition	60,72
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Text_Lv_TXT.rai
+AssetPosition	64,77
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Text_NickName_TXT.rai
+AssetPosition	4,93
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Bg_StatsUP_GRI.rai
+AssetPosition	126,56
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Icon_StatsUp_PIC.rai
+AssetPosition	131,62
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Text_StatsUp_TXT.rai
+AssetPosition	150,63
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Icon_LvT_PIC.rai
+AssetPosition	37,93
+[END]	

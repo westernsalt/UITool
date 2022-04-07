@@ -1,0 +1,123 @@
+[REVISE_FRAME]
+349,217
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Option\Option_DecoLine_PIC.rai
+AssetPosition	0,20
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_Text_W470_TXT.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_Text_W120_TXT.rai
+AssetPosition	3,39
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_Text_W40_R_TXT.rai
+AssetPosition	338,60
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_Text_W40_L_TXT.rai
+AssetPosition	3,60
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_Slider_SLD.rai
+AssetPosition	43,59
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_CheckBox_CHK.rai
+AssetPosition	4,91
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_Text_W470_TXT.rai
+AssetPosition	0,126
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_DecoLine_PIC.rai
+AssetPosition	0,145
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_Text_W67_TXT.rai
+AssetPosition	4,164
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_Text_W67_TXT.rai
+AssetPosition	4,196
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_Text_W67_TXT.rai
+AssetPosition	4,228
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_Text_W67_TXT.rai
+AssetPosition	4,260
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_Text_W67_TXT.rai
+AssetPosition	4,292
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_Text_W137_R_TXT.rai
+AssetPosition	210,164
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_Text_W137_R_TXT.rai
+AssetPosition	210,196
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_Text_W137_R_TXT.rai
+AssetPosition	210,228
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_Text_W137_R_TXT.rai
+AssetPosition	210,260
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_Text_W137_R_TXT.rai
+AssetPosition	210,292
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_TextInput_1_INP.rai
+AssetPosition	73,160
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_TextInput_1_INP.rai
+AssetPosition	73,192
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_TextInput_1_INP.rai
+AssetPosition	73,224
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_TextInput_1_INP.rai
+AssetPosition	73,256
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_TextInput_1_INP.rai
+AssetPosition	73,288
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_TextInput_1_INP.rai
+AssetPosition	350,160
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_TextInput_1_INP.rai
+AssetPosition	350,192
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_TextInput_1_INP.rai
+AssetPosition	350,224
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_TextInput_1_INP.rai
+AssetPosition	350,256
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_TextInput_1_INP.rai
+AssetPosition	350,288
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_Text_W40_R_TXT.rai
+AssetPosition	380,60
+[END]	

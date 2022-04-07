@@ -1,0 +1,143 @@
+[REVISE_FRAME]
+52,106
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\GameRoom\GR_Decoline_Top_PIC.rai
+AssetPosition	441,65
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Decoline_Bottom_PIC.rai
+AssetPosition	441,111
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Decoline_Bottom_PIC.rai
+AssetPosition	441,406
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Decoline_Bottom_PIC.rai
+AssetPosition	441,301
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Decoline_Mid_PIC.rai
+AssetPosition	441,264
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_StageName_TXT.rai
+AssetPosition	439,83
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Load_MapImg_128_PIC.rai
+AssetPosition	447,123
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_W93_L_TXT.rai
+AssetPosition	583,185
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_W80_R_TXT.rai
+AssetPosition	672,185
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_W60_R_TXT.rai
+AssetPosition	692,202
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_W60_R_TXT.rai
+AssetPosition	692,220
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_W60_R_TXT.rai
+AssetPosition	870,185
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_W60_R_TXT.rai
+AssetPosition	870,202
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_W60_R_Yellow_TXT.rai
+AssetPosition	692,238
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_W60_R_Yellow_TXT.rai
+AssetPosition	870,220
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_W100_L_TXT.rai
+AssetPosition	583,202
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_W100_L_TXT.rai
+AssetPosition	583,220
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_W100_L_Yellow_TXT.rai
+AssetPosition	583,238
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_W100_L_TXT.rai
+AssetPosition	771,185
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_W100_L_TXT.rai
+AssetPosition	771,202
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_W100_L_Yellow_TXT.rai
+AssetPosition	771,220
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\RankSymbol_S70\CR_RankSymbol_S_PIC.rai
+AssetPosition	458,309
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\RankSymbol_S70\CR_RankSymbol_D_PIC.rai
+AssetPosition	840,309
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\RankSymbol_S70\CR_RankSymbol_C_PIC.rai
+AssetPosition	745,309
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\RankSymbol_S70\CR_RankSymbol_B_PIC.rai
+AssetPosition	649,309
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\RankSymbol_S70\CR_RankSymbol_A_PIC.rai
+AssetPosition	554,309
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_Time_TXT.rai
+AssetPosition	446,382
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_Time_TXT.rai
+AssetPosition	542,382
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_Time_TXT.rai
+AssetPosition	638,382
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_Time_TXT.rai
+AssetPosition	733,382
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_Time_TXT.rai
+AssetPosition	829,382
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_Stage_Rank_TXT.rai
+AssetPosition	439,279
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Title_RoomType_Stage_PIC.rai
+AssetPosition	204,0
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_ListBox_ChaSlot_Stage_LST.rai
+AssetPosition	0,66
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_RoomStory_TXT.rai
+AssetPosition	583,124
+[END]	

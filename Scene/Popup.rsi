@@ -1,0 +1,165 @@
+[START]
+FrameFilePath	.\Frame\Common\MsgBox_LoadScene.rfi
+FramePosition	2170,2240
+FrameSize		408,102
+[END]	
+[START]
+FrameFilePath	.\Frame\Common\Popup_OneBtn_BlackBg.rfi
+FramePosition	-128,-96
+FrameSize		1280,960
+[END]	
+[START]
+FrameFilePath	.\Frame\Common\Popup_TwoBtn_BlackBg.rfi
+FramePosition	-128,-96
+FrameSize		1280,960
+[END]	
+[START]
+FrameFilePath	.\Frame\Common\CM_Popup_Security.rfi
+FramePosition	-128,-96
+FrameSize		1280,960
+[END]	
+[START]
+FrameFilePath	.\Frame\Shop\Shop_Popup_Buy.rfi
+FramePosition	-128,-96
+FrameSize		1280,960
+[END]	
+[START]
+FrameFilePath	.\Frame\EXItem_Popup\EXItemPopup_PremiumPack.rfi
+FramePosition	-128,-96
+FrameSize		1280,960
+[END]	
+[START]
+FrameFilePath	.\Frame\Shop\Shop_Popup_Sell.rfi
+FramePosition	-128,-96
+FrameSize		1280,960
+[END]	
+[START]
+FrameFilePath	.\Frame\Common\CM_Popup_DeleteItem.rfi
+FramePosition	-128,-96
+FrameSize		1280,960
+[END]	
+[START]
+FrameFilePath	.\Frame\EXItem_Popup\EXItemPopup_Change_ChaClass.rfi
+FramePosition	-128,-96
+FrameSize		1280,960
+[END]	
+[START]
+FrameFilePath	.\Frame\EXItem_Popup\EXItemPopup_Change_ClanMark.rfi
+FramePosition	-128,-96
+FrameSize		1280,960
+[END]	
+[START]
+FrameFilePath	.\Frame\EXItem_Popup\EXItemPopup_Change_EquipClass.rfi
+FramePosition	265,176
+FrameSize		496,327
+[END]	
+[START]
+FrameFilePath	.\Frame\Common\CM_Popup_TextInput.rfi
+FramePosition	-128,-96
+FrameSize		1280,960
+[END]	
+[START]
+FrameFilePath	.\Frame\EXItem_Popup\EXItemPopup_Dyeing.rfi
+FramePosition	-128,-97
+FrameSize		1280,960
+[END]	
+[START]
+FrameFilePath	.\Frame\EXItem_Popup\EXItemPopup_Megaphone.rfi
+FramePosition	-128,-96
+FrameSize		1280,960
+[END]	
+[START]
+FrameFilePath	.\Frame\EXItem_Popup\EXItemPopup_PotionDivision.rfi
+FramePosition	-128,-96
+FrameSize		1280,960
+[END]	
+[START]
+FrameFilePath	.\Frame\EXItem_Popup\EXItemPopup_AddPeriod.rfi
+FramePosition	265,176
+FrameSize		496,327
+[END]	
+[START]
+FrameFilePath	.\Frame\EXItem_Popup\EXItemPopup_EquipmentSynthesis.rfi
+FramePosition	250,176
+FrameSize		512,327
+[END]	
+[START]
+FrameFilePath	.\Frame\EXItem_Popup\EXItemPopup_Remove_EquipmentSynthesis.rfi
+FramePosition	265,176
+FrameSize		496,327
+[END]	
+[START]
+FrameFilePath	.\Frame\EXItem_Popup\EXItemPopup_ItemUpgrade.rfi
+FramePosition	265,176
+FrameSize		496,327
+[END]	
+[START]
+FrameFilePath	.\Frame\Common\CM_Popup_OneBtn_ItemImg.rfi
+FramePosition	-128,-96
+FrameSize		1280,960
+[END]	
+[START]
+FrameFilePath	.\Frame\MasterApprentice\MasterApprentice.rfi
+FramePosition	-128,-96
+FrameSize		1280,960
+[END]	
+[START]
+FrameFilePath	.\Frame\MasterApprentice\MA_MAInfo.rfi
+FramePosition	348,206
+FrameSize		480,389
+[END]	
+[START]
+FrameFilePath	.\Frame\MasterApprentice\MA_MARequest.rfi
+FramePosition	348,213
+FrameSize		481,389
+[END]	
+[START]
+FrameFilePath	.\Frame\MasterApprentice\MA_MAReward.rfi
+FramePosition	349,212
+FrameSize		492,395
+[END]	
+[START]
+FrameFilePath	.\Frame\Mail\Mail.rfi
+FramePosition	-128,-96
+FrameSize		1280,960
+[END]	
+[START]
+FrameFilePath	.\Frame\EXItem_Popup\EXItemPopup_Permanent.rfi
+FramePosition	-128,-96
+FrameSize		1280,960
+[END]	
+[START]
+FrameFilePath	.\Frame\EXItem_Popup\EXItemPopup_SpecialPrice.rfi
+FramePosition	-128,-96
+FrameSize		1280,960
+[END]	
+[START]
+FrameFilePath	.\Frame\EXItem_Popup\EXItemPopup_SendMail.rfi
+FramePosition	265,176
+FrameSize		708,385
+[END]	
+[START]
+FrameFilePath	.\Frame\EXItem_Popup\EXItemPopup_Remove_SendMail.rfi
+FramePosition	265,176
+FrameSize		551,379
+[END]	
+[START]
+FrameFilePath	.\Frame\EXItem_Popup\EXItemPopup_CapsuleGacha.rfi
+FramePosition	650,149
+FrameSize		367,507
+[END]	
+[START]
+FrameFilePath	.\Frame\EXItem_Popup\EXItemPopup_EquipmentExtraction.rfi
+FramePosition	250,176
+FrameSize		512,327
+[END]	
+[START]
+FrameFilePath	.\Frame\Shop\Shop_Popup_Buy1.rfi
+FramePosition	-128,-96
+FrameSize		1280,960
+[END]	
+[START]
+FrameFilePath	.\Frame\EXItem_Popup\EXItemPopup_Advancement.rfi
+FramePosition	-128,-96
+FrameSize		1280,960
+[END]	

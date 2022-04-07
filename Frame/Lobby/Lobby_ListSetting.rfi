@@ -1,0 +1,36 @@
+[START]
+AssetPath		.\Asset\Lobby\Lobby_ListSetting_Bg_PIC.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_CheckBox_CHK.rai
+AssetPosition	9,9
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_CheckBox_CHK.rai
+AssetPosition	9,28
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_CheckBox_CHK.rai
+AssetPosition	9,47
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_CheckBox_CHK.rai
+AssetPosition	9,66
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_CheckBox_CHK.rai
+AssetPosition	9,85
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_CheckBox_CHK.rai
+AssetPosition	9,104
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_CheckBox_CHK.rai
+AssetPosition	9,123
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_128_BTN.rai
+AssetPosition	9,144
+[END]	

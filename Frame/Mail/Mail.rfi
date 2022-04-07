@@ -1,0 +1,115 @@
+[REVISE_FRAME]
+-128,-96
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Common\PopupBg\Lobby_Blur_Bg_PIC.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_3_PIC.rai
+AssetPosition	238,179
+[END]	
+[START]
+AssetPath		.\Asset\Mail\Mail_PT_PIC.rai
+AssetPosition	530,190
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Close_BTN.rai
+AssetPosition	1009,219
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_DecoLine_Bottom_PIC.rai
+AssetPosition	261,710
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_DecoLine_Top_PIC.rai
+AssetPosition	261,246
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_CheckBox_PlayList_CHK.rai
+AssetPosition	280,231
+[END]	
+[START]
+AssetPath		.\Asset\Mail\Mail_Btn_Del_BTN.rai
+AssetPosition	707,723
+[END]	
+[START]
+AssetPath		.\Asset\Mail\Mail_Btn_Get_BTN.rai
+AssetPosition	870,723
+[END]	
+[START]
+AssetPath		.\Asset\Mail\Mail_Preview_Bg_GRI.rai
+AssetPosition	723,260
+[END]	
+[START]
+AssetPath		.\Asset\Mail\Mail_ListBox_LST.rai
+AssetPosition	269,261
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Prev_BTN.rai
+AssetPosition	434,724
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Next_BTN.rai
+AssetPosition	513,724
+[END]	
+[START]
+AssetPath		.\Asset\Mail\Mail_Text_4_TXT.rai
+AssetPosition	452,725
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotBg_S64_PIC.rai
+AssetPosition	833,296
+[END]	
+[START]
+AssetPath		.\Asset\Mail\Mail_MSGBg_GRI.rai
+AssetPosition	743,543
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_64_PIC.rai
+AssetPosition	836,299
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Tooltip_Line_PIC.rai
+AssetPosition	729,483
+[END]	
+[START]
+AssetPath		.\Asset\Mail\Mail_Text_0_TXT.rai
+AssetPosition	742,397
+[END]	
+[START]
+AssetPath		.\Asset\Mail\Mail_Text_1_TXT.rai
+AssetPosition	870,397
+[END]	
+[START]
+AssetPath		.\Asset\Mail\Mail_Text_0_TXT.rai
+AssetPosition	742,423
+[END]	
+[START]
+AssetPath		.\Asset\Mail\Mail_Text_1_TXT.rai
+AssetPosition	870,423
+[END]	
+[START]
+AssetPath		.\Asset\Mail\Mail_Text_0_TXT.rai
+AssetPosition	742,447
+[END]	
+[START]
+AssetPath		.\Asset\Mail\Mail_Text_1_TXT.rai
+AssetPosition	870,447
+[END]	
+[START]
+AssetPath		.\Asset\Mail\Mail_Text_0_TXT.rai
+AssetPosition	742,500
+[END]	
+[START]
+AssetPath		.\Asset\Mail\Mail_Text_1_TXT.rai
+AssetPosition	870,500
+[END]	
+[START]
+AssetPath		.\Asset\Mail\Mail_Text_0_TXT.rai
+AssetPosition	742,523
+[END]	
+[START]
+AssetPath		.\Asset\Mail\Mail_Text_3_TXT.rai
+AssetPosition	752,551
+[END]	

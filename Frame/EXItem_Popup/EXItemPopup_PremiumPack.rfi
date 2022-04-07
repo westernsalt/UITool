@@ -1,0 +1,19 @@
+[REVISE_FRAME]
+-128,-96
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Common\CM_BlackBg_Popup_PIC.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\PremiumPack\EXItemPopup_PremiumPack_A_PIC.rai
+AssetPosition	287,276
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_CloseBtn_BTN.rai
+AssetPosition	955,291
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_YellowBtn_BTN.rai
+AssetPosition	834,619
+[END]	

@@ -1,0 +1,23 @@
+[START]
+Attribute		13
+Position		0,0
+HitBox			0,0,79,79
+FileSize		0,0,79,79
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\EXItem_Popup\EXItemPopup_Ani_RandomDyeing_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\EXItem_Popup\EXItemPopup_Ani_RandomDyeing_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[ANIMATION START]
+TextureSize		512,512
+ImageStartPos		0,0
+ImageInterval		1,0
+ImageSize		79,79
+ImageNum	3,3
+ImageTotalNum			3
+AniLoop			0
+DelayTime			0.04
+[ANIMATION END]
+[END]	

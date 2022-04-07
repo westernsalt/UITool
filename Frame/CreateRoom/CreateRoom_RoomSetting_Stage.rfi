@@ -1,0 +1,163 @@
+[REVISE_FRAME]
+572,200
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\CreateRoom\CR_DecoLine_Top_Content_PIC.rai
+AssetPosition	1,77
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_DecoLine_Bottom_Content_PIC.rai
+AssetPosition	1,110
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_DecoLine_Bottom_Content_PIC.rai
+AssetPosition	1,260
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_DecoLine_Top_Content_PIC.rai
+AssetPosition	1,275
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_DecoLine_Bottom_Content_PIC.rai
+AssetPosition	1,309
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_DecoLine_Bottom_Content_PIC.rai
+AssetPosition	1,420
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_Load_mapImg_PIC.rai
+AssetPosition	2,121
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_Text_MapName_1_TXT.rai
+AssetPosition	9,91
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_Text_Stage_W100_L_TXT.rai
+AssetPosition	136,121
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_Text_Stage_W72_R_TXT.rai
+AssetPosition	236,120
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_Text_Stage_W72_R_TXT.rai
+AssetPosition	236,139
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_Text_Stage_W100_L_TXT.rai
+AssetPosition	136,139
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_Text_Stage_W120_L_TXT.rai
+AssetPosition	136,159
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_Text_Stage_W50_R_TXT.rai
+AssetPosition	258,159
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_Text_Stage_W50_R_TXT.rai
+AssetPosition	258,178
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_Text_Stage_W120_L_TXT.rai
+AssetPosition	136,178
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_Text_Stage_W170_TXT.rai
+AssetPosition	136,197
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_Text_Stage_W170_TXT.rai
+AssetPosition	136,213
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_Text_Stage_W120_L_Yellow_TXT.rai
+AssetPosition	136,197
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_Text_Stage_W50_R_Yellow_TXT.rai
+AssetPosition	258,197
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_Text_Stage_W120_L_Yellow_TXT.rai
+AssetPosition	136,216
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_Text_Stage_W50_R_Yellow_TXT.rai
+AssetPosition	258,216
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_Text_Reward_TXT.rai
+AssetPosition	9,291
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_Text_Stage_W100_L_TXT.rai
+AssetPosition	1,318
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_Text_Stage_W100_L_TXT.rai
+AssetPosition	1,338
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_Text_Stage_W100_L_TXT.rai
+AssetPosition	1,358
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_Text_Stage_W100_L_TXT.rai
+AssetPosition	1,378
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_Text_Stage_W100_L_TXT.rai
+AssetPosition	1,398
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_Text_Stage_W72_R_1_TXT.rai
+AssetPosition	124,318
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_Text_Stage_W72_R_1_TXT.rai
+AssetPosition	124,338
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_Text_Stage_W72_R_1_TXT.rai
+AssetPosition	124,358
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_Text_Stage_W72_R_1_TXT.rai
+AssetPosition	124,378
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_Text_Stage_W72_R_1_TXT.rai
+AssetPosition	124,398
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_Text_Stage_W72_R_1_TXT.rai
+AssetPosition	236,318
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_Text_Stage_W72_R_1_TXT.rai
+AssetPosition	236,338
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_Text_Stage_W72_R_1_TXT.rai
+AssetPosition	236,358
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_Text_Stage_W72_R_1_TXT.rai
+AssetPosition	236,398
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_Text_Stage_W72_R_1_TXT.rai
+AssetPosition	236,378
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\RankSymbol_S70\CR_Load_RankEmblem_PIC.rai
+AssetPosition	118,0
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_ListBox_ItemReward_LST.rai
+AssetPosition	0,313
+[END]	

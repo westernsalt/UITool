@@ -1,0 +1,13 @@
+[START]
+Attribute		0
+Position		0,0
+HitBox			0,0,18,18
+FileSize		0,0,18,18
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\CreateRoom\CR_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\CreateRoom\CR_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		248,1
+[PICTURE END]
+[END]	

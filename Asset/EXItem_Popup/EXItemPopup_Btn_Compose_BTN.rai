@@ -1,0 +1,39 @@
+[START]
+Attribute		1
+Position		0,0
+HitBox			0,0,152,38
+FileSize		0,0,152,38
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\CM_MainBtn_3.tga
+TexFilePath		TexturesSV\ui\newUI\Common\CM_MainBtn_3.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[BUTTON START]
+NormalTex		306,153
+PressedTex		306,229
+DisableTex		306,267
+HighlightTex	306,191
+Size			152,38
+TextBoxSetApart	0
+IconFront		1
+TextBoxIndent	0
+Attribute		3
+Position		0,0
+HitBox			0,0,152,38
+FileSize		0,0,152,38
+Scale			1,1
+[TEXTBOX START]
+TextBox			0,0,152,38
+TextScaling		1
+SortFlag		36
+RGBA			0,0,0
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		0
+[FONT_BOLD_START]
+0
+[TEXTBOX END]
+[BUTTON END]
+[END]	

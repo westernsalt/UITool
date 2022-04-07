@@ -1,0 +1,27 @@
+[REVISE_FRAME]
+0,0
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\GameRoom\GR_Bg_LMenu_PIC.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Messenger\MSG_Btn_LMenu_BTN.rai
+AssetPosition	3,6
+[END]	
+[START]
+AssetPath		.\Asset\Messenger\MSG_Btn_LMenu_BTN.rai
+AssetPosition	3,27
+[END]	
+[START]
+AssetPath		.\Asset\Messenger\MSG_Btn_LMenu_BTN.rai
+AssetPosition	3,48
+[END]	
+[START]
+AssetPath		.\Asset\Messenger\MSG_Btn_LMenu_BTN.rai
+AssetPosition	3,69
+[END]	
+[START]
+AssetPath		.\Asset\Messenger\MSG_Btn_LMenu_BTN.rai
+AssetPosition	3,90
+[END]	

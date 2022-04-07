@@ -1,0 +1,91 @@
+[REVISE_FRAME]
+14,140
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Refinery\Refinery_Menu_Enchant_BTN.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_Menu_Properties_BTN.rai
+AssetPosition	45,0
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_Menu_EnchantSubMaterial_BTN.rai
+AssetPosition	135,0
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_Menu_Dismantle_BTN.rai
+AssetPosition	315,0
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_Menu_Soket_BTN.rai
+AssetPosition	180,0
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_Menu_Core_BTN.rai
+AssetPosition	90,0
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_Menu_Gem_BTN.rai
+AssetPosition	225,0
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_Menu_MakeItem_BTN.rai
+AssetPosition	270,0
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_SubMenu_Equipment_Armor_BTN.rai
+AssetPosition	67,45
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_SubMenu_Equipment_Helmet_BTN.rai
+AssetPosition	22,45
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_SubMenu_Jewelry_necklace_BTN.rai
+AssetPosition	292,45
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_SubMenu_Jewelry_Ring_BTN.rai
+AssetPosition	337,45
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_SubMenu_Equipment_Wrist_BTN.rai
+AssetPosition	157,45
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_SubMenu_Equipment_Shoulder_BTN.rai
+AssetPosition	112,45
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_SubMenu_Equipment_Sword_BTN.rai
+AssetPosition	202,45
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_SubMenu_Equipment_AttributeStone_BTN.rai
+AssetPosition	472,45
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_SubMenu_Equipment_Bow_BTN.rai
+AssetPosition	247,45
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_SubMenu_MakeItem_Creature_BTN.rai
+AssetPosition	382,45
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_SubMenu_MakeItem_EXItem_BTN.rai
+AssetPosition	427,45
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Shop_SubMenu_Properties_Reproduction_BTN.rai
+AssetPosition	67,45
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Shop_SubMenu_Properties_Creature_BTN.rai
+AssetPosition	112,45
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_SubMenu_Properties_Upgrade_BTN.rai
+AssetPosition	22,45
+[END]	

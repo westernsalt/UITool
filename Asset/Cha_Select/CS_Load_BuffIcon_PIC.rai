@@ -1,0 +1,13 @@
+[START]
+Attribute		0
+Position		0,0
+HitBox			0,0,16,16
+FileSize		0,0,16,16
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Cha_Select\CharacterSelect_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\Cha_Select\CharacterSelect_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[END]	

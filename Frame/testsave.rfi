@@ -1,0 +1,19 @@
+[REVISE_FRAME]
+113,85
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\testtesttesttest_TAB.rai
+AssetPosition	150,0
+[END]	
+[START]
+AssetPath		.\Asset\testtest_BTN.rai
+AssetPosition	0,56
+[END]	
+[START]
+AssetPath		.\Asset\test_TXT.rai
+AssetPosition	309,77
+[END]	
+[START]
+AssetPath		.\Asset\CM_ItemSlot_Num_TXT.rai_TXT.rai
+AssetPosition	349,28
+[END]	

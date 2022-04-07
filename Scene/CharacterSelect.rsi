@@ -1,0 +1,62 @@
+[BACKGROUND]
+BackgroundPath	.\Asset\Common\CM_BlackBg_PIC.rai
+[START]
+FrameFilePath	.\Frame\Common\QuickSlot.rfi
+FramePosition	10,10
+FrameSize		432,54
+[END]	
+[START]
+FrameFilePath	.\Frame\Common\Btn_Red.rfi
+FramePosition	831,714
+FrameSize		152,38
+[END]	
+[START]
+FrameFilePath	.\Frame\Common\Btn_PrevScene.rfi
+FramePosition	16,734
+FrameSize		45,18
+[END]	
+[START]
+FrameFilePath	.\Frame\Cha_Select\CharacterList.rfi
+FramePosition	800,20
+FrameSize		212,575
+[END]	
+[START]
+FrameFilePath	.\Frame\Cha_Select\BuffIcon.rfi
+FramePosition	728,34
+FrameSize		70,34
+[END]	
+[START]
+FrameFilePath	.\Frame\Cha_Select\BuffIcon.rfi
+FramePosition	728,99
+FrameSize		70,34
+[END]	
+[START]
+FrameFilePath	.\Frame\Cha_Select\BuffIcon.rfi
+FramePosition	728,164
+FrameSize		70,34
+[END]	
+[START]
+FrameFilePath	.\Frame\Cha_Select\BuffIcon.rfi
+FramePosition	728,229
+FrameSize		70,34
+[END]	
+[START]
+FrameFilePath	.\Frame\Cha_Select\BuffIcon.rfi
+FramePosition	728,294
+FrameSize		70,34
+[END]	
+[START]
+FrameFilePath	.\Frame\Cha_Select\BuffIcon.rfi
+FramePosition	728,359
+FrameSize		70,34
+[END]	
+[START]
+FrameFilePath	.\Frame\Cha_Select\BuffIcon.rfi
+FramePosition	728,424
+FrameSize		70,34
+[END]	
+[START]
+FrameFilePath	.\Frame\Cha_Select\CS_Popup_ExpirationItem.rfi
+FramePosition	-128,-96
+FrameSize		1280,960
+[END]	

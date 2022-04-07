@@ -1,0 +1,59 @@
+[REVISE_FRAME]
+-128,-96
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Common\PopupBg\Lobby_Blur_Bg_PIC.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_1_PIC.rai
+AssetPosition	393,272
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_Symbol_Basic_PIC.rai
+AssetPosition	613,289
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_OK_BTN.rai
+AssetPosition	564,538
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_DecoLine_Top_PIC.rai
+AssetPosition	420,371
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_DecoLine_Bottom_PIC.rai
+AssetPosition	420,513
+[END]	
+[START]
+AssetPath		.\Asset\Lobby\Lobby_Popup_Text_KillRanking_1_TXT.rai
+AssetPosition	420,398
+[END]	
+[START]
+AssetPath		.\Asset\Lobby\Lobby_Popup_Text_KillRanking_2_TXT.rai
+AssetPosition	420,439
+[END]	
+[START]
+AssetPath		.\Asset\Lobby\Lobby_Popup_Text_KillRanking_3_TXT.rai
+AssetPosition	660,439
+[END]	
+[START]
+AssetPath		.\Asset\Lobby\Lobby_Popup_Text_KillRanking_2_TXT.rai
+AssetPosition	420,468
+[END]	
+[START]
+AssetPath		.\Asset\Lobby\Lobby_Popup_Text_KillRanking_3_TXT.rai
+AssetPosition	660,468
+[END]	
+[START]
+AssetPath		.\Asset\Lobby\Icon_KillRanking\Lobby_Popup_Icon_Up_PIC.rai
+AssetPosition	655,439
+[END]	
+[START]
+AssetPath		.\Asset\Lobby\Icon_KillRanking\Lobby_Popup_Icon_Down_PIC.rai
+AssetPosition	655,439
+[END]	
+[START]
+AssetPath		.\Asset\Lobby\Icon_KillRanking\Lobby_Popup_Icon_Equal_PIC.rai
+AssetPosition	655,439
+[END]	

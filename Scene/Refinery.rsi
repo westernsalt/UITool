@@ -1,0 +1,82 @@
+[BACKGROUND]
+BackgroundPath	.\Asset\Common\CM_MainBg_PIC.rai
+[START]
+FrameFilePath	.\Frame\Common\CM_Main_TopMenu.rfi
+FramePosition	14,15
+FrameSize		994,83
+[END]	
+[START]
+FrameFilePath	.\Frame\Common\CM_Main_Bottom.rfi
+FramePosition	0,736
+FrameSize		1024,32
+[END]	
+[START]
+FrameFilePath	.\Frame\Common\CM_Megaphone.rfi
+FramePosition	19,718
+FrameSize		815,20
+[END]	
+[START]
+FrameFilePath	.\Frame\Common\CM_Notice.rfi
+FramePosition	0,110
+FrameSize		500,15
+[END]	
+[START]
+FrameFilePath	.\Frame\Common\CM_Inventory_ItemList.rfi
+FramePosition	668,170
+FrameSize		348,513
+[END]	
+[START]
+FrameFilePath	.\Frame\Refinery\Refinery_Menu.rfi
+FramePosition	15,141
+FrameSize		517,70
+[END]	
+[START]
+FrameFilePath	.\Frame\Refinery\Refinery_Shop_ItemList.rfi
+FramePosition	12,217
+FrameSize		645,427
+[END]	
+[START]
+FrameFilePath	.\Frame\Refinery\Refinery_CreatureFusion.rfi
+FramePosition	138,234
+FrameSize		383,452
+[END]	
+[START]
+FrameFilePath	.\Frame\Refinery\REfinery_Enchant.rfi
+FramePosition	28,217
+FrameSize		611,493
+[END]	
+[START]
+FrameFilePath	.\Frame\Refinery\Refinery_JewelSoket.rfi
+FramePosition	24,223
+FrameSize		611,482
+[END]	
+[START]
+FrameFilePath	.\Frame\Refinery\Refinery_MakeItem.rfi
+FramePosition	16,217
+FrameSize		646,427
+[END]	
+[START]
+FrameFilePath	.\Frame\Refinery\Refinery_Decomposition.rfi
+FramePosition	17,210
+FrameSize		645,478
+[END]	
+[START]
+FrameFilePath	.\Frame\Refinery\Refinery_Upgrade.rfi
+FramePosition	122,180
+FrameSize		412,505
+[END]	
+[START]
+FrameFilePath	.\Frame\Refinery\Refinery_Recycle.rfi
+FramePosition	124,232
+FrameSize		410,403
+[END]	
+[START]
+FrameFilePath	.\Frame\Refinery\Refinery_Popup_Success.rfi
+FramePosition	-128,-96
+FrameSize		1280,960
+[END]	
+[START]
+FrameFilePath	.\Frame\Refinery\Refinery_Popup_Fail.rfi
+FramePosition	-128,-96
+FrameSize		1280,960
+[END]	

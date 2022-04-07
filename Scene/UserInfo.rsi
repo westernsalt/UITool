@@ -1,0 +1,17 @@
+[BACKGROUND]
+BackgroundPath	.\Asset\Common\CM_BlackBg_Popup_PIC.rai
+[START]
+FrameFilePath	.\Frame\UserInfo\UserInfo.rfi
+FramePosition	115,129
+FrameSize		401,512
+[END]	
+[START]
+FrameFilePath	.\Frame\UserInfo\UserInfo_MA.rfi
+FramePosition	510,129
+FrameSize		401,512
+[END]	
+[START]
+FrameFilePath	.\Frame\UserInfo\UserInfo.rfi
+FramePosition	312,129
+FrameSize		401,512
+[END]	

@@ -1,0 +1,39 @@
+[START]
+Attribute		1
+Position		0,0
+HitBox			0,0,165,32
+FileSize		0,0,165,32
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Event\Event_LoginGage_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\Event\Event_LoginGage_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[BUTTON START]
+NormalTex		0,393
+PressedTex		0,457
+DisableTex		165,393
+HighlightTex	0,425
+Size			165,32
+TextBoxSetApart	0
+IconFront		1
+TextBoxIndent	0
+Attribute		3
+Position		0,0
+HitBox			0,0,165,32
+FileSize		0,0,165,32
+Scale			1,1
+[TEXTBOX START]
+TextBox			0,0,165,32
+TextScaling		1
+SortFlag		37
+RGBA			255,255,255
+DisableRGB		113,113,113
+Indent			0,0
+DefaultShow		1
+[FONT_BOLD_START]
+1
+[TEXTBOX END]
+[BUTTON END]
+[END]	

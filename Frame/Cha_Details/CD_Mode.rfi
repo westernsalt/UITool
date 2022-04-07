@@ -1,0 +1,99 @@
+[REVISE_FRAME]
+357,339
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Cha_Details\CD_InfoBg_PIC.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Details\CD_Text_W210_L_TXT.rai
+AssetPosition	13,11
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Details\CD_Text_W210_R_TXT.rai
+AssetPosition	11,33
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Details\CD_InfoBg_PIC.rai
+AssetPosition	238,0
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Details\CD_Text_W210_L_TXT.rai
+AssetPosition	248,11
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Details\CD_Text_W210_R_TXT.rai
+AssetPosition	248,33
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Details\CD_InfoBg_PIC.rai
+AssetPosition	0,64
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Details\CD_Text_W210_L_TXT.rai
+AssetPosition	11,75
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Details\CD_Text_W210_R_TXT.rai
+AssetPosition	11,97
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Details\CD_InfoBg_PIC.rai
+AssetPosition	238,64
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Details\CD_Text_W210_L_TXT.rai
+AssetPosition	248,75
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Details\CD_Text_W210_R_TXT.rai
+AssetPosition	248,97
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Details\CD_InfoBg_PIC.rai
+AssetPosition	0,129
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Details\CD_Text_W210_L_TXT.rai
+AssetPosition	11,140
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Details\CD_Text_W210_R_TXT.rai
+AssetPosition	11,162
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Details\CD_InfoBg_PIC.rai
+AssetPosition	238,129
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Details\CD_Text_W210_L_TXT.rai
+AssetPosition	248,140
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Details\CD_Text_W210_R_TXT.rai
+AssetPosition	248,162
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Details\CD_InfoBg_PIC.rai
+AssetPosition	0,193
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Details\CD_Text_W210_L_TXT.rai
+AssetPosition	11,204
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Details\CD_Text_W210_R_TXT.rai
+AssetPosition	11,226
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Details\CD_InfoBg_PIC.rai
+AssetPosition	238,193
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Details\CD_Text_W210_L_TXT.rai
+AssetPosition	248,204
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Details\CD_Text_W210_R_TXT.rai
+AssetPosition	248,226
+[END]	

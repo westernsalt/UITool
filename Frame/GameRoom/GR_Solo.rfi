@@ -1,0 +1,15 @@
+[REVISE_FRAME]
+80,106
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\GameRoom\GR_Title_RoomType_Solo_PIC.rai
+AssetPosition	176,0
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_ListBox_ChaSlot_Stage_LST.rai
+AssetPosition	434,66
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_ListBox_ChaSlot_Stage_LST.rai
+AssetPosition	0,66
+[END]	

@@ -1,0 +1,39 @@
+[REVISE_FRAME]
+-128,-96
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Common\PopupBg\Lobby_Blur_Bg_PIC.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_3_PIC.rai
+AssetPosition	238,179
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_PT_CreateRoom_PIC.rai
+AssetPosition	530,190
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Close_BTN.rai
+AssetPosition	1009,219
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_Btn_Stage_BTN.rai
+AssetPosition	254,253
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_Btn_Battle_BTN.rai
+AssetPosition	448,253
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_Btn_ClanWar_BTN.rai
+AssetPosition	641,253
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_Btn_Proleague_BTN.rai
+AssetPosition	835,253
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_Text_Red_TXT.rai
+AssetPosition	843,726
+[END]	

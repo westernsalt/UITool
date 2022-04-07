@@ -1,0 +1,31 @@
+[START]
+Attribute		4
+Position		0,0
+HitBox			0,0,387,18
+FileSize		0,0,387,18
+Scale			1,1
+[TEXTBOX START]
+TextBox			4,0,387,18
+TextScaling		1
+SortFlag		36
+RGBA			209,209,209
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		1
+[TEXTBOX END]
+[INPUTTEXT START]
+PasswordType	0
+Interval		4
+Attribute		0
+Position		0,0
+HitBox			0,0,387,18
+FileSize		0,0,387,18
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\GameRoom\GameRoom_Texture_1.tga
+TexFilePath		TexturesSV\ui\newUI\GameRoom\GameRoom_Texture_1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		1,406
+[PICTURE END]
+[INPUTTEXT END]
+[END]	

@@ -1,0 +1,119 @@
+[REVISE_FRAME]
+-128,-97
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Common\PopupBg\Inven_Blur_Bg_PIC.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_3_PIC.rai
+AssetPosition	238,180
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_Dyeing_DecoLine_Top_PIC.rai
+AssetPosition	736,273
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\ExItemPopup_Dyeing_DecoLine_Bottom_PIC.rai
+AssetPosition	736,451
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_Dyeing_DecoLine_Top_PIC.rai
+AssetPosition	736,478
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\ExItemPopup_Dyeing_DecoLine_Bottom_PIC.rai
+AssetPosition	736,683
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_Dyeing_Pt_PIC.rai
+AssetPosition	530,191
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Close_BTN.rai
+AssetPosition	1009,220
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_Apply_BTN.rai
+AssetPosition	798,722
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_Btn_RandomDyeing_BTN.rai
+AssetPosition	720,722
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_Apply_BTN.rai
+AssetPosition	875,722
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotBg_BTN.rai
+AssetPosition	761,295
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotBg_BTN.rai
+AssetPosition	841,295
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotBg_BTN.rai
+AssetPosition	919,295
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotBg_BTN.rai
+AssetPosition	761,373
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotBg_BTN.rai
+AssetPosition	841,373
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotBg_BTN.rai
+AssetPosition	919,373
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Slot_Equip_Helmet_PIC.rai
+AssetPosition	768,303
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Slot_Equip_Armor_PIC.rai
+AssetPosition	849,303
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Slot_Equip_Shoulder_PIC.rai
+AssetPosition	927,303
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Slot_Equip_Wrist_PIC.rai
+AssetPosition	768,381
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Slot_EquipIcon_Weapon_L\Inven_Slot_Equip_Archer_L_PIC.rai
+AssetPosition	849,381
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Slot_EquipIcon_Weapon_R\Inven_Slot_Equip_Archer_R_PIC.rai
+AssetPosition	927,381
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_Dyeing_ColorPalette_PIC.rai
+AssetPosition	736,497
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_Dyeing_Pick_PIC.rai
+AssetPosition	736,497
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_Dyeing_MyDye_Bg_PIC.rai
+AssetPosition	771,687
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_Dyeing_MyDye_Text_TXT.rai
+AssetPosition	815,695
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_Ani_Effect_1_IMG.rai
+AssetPosition	709,469
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_Ani_Effect_2_IMG.rai
+AssetPosition	698,458
+[END]	

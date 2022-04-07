@@ -1,0 +1,120 @@
+[START]
+Attribute		5
+Position		0,0
+HitBox			0,0,348,30
+FileSize		0,0,348,30
+Scale			1,1
+[LISTITEM START]
+[LISTITEM]
+Attribute		1
+Position		0,0
+HitBox			0,0,348,30
+FileSize		0,0,348,30
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Server\ServerSelect_Texture1.tga
+TexFilePath		TexturesSV\ui\newUI\Server\ServerSelect_Texture1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[BUTTON START]
+NormalTex		3,478
+PressedTex		3,36
+DisableTex		3,478
+HighlightTex	3,3
+Size			348,30
+TextBoxSetApart	0
+IconFront		1
+TextBoxIndent	0
+Attribute		3
+Position		0,0
+HitBox			0,0,348,30
+FileSize		0,0,348,30
+Scale			1,1
+[TEXTBOX START]
+TextBox			0,0,348,30
+TextScaling		1
+SortFlag		36
+RGBA			0,0,0
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		0
+[TEXTBOX END]
+[BUTTON END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		3
+Position		21,5
+HitBox			21,5,185,25
+FileSize		0,0,164,20
+Scale			1,1
+[TEXTBOX START]
+TextBox			21,5,185,25
+TextScaling		1
+SortFlag		36
+RGBA			255,255,255
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		1
+[TEXTBOX END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		3
+Position		203,5
+HitBox			203,5,269,25
+FileSize		0,0,66,20
+Scale			1,1
+[TEXTBOX START]
+TextBox			203,5,269,25
+TextScaling		1
+SortFlag		37
+RGBA			255,255,255
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		1
+[TEXTBOX END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		3
+Position		273,5
+HitBox			273,5,339,25
+FileSize		0,0,66,20
+Scale			1,1
+[TEXTBOX START]
+TextBox			273,5,339,25
+TextScaling		1
+SortFlag		37
+RGBA			255,255,255
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		1
+[TEXTBOX END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		0,0
+HitBox			0,0,0,0
+FileSize		0,0,0,0
+Scale			0,0
+[PICTURE START]
+FilePath		
+TexFilePath		
+FolderPath		
+StartPos		0,0
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		0,0
+HitBox			0,0,0,0
+FileSize		0,0,0,0
+Scale			0,0
+[PICTURE START]
+FilePath		
+TexFilePath		
+FolderPath		
+StartPos		0,0
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM COMPLETE]
+[END]	

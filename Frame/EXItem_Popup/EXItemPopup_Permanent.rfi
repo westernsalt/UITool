@@ -1,0 +1,63 @@
+[REVISE_FRAME]
+-128,-96
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Common\PopupBg\Inven_Blur_Bg_PIC.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_1_PIC.rai
+AssetPosition	393,272
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_Effect_Permanent_Bg_PIC.rai
+AssetPosition	567,366
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_Yes_BTN.rai
+AssetPosition	462,538
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_No_BTN.rai
+AssetPosition	672,538
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_Symbol_Compose_PIC.rai
+AssetPosition	613,289
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotBg_S64_BTN.rai
+AssetPosition	607,419
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_64_PIC.rai
+AssetPosition	610,422
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_2_TXT.rai
+AssetPosition	413,362
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Coin_Cash_PIC.rai
+AssetPosition	614,514
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Coin_Gold_PIC.rai
+AssetPosition	614,514
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_Permanent_Text_Cash_TXT.rai
+AssetPosition	638,514
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_Permanent_Text_Gold_TXT.rai
+AssetPosition	638,514
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_Ani_Effect_Permanent_IMG.rai
+AssetPosition	514,330
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_Ani_Effect_Common_IMG.rai
+AssetPosition	514,330
+[END]	

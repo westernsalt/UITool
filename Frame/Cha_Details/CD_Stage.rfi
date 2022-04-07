@@ -1,0 +1,63 @@
+[REVISE_FRAME]
+357,339
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Cha_Details\CD_RankBg_PIC.rai
+AssetPosition	177,0
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Details\CD_RankBg_PIC.rai
+AssetPosition	0,130
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Details\CD_RankBg_PIC.rai
+AssetPosition	119,130
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Details\CD_RankBg_PIC.rai
+AssetPosition	238,130
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Details\CD_RankBg_PIC.rai
+AssetPosition	357,130
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Details\CD_RankSymbol_S_PIC.rai
+AssetPosition	204,11
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Details\CD_RankSymbol_A_PIC.rai
+AssetPosition	27,145
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Details\CD_RankSymbol_B_PIC.rai
+AssetPosition	146,145
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Details\CD_RankSymbol_C_PIC.rai
+AssetPosition	265,145
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Details\CD_RankSymbol_D_PIC.rai
+AssetPosition	384,145
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Details\CD_Text_W111_TXT.rai
+AssetPosition	178,89
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Details\CD_Text_W111_TXT.rai
+AssetPosition	1,222
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Details\CD_Text_W111_TXT.rai
+AssetPosition	120,222
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Details\CD_Text_W111_TXT.rai
+AssetPosition	239,222
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Details\CD_Text_W111_TXT.rai
+AssetPosition	358,222
+[END]	

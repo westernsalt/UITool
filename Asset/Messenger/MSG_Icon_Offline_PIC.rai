@@ -1,0 +1,13 @@
+[START]
+Attribute		0
+Position		0,0
+HitBox			0,0,9,9
+FileSize		0,0,9,9
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Messenger\MSG_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\Messenger\MSG_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		501,41
+[PICTURE END]
+[END]	

@@ -1,0 +1,156 @@
+[START]
+AssetPath		.\Asset\Inventory\Inven_EquipSlot_BTN.rai
+AssetPosition	0,49
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_EquipSlot_BTN.rai
+AssetPosition	0,124
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_EquipSlot_BTN.rai
+AssetPosition	0,199
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_EquipSlot_BTN.rai
+AssetPosition	0,274
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_EquipSlot_BTN.rai
+AssetPosition	0,349
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_EquipSlot_BTN.rai
+AssetPosition	0,424
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_EquipSlot_BTN.rai
+AssetPosition	374,49
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_EquipSlot_BTN.rai
+AssetPosition	374,124
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_EquipSlot_BTN.rai
+AssetPosition	374,199
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_EquipSlot_BTN.rai
+AssetPosition	374,274
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_EquipSlot_BTN.rai
+AssetPosition	374,349
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_EquipSlot_BTN.rai
+AssetPosition	374,424
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_CashSlot_BTN.rai
+AssetPosition	67,53
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_CashSlot_BTN.rai
+AssetPosition	67,128
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_CashSlot_BTN.rai
+AssetPosition	315,53
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_CreatureSlot_BTN.rai
+AssetPosition	147,0
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_CreatureSlot_BTN.rai
+AssetPosition	199,0
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_CreatureSlot_BTN.rai
+AssetPosition	250,0
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Slot_Equip_Helmet_PIC.rai
+AssetPosition	4,53
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Slot_Equip_Armor_PIC.rai
+AssetPosition	4,128
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Slot_Equip_Shoulder_PIC.rai
+AssetPosition	4,203
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Slot_Equip_Wrist_PIC.rai
+AssetPosition	4,278
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Slot_EquipIcon_Weapon_L\Inven_Slot_Equip_Archer_L_PIC.rai
+AssetPosition	4,353
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Slot_Equip_Bead_PIC.rai
+AssetPosition	4,428
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Slot_Equip_Necklace_PIC.rai
+AssetPosition	378,53
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Slot_Equip_Ring_PIC.rai
+AssetPosition	378,128
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Slot_Equip_Ring_PIC.rai
+AssetPosition	378,203
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Slot_Equip_Ring_PIC.rai
+AssetPosition	378,278
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Slot_EquipIcon_Weapon_R\Inven_Slot_Equip_Archer_R_PIC.rai
+AssetPosition	378,353
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Slot_Equip_AttributeStone_PIC.rai
+AssetPosition	378,428
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Slot_Equip_Cash_Body_PIC.rai
+AssetPosition	72,58
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Slot_Equip_Cash_Cloak_PIC.rai
+AssetPosition	320,58
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Slot_Equip_Cash_Head_PIC.rai
+AssetPosition	72,133
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Slot_CreatureIcon_PIC.rai
+AssetPosition	153,5
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Slot_CreatureIcon_PIC.rai
+AssetPosition	204,5
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Slot_CreatureIcon_PIC.rai
+AssetPosition	255,5
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_CreatureSlot_Deco_PIC.rai
+AssetPosition	147,0
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_CreatureSlot_Deco_PIC.rai
+AssetPosition	199,0
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_CreatureSlot_Deco_PIC.rai
+AssetPosition	250,0
+[END]	

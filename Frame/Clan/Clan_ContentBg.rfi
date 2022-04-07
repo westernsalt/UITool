@@ -1,0 +1,47 @@
+[REVISE_FRAME]
+509,159
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Clan\Clan_ListBoxBg_PIC.rai
+AssetPosition	0,47
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_DecoLine_Top_L_PIC.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_DecoLine_Bottom_L_PIC.rai
+AssetPosition	0,46
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_DecoLine_Bottom_L_PIC.rai
+AssetPosition	0,502
+[END]	
+[START]
+AssetPath		.\Asset\Clan\Clan_Btn_ClanShop_BTN.rai
+AssetPosition	471,12
+[END]	
+[START]
+AssetPath		.\Asset\Clan\Clan_TabBtn_BTN.rai
+AssetPosition	0,14
+[END]	
+[START]
+AssetPath		.\Asset\Clan\Clan_TabBtn_BTN.rai
+AssetPosition	105,14
+[END]	
+[START]
+AssetPath		.\Asset\Clan\Clan_TabBtn_BTN.rai
+AssetPosition	210,14
+[END]	
+[START]
+AssetPath		.\Asset\Clan\Clan_TabBtn_BTN.rai
+AssetPosition	315,14
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_TipIcon_PIC.rai
+AssetPosition	10,21
+[END]	
+[START]
+AssetPath		.\Asset\Clan\Clan_Text_W460_TXT.rai
+AssetPosition	29,21
+[END]	

@@ -1,0 +1,27 @@
+[REVISE_FRAME]
+334,216
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Event\Event_Attendance_PIC.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Event\Event_Attendance_ListBox_LST.rai
+AssetPosition	17,131
+[END]	
+[START]
+AssetPath		.\Asset\Event\Event_Text_W505_TXT.rai
+AssetPosition	3,71
+[END]	
+[START]
+AssetPath		.\Asset\Event\Event_Text_W187_TXT.rai
+AssetPosition	17,104
+[END]	
+[START]
+AssetPath		.\Asset\Event\Event_Text_W464_TXT.rai
+AssetPosition	29,367
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_TipIcon_PIC.rai
+AssetPosition	9,369
+[END]	

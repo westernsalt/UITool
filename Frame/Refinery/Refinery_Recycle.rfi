@@ -1,0 +1,51 @@
+[REVISE_FRAME]
+124,219
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Refinery\Refinery_Recycle_MagicCircle_PIC.rai
+AssetPosition	14,13
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_Upgrade_DecoLine_Top_PIC.rai
+AssetPosition	0,263
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_Upgrade_DecoLine_Bottom_PIC.rai
+AssetPosition	0,329
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotBg_S64_BTN.rai
+AssetPosition	170,93
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_64_PIC.rai
+AssetPosition	173,96
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_Upgrade_Text_0_TXT.rai
+AssetPosition	73,281
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_Upgrade_Text_2_TXT.rai
+AssetPosition	248,281
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_Upgrade_Text_0_TXT.rai
+AssetPosition	73,301
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_Upgrade_Text_3_TXT.rai
+AssetPosition	248,301
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Coin_Gold_PIC.rai
+AssetPosition	320,301
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_Btn_Start_BTN.rai
+AssetPosition	131,365
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_Recycle_Ani_IMG.rai
+AssetPosition	73,0
+[END]	

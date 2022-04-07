@@ -1,0 +1,13 @@
+[START]
+Attribute		0
+Position		0,0
+HitBox			0,0,15,16
+FileSize		0,0,15,16
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Shop\Shop_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\Shop\Shop_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		489,28
+[PICTURE END]
+[END]	

@@ -1,0 +1,51 @@
+[REVISE_FRAME]
+-128,-96
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Common\PopupBg\Inven_Blur_Bg_PIC.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_1_PIC.rai
+AssetPosition	393,272
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_DecoLine_Top_PIC.rai
+AssetPosition	420,409
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_DecoLine_Bottom_PIC.rai
+AssetPosition	420,502
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_Yes_BTN.rai
+AssetPosition	462,538
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_No_BTN.rai
+AssetPosition	672,538
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_2_TXT.rai
+AssetPosition	412,372
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_Symbol_Basic_PIC.rai
+AssetPosition	613,289
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_TextInput_Num_INP.rai
+AssetPosition	649,462
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_PotionDivision_Text_Yellow_R_TXT.rai
+AssetPosition	419,437
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_PotionDivision_Text_Yellow_L_TXT.rai
+AssetPosition	650,437
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_PotionDivision_Text_Gray_R_TXT.rai
+AssetPosition	419,467
+[END]	

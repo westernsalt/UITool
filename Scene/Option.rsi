@@ -1,0 +1,20 @@
+[START]
+FrameFilePath	.\Frame\Option\Option.rfi
+FramePosition	-129,-96
+FrameSize		1280,960
+[END]	
+[START]
+FrameFilePath	.\Frame\Option\Option_System.rfi
+FramePosition	349,217
+FrameSize		481,312
+[END]	
+[START]
+FrameFilePath	.\Frame\Option\Option_Control.rfi
+FramePosition	349,217
+FrameSize		480,314
+[END]	
+[START]
+FrameFilePath	.\Frame\Option\Option_Mecro.rfi
+FramePosition	349,217
+FrameSize		480,275
+[END]	

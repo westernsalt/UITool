@@ -1,0 +1,11 @@
+[REVISE_FRAME]
+348,213
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\MasterApprentice\MA_ListBox_MARequest_LST.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\MasterApprentice\MA_Text_W479_TXT.rai
+AssetPosition	2,164
+[END]	

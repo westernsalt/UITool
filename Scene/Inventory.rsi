@@ -1,0 +1,52 @@
+[BACKGROUND]
+BackgroundPath	.\Asset\Common\CM_MainBg_PIC.rai
+[START]
+FrameFilePath	.\Frame\Common\CM_Main_TopMenu.rfi
+FramePosition	14,15
+FrameSize		994,83
+[END]	
+[START]
+FrameFilePath	.\Frame\Common\CM_Main_Bottom.rfi
+FramePosition	0,736
+FrameSize		1024,32
+[END]	
+[START]
+FrameFilePath	.\Frame\Common\CM_Inventory_ItemList.rfi
+FramePosition	668,170
+FrameSize		348,474
+[END]	
+[START]
+FrameFilePath	.\Frame\Common\QuickSlot.rfi
+FramePosition	15,652
+FrameSize		432,54
+[END]	
+[START]
+FrameFilePath	.\Frame\Common\CM_Megaphone.rfi
+FramePosition	3,710
+FrameSize		815,20
+[END]	
+[START]
+FrameFilePath	.\Frame\Inventory\Inven_Equip_Slot.rfi
+FramePosition	16,151
+FrameSize		434,484
+[END]	
+[START]
+FrameFilePath	.\Frame\Common\CM_Notice.rfi
+FramePosition	0,110
+FrameSize		500,15
+[END]	
+[START]
+FrameFilePath	.\Frame\Inventory\Inven_ChaStats.rfi
+FramePosition	473,289
+FrameSize		188,345
+[END]	
+[START]
+FrameFilePath	.\Frame\Inventory\Inven_ChaInfo.rfi
+FramePosition	472,157
+FrameSize		180,116
+[END]	
+[START]
+FrameFilePath	.\Frame\Inventory\Inven_Popup_Stats.rfi
+FramePosition	-128,-96
+FrameSize		1280,960
+[END]	

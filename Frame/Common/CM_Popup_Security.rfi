@@ -1,0 +1,79 @@
+[REVISE_FRAME]
+-128,-96
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Common\PopupBg\Lobby_Blur_Bg_PIC.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_1_PIC.rai
+AssetPosition	393,272
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_OK_BTN.rai
+AssetPosition	462,538
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_Cancel_BTN.rai
+AssetPosition	672,538
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_Symbol_InventoryLock_PIC.rai
+AssetPosition	613,289
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_TextInput_Password_INP.rai
+AssetPosition	517,397
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_2_TXT.rai
+AssetPosition	412,371
+[END]	
+[START]
+AssetPath		.\Asset\Common\Security_NumBtn\CM_Security_Num_0_BTN.rai
+AssetPosition	460,434
+[END]	
+[START]
+AssetPath		.\Asset\Common\Security_NumBtn\CM_Security_Num_1_BTN.rai
+AssetPosition	521,434
+[END]	
+[START]
+AssetPath		.\Asset\Common\Security_NumBtn\CM_Security_Num_2_BTN.rai
+AssetPosition	582,434
+[END]	
+[START]
+AssetPath		.\Asset\Common\Security_NumBtn\CM_Security_Num_3_BTN.rai
+AssetPosition	643,434
+[END]	
+[START]
+AssetPath		.\Asset\Common\Security_NumBtn\CM_Security_Num_4_BTN.rai
+AssetPosition	704,434
+[END]	
+[START]
+AssetPath		.\Asset\Common\Security_NumBtn\CM_Security_Num_5_BTN.rai
+AssetPosition	460,480
+[END]	
+[START]
+AssetPath		.\Asset\Common\Security_NumBtn\CM_Security_Num_6_BTN.rai
+AssetPosition	521,480
+[END]	
+[START]
+AssetPath		.\Asset\Common\Security_NumBtn\CM_Security_Num_7_BTN.rai
+AssetPosition	582,480
+[END]	
+[START]
+AssetPath		.\Asset\Common\Security_NumBtn\CM_Security_Num_8_BTN.rai
+AssetPosition	643,480
+[END]	
+[START]
+AssetPath		.\Asset\Common\Security_NumBtn\CM_Security_Num_9_BTN.rai
+AssetPosition	704,480
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Security_Undo_BTN.rai
+AssetPosition	768,434
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Security_Release_BTN.rai
+AssetPosition	406,331
+[END]	

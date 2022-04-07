@@ -1,0 +1,44 @@
+[START]
+AssetPath		.\Asset\Common\CM_Tooltip_Line_PIC.rai
+AssetPosition	1,6
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Tooltip_Text_Set_L_TXT.rai
+AssetPosition	12,13
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Tooltip_Text_Set_L_TXT.rai
+AssetPosition	12,26
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Tooltip_Text_Set_L_TXT.rai
+AssetPosition	12,39
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Tooltip_Text_Set_L_TXT.rai
+AssetPosition	12,52
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Tooltip_Text_Set_L_TXT.rai
+AssetPosition	12,65
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Tooltip_Text_Num_R_TXT.rai
+AssetPosition	219,13
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Tooltip_Text_Num_R_TXT.rai
+AssetPosition	219,26
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Tooltip_Text_Num_R_TXT.rai
+AssetPosition	219,39
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Tooltip_Text_Num_R_TXT.rai
+AssetPosition	219,52
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Tooltip_Text_Num_R_TXT.rai
+AssetPosition	219,65
+[END]	

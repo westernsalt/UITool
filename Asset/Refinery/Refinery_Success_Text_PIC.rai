@@ -1,0 +1,13 @@
+[START]
+Attribute		0
+Position		0,0
+HitBox			0,0,210,51
+FileSize		0,0,210,51
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Refinery\Refinery_Ani_Success.tga
+TexFilePath		TexturesSV\ui\newUI\Refinery\Refinery_Ani_Success.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		256,768
+[PICTURE END]
+[END]	

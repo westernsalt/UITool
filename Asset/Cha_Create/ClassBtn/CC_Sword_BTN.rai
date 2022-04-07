@@ -1,0 +1,39 @@
+[START]
+Attribute		1
+Position		0,0
+HitBox			0,0,212,52
+FileSize		0,0,212,52
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Cha_Create\ChatacterCreate_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\Cha_Create\ChatacterCreate_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[BUTTON START]
+NormalTex		1,1
+PressedTex		1,313
+DisableTex		1,1
+HighlightTex	213,1
+Size			212,52
+TextBoxSetApart	0
+IconFront		1
+TextBoxIndent	0
+Attribute		3
+Position		0,0
+HitBox			0,0,212,52
+FileSize		0,0,212,52
+Scale			1,1
+[TEXTBOX START]
+TextBox			0,0,212,52
+TextScaling		1.5
+SortFlag		36
+RGBA			209,209,209
+DisableRGB		133,133,133
+Indent			59,0
+DefaultShow		1
+[FONT_BOLD_START]
+1
+[TEXTBOX END]
+[BUTTON END]
+[END]	

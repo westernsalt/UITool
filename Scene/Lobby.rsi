@@ -1,0 +1,87 @@
+[BACKGROUND]
+BackgroundPath	.\Asset\Common\CM_MainBg_PIC.rai
+[START]
+FrameFilePath	.\Frame\Common\CM_Main_TopMenu.rfi
+FramePosition	14,15
+FrameSize		994,83
+[END]	
+[START]
+FrameFilePath	.\Frame\Common\CM_Main_Bottom.rfi
+FramePosition	0,736
+FrameSize		1024,32
+[END]	
+[START]
+FrameFilePath	.\Frame\Lobby\Lobby_Event.rfi
+FramePosition	1,146
+FrameSize		48,113
+[END]	
+[START]
+FrameFilePath	.\Frame\Common\CM_Tooltip_IconName.rfi
+FramePosition	266,90
+FrameSize		305,20
+[END]	
+[START]
+FrameFilePath	.\Frame\Lobby\Lobby_ChaInfo.rfi
+FramePosition	154,128
+FrameSize		190,67
+[END]	
+[START]
+FrameFilePath	.\Frame\Lobby\Lobby_RoomList.rfi
+FramePosition	495,149
+FrameSize		512,555
+[END]	
+[START]
+FrameFilePath	.\Frame\Lobby\Lobby_QuickStart_ListBox.rfi
+FramePosition	864,531
+FrameSize		134,136
+[END]	
+[START]
+FrameFilePath	.\Frame\Lobby\Lobby_ListSetting.rfi
+FramePosition	861,194
+FrameSize		146,177
+[END]	
+[START]
+FrameFilePath	.\Frame\Common\CM_Megaphone.rfi
+FramePosition	3,710
+FrameSize		815,20
+[END]	
+[START]
+FrameFilePath	.\Frame\Common\CM_Notice.rfi
+FramePosition	0,110
+FrameSize		500,15
+[END]	
+[START]
+FrameFilePath	.\Frame\Lobby\Lobby_Event_Web.rfi
+FramePosition	-128,-96
+FrameSize		1280,960
+[END]	
+[START]
+FrameFilePath	.\Frame\Lobby\Lobby_Popup_InviteRoom.rfi
+FramePosition	-128,-96
+FrameSize		1280,960
+[END]	
+[START]
+FrameFilePath	.\Frame\Lobby\Lobby_Popup_KillRanking.rfi
+FramePosition	-128,-96
+FrameSize		1280,960
+[END]	
+[START]
+FrameFilePath	.\Frame\CreateRoom\CreateRoom.rfi
+FramePosition	-128,-96
+FrameSize		1280,960
+[END]	
+[START]
+FrameFilePath	.\Frame\CreateRoom\CreateRoom_RoomSetting.rfi
+FramePosition	-128,-96
+FrameSize		1280,960
+[END]	
+[START]
+FrameFilePath	.\Frame\CreateRoom\CreateRoom_RoomSetting_Battle.rfi
+FramePosition	572,207
+FrameSize		308,424
+[END]	
+[START]
+FrameFilePath	.\Frame\CreateRoom\CreateRoom_RoomSetting_Stage.rfi
+FramePosition	572,199
+FrameSize		316,421
+[END]	

@@ -1,0 +1,492 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Manager">
+      <UniqueIdentifier>{39608ebd-1f1d-45c7-9d9d-e98837e3d708}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dlg">
+      <UniqueIdentifier>{728cd6fa-16aa-4952-9622-128fee2a0861}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Define">
+      <UniqueIdentifier>{8a3fd1f5-0911-4df9-9d78-5ff8db0da6ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Wnd">
+      <UniqueIdentifier>{c9229181-cb2e-4874-9de7-45ec5d5356dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object">
+      <UniqueIdentifier>{0e18175a-73c1-440b-9570-a84d97664ea2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dlg\AssetEditor">
+      <UniqueIdentifier>{bf7aa7db-7676-4e8f-8fae-eb88fa207f18}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dlg\SceneEditor">
+      <UniqueIdentifier>{a11ae719-dfc6-4286-9471-7d67ba6f38d3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Wnd\AssetEditor">
+      <UniqueIdentifier>{a90d5b1f-0dc5-48cb-bd58-6ac8d696dfb3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Wnd\SceneEditor">
+      <UniqueIdentifier>{bcf80170-2e8b-4c5f-bd7e-d73527803b51}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\BasicAsset">
+      <UniqueIdentifier>{0aad0f57-5c82-41c2-850f-c64c23f187a0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\BaseInterface">
+      <UniqueIdentifier>{e7638786-db35-4134-a740-bbb0c97a2b01}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dlg\AssetEditor\Button">
+      <UniqueIdentifier>{ce3a38c7-bf9e-4253-b488-e8ddecce633f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dlg\AssetEditor\CheckBox">
+      <UniqueIdentifier>{4136aa4c-28d0-4daf-a5e7-d72380e8875e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dlg\AssetEditor\Picture">
+      <UniqueIdentifier>{e726c7ed-a5e5-4d65-bdf0-fd20709f90ec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dlg\AssetEditor\RadioBtn">
+      <UniqueIdentifier>{e7f3d5a4-1412-44f9-8b57-63870fb50205}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dlg\AssetEditor\TextBox">
+      <UniqueIdentifier>{9dd7bce7-6437-4de0-8add-688b06c2ed69}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dlg\PictureWnd">
+      <UniqueIdentifier>{00e714c4-1f92-4b02-add0-f7aa72d123ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dlg\AssetEditor\Slider">
+      <UniqueIdentifier>{94b5ef19-1b9e-444b-9fdd-be5a231d1e30}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dlg\AssetEditor\Scroll">
+      <UniqueIdentifier>{eea42fee-58e4-4e72-b415-035736425b75}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dlg\AssetEditor\ListItem">
+      <UniqueIdentifier>{6d5f766b-82a6-413f-8d23-842d64b2e0a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\AssetBase">
+      <UniqueIdentifier>{5352884a-aaa9-4387-912e-e56133fa0d05}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\GroupButton">
+      <UniqueIdentifier>{f6424660-dd62-4a43-a53a-8127755ea885}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\ListItem">
+      <UniqueIdentifier>{c25b9ab1-79ad-4c8a-8ac2-5a812aab35a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\RadioButton">
+      <UniqueIdentifier>{9046910e-9d1b-4048-a64f-8d7b6887c46d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\Scroll">
+      <UniqueIdentifier>{014eca21-72e5-4a49-825c-8322b117f119}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\Slider">
+      <UniqueIdentifier>{b4a62f0a-4d89-4333-ba6d-c34956d42534}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\TextBox">
+      <UniqueIdentifier>{e1b5efd5-1f83-49d9-85c6-9810201f509a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\Button">
+      <UniqueIdentifier>{0272e183-2dea-4ba7-9157-cc80540140a9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\CheckBox">
+      <UniqueIdentifier>{daa2aa0b-e983-4cce-bf87-4f6f8a6e9311}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dlg\AssetEditor\ListBox">
+      <UniqueIdentifier>{c8f6624f-c6c6-467f-a28c-a2e0ad18bfa7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\ListBox">
+      <UniqueIdentifier>{44dd95d4-dcbb-457c-b8ed-778ec5f49fa2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dlg\AssetEditor\ComboBox">
+      <UniqueIdentifier>{eacacfed-eb02-4d86-bb37-cf63ad18b1ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\ComboBox">
+      <UniqueIdentifier>{5b89dd89-1e9d-4657-bdb5-ec9c3f3fc74f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\InputText">
+      <UniqueIdentifier>{3e109489-1752-4f92-a46c-583361ac5eb5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dlg\AssetEditor\InputText">
+      <UniqueIdentifier>{f7858f17-3c5d-4975-b1a1-4f91ab6c65be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\ProgressBar">
+      <UniqueIdentifier>{6b4da7c6-fa5e-4e1c-bf6b-c9dd4162675d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dlg\AssetEditor\ProgressBar">
+      <UniqueIdentifier>{8d0f6540-8144-4539-813b-6355b6f71dd3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dlg\AssetEditor\ImageAnimation">
+      <UniqueIdentifier>{d8cb0fd7-ecf3-4045-87a1-f8703470c05d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\ImageAnimation">
+      <UniqueIdentifier>{c841fba1-4923-42b3-9d4e-c84a3fe42a8f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\UIFrame">
+      <UniqueIdentifier>{77df8b1f-0920-4971-b4bc-19622f0379d1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\UIScene">
+      <UniqueIdentifier>{4cbc8507-0156-44bb-9eff-149c40241549}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dlg\AssetEditor\TabBtn">
+      <UniqueIdentifier>{bd36299c-3f1e-409f-a2fb-994e095c35f4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\TabButton">
+      <UniqueIdentifier>{f12ed929-c107-4dc4-bac7-113112adc0f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dlg\AssetEditor\ThirdGrid">
+      <UniqueIdentifier>{5263e390-637e-4b8c-8335-cbf4ce80d89f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\ThirdGrid">
+      <UniqueIdentifier>{394a97a2-dd0c-4ff3-ab43-e26b3b5d2475}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+    <None Include="res\UITool.ico">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="ClassDiagram11.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="UITool.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Macro.h">
+      <Filter>Define</Filter>
+    </ClInclude>
+    <ClInclude Include="Extern.h">
+      <Filter>Define</Filter>
+    </ClInclude>
+    <ClInclude Include="DBMgr.h">
+      <Filter>Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="Define.h">
+      <Filter>Define</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjMgr.h">
+      <Filter>Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="AssetSettingDlgBar.h">
+      <Filter>Dlg\AssetEditor</Filter>
+    </ClInclude>
+    <ClInclude Include="AssetEditor.h">
+      <Filter>Wnd\AssetEditor</Filter>
+    </ClInclude>
+    <ClInclude Include="AssetEditorView.h">
+      <Filter>Wnd\AssetEditor</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneEditDlgBar.h">
+      <Filter>Dlg\SceneEditor</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneSettingDlgBar.h">
+      <Filter>Dlg\SceneEditor</Filter>
+    </ClInclude>
+    <ClInclude Include="AssetBase.h">
+      <Filter>Object\AssetBase</Filter>
+    </ClInclude>
+    <ClInclude Include="BasicAsset.h">
+      <Filter>Object\BasicAsset</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>Wnd\SceneEditor</Filter>
+    </ClInclude>
+    <ClInclude Include="MainView.h">
+      <Filter>Wnd\SceneEditor</Filter>
+    </ClInclude>
+    <ClInclude Include="GlobalFunc.h">
+      <Filter>Define</Filter>
+    </ClInclude>
+    <ClInclude Include="BtnBase.h">
+      <Filter>Object\Button</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseInterface.h">
+      <Filter>Object\BaseInterface</Filter>
+    </ClInclude>
+    <ClInclude Include="TextBox.h">
+      <Filter>Object\TextBox</Filter>
+    </ClInclude>
+    <ClInclude Include="PictureWnd.h">
+      <Filter>Wnd\AssetEditor</Filter>
+    </ClInclude>
+    <ClInclude Include="PictureView.h">
+      <Filter>Wnd\AssetEditor</Filter>
+    </ClInclude>
+    <ClInclude Include="CheckBoxBase.h">
+      <Filter>Object\CheckBox</Filter>
+    </ClInclude>
+    <ClInclude Include="RadioBtnBase.h">
+      <Filter>Object\RadioButton</Filter>
+    </ClInclude>
+    <ClInclude Include="GroupButton.h">
+      <Filter>Object\GroupButton</Filter>
+    </ClInclude>
+    <ClInclude Include="SliderBase.h">
+      <Filter>Object\Slider</Filter>
+    </ClInclude>
+    <ClInclude Include="CheckBoxDlgBar.h">
+      <Filter>Dlg\AssetEditor\CheckBox</Filter>
+    </ClInclude>
+    <ClInclude Include="ButtonDlgBar.h">
+      <Filter>Dlg\AssetEditor\Button</Filter>
+    </ClInclude>
+    <ClInclude Include="RadioBtnDlgBar.h">
+      <Filter>Dlg\AssetEditor\RadioBtn</Filter>
+    </ClInclude>
+    <ClInclude Include="TextBoxDlgBar.h">
+      <Filter>Dlg\AssetEditor\TextBox</Filter>
+    </ClInclude>
+    <ClInclude Include="PictureDlgBar.h">
+      <Filter>Dlg\PictureWnd</Filter>
+    </ClInclude>
+    <ClInclude Include="PicPropDlgBar.h">
+      <Filter>Dlg\AssetEditor\Picture</Filter>
+    </ClInclude>
+    <ClInclude Include="SliderDlgBar.h">
+      <Filter>Dlg\AssetEditor\Slider</Filter>
+    </ClInclude>
+    <ClInclude Include="ScrollBase.h">
+      <Filter>Object\Scroll</Filter>
+    </ClInclude>
+    <ClInclude Include="ScrollDlgBar.h">
+      <Filter>Dlg\AssetEditor\Scroll</Filter>
+    </ClInclude>
+    <ClInclude Include="ListItemDlgBar.h">
+      <Filter>Dlg\AssetEditor\ListItem</Filter>
+    </ClInclude>
+    <ClInclude Include="ListItemBase.h">
+      <Filter>Object\ListItem</Filter>
+    </ClInclude>
+    <ClInclude Include="ListBoxDlgBar.h">
+      <Filter>Dlg\AssetEditor\ListBox</Filter>
+    </ClInclude>
+    <ClInclude Include="ListBoxBase.h">
+      <Filter>Object\ListBox</Filter>
+    </ClInclude>
+    <ClInclude Include="ComboboxDlgBar.h">
+      <Filter>Dlg\AssetEditor\ComboBox</Filter>
+    </ClInclude>
+    <ClInclude Include="ComboBoxBase.h">
+      <Filter>Object\ComboBox</Filter>
+    </ClInclude>
+    <ClInclude Include="InputText.h">
+      <Filter>Object\InputText</Filter>
+    </ClInclude>
+    <ClInclude Include="InputTextDlgBar.h">
+      <Filter>Dlg\AssetEditor\InputText</Filter>
+    </ClInclude>
+    <ClInclude Include="ProgressBarBase.h">
+      <Filter>Object\ProgressBar</Filter>
+    </ClInclude>
+    <ClInclude Include="ProgressbarDlgBar.h">
+      <Filter>Dlg\AssetEditor\ProgressBar</Filter>
+    </ClInclude>
+    <ClInclude Include="ImageAnimationBase.h">
+      <Filter>Object\ImageAnimation</Filter>
+    </ClInclude>
+    <ClInclude Include="ImageAnimationDlgbar.h">
+      <Filter>Dlg\AssetEditor\ImageAnimation</Filter>
+    </ClInclude>
+    <ClInclude Include="UIFrame.h">
+      <Filter>Object\UIFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="UIScene.h">
+      <Filter>Object\UIScene</Filter>
+    </ClInclude>
+    <ClInclude Include="TabBtnDlgBar.h">
+      <Filter>Dlg\AssetEditor\TabBtn</Filter>
+    </ClInclude>
+    <ClInclude Include="TabBtnBase.h">
+      <Filter>Object\TabButton</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneAssetPreview.h">
+      <Filter>Wnd\SceneEditor</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneAssetPreviewWnd.h">
+      <Filter>Wnd\SceneEditor</Filter>
+    </ClInclude>
+    <ClInclude Include="ThirdGridDlgBar.h">
+      <Filter>Dlg\AssetEditor\ThirdGrid</Filter>
+    </ClInclude>
+    <ClInclude Include="ThirdGridBase.h">
+      <Filter>Object\ThirdGrid</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="UITool.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DBMgr.cpp">
+      <Filter>Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjMgr.cpp">
+      <Filter>Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="AssetSettingDlgBar.cpp">
+      <Filter>Dlg\AssetEditor</Filter>
+    </ClCompile>
+    <ClCompile Include="AssetEditor.cpp">
+      <Filter>Wnd\AssetEditor</Filter>
+    </ClCompile>
+    <ClCompile Include="AssetEditorView.cpp">
+      <Filter>Wnd\AssetEditor</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneEditDlgBar.cpp">
+      <Filter>Dlg\SceneEditor</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneSettingDlgBar.cpp">
+      <Filter>Dlg\SceneEditor</Filter>
+    </ClCompile>
+    <ClCompile Include="AssetBase.cpp">
+      <Filter>Object\AssetBase</Filter>
+    </ClCompile>
+    <ClCompile Include="BasicAsset.cpp">
+      <Filter>Object\BasicAsset</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>Wnd\SceneEditor</Filter>
+    </ClCompile>
+    <ClCompile Include="MainView.cpp">
+      <Filter>Wnd\SceneEditor</Filter>
+    </ClCompile>
+    <ClCompile Include="BtnBase.cpp">
+      <Filter>Object\Button</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseInterface.cpp">
+      <Filter>Object\BaseInterface</Filter>
+    </ClCompile>
+    <ClCompile Include="TextBox.cpp">
+      <Filter>Object\TextBox</Filter>
+    </ClCompile>
+    <ClCompile Include="PictureWnd.cpp">
+      <Filter>Wnd\AssetEditor</Filter>
+    </ClCompile>
+    <ClCompile Include="PictureView.cpp">
+      <Filter>Wnd\AssetEditor</Filter>
+    </ClCompile>
+    <ClCompile Include="CheckBoxBase.cpp">
+      <Filter>Object\CheckBox</Filter>
+    </ClCompile>
+    <ClCompile Include="RadioBtnBase.cpp">
+      <Filter>Object\RadioButton</Filter>
+    </ClCompile>
+    <ClCompile Include="GroupButton.cpp">
+      <Filter>Object\GroupButton</Filter>
+    </ClCompile>
+    <ClCompile Include="SliderBase.cpp">
+      <Filter>Object\Slider</Filter>
+    </ClCompile>
+    <ClCompile Include="CheckBoxDlgBar.cpp">
+      <Filter>Dlg\AssetEditor\CheckBox</Filter>
+    </ClCompile>
+    <ClCompile Include="ButtonDlgBar.cpp">
+      <Filter>Dlg\AssetEditor\Button</Filter>
+    </ClCompile>
+    <ClCompile Include="RadioBtnDlgBar.cpp">
+      <Filter>Dlg\AssetEditor\RadioBtn</Filter>
+    </ClCompile>
+    <ClCompile Include="TextBoxDlgBar.cpp">
+      <Filter>Dlg\AssetEditor\TextBox</Filter>
+    </ClCompile>
+    <ClCompile Include="PictureDlgBar.cpp">
+      <Filter>Dlg\PictureWnd</Filter>
+    </ClCompile>
+    <ClCompile Include="PicPropDlgBar.cpp">
+      <Filter>Dlg\AssetEditor\Picture</Filter>
+    </ClCompile>
+    <ClCompile Include="SliderDlgBar.cpp">
+      <Filter>Dlg\AssetEditor\Slider</Filter>
+    </ClCompile>
+    <ClCompile Include="ScrollBase.cpp">
+      <Filter>Object\Scroll</Filter>
+    </ClCompile>
+    <ClCompile Include="ScrollDlgBar.cpp">
+      <Filter>Dlg\AssetEditor\Scroll</Filter>
+    </ClCompile>
+    <ClCompile Include="ListItemDlgBar.cpp">
+      <Filter>Dlg\AssetEditor\ListItem</Filter>
+    </ClCompile>
+    <ClCompile Include="ListItemBase.cpp">
+      <Filter>Object\ListItem</Filter>
+    </ClCompile>
+    <ClCompile Include="ListBoxDlgBar.cpp">
+      <Filter>Dlg\AssetEditor\ListBox</Filter>
+    </ClCompile>
+    <ClCompile Include="ListBoxBase.cpp">
+      <Filter>Object\ListBox</Filter>
+    </ClCompile>
+    <ClCompile Include="ComboboxDlgBar.cpp">
+      <Filter>Dlg\AssetEditor\ComboBox</Filter>
+    </ClCompile>
+    <ClCompile Include="ComboBoxBase.cpp">
+      <Filter>Object\ComboBox</Filter>
+    </ClCompile>
+    <ClCompile Include="InputText.cpp">
+      <Filter>Object\InputText</Filter>
+    </ClCompile>
+    <ClCompile Include="InputTextDlgBar.cpp">
+      <Filter>Dlg\AssetEditor\InputText</Filter>
+    </ClCompile>
+    <ClCompile Include="ProgressBarBase.cpp">
+      <Filter>Object\ProgressBar</Filter>
+    </ClCompile>
+    <ClCompile Include="ProgressbarDlgBar.cpp">
+      <Filter>Dlg\AssetEditor\ProgressBar</Filter>
+    </ClCompile>
+    <ClCompile Include="ImageAnimationBase.cpp">
+      <Filter>Object\ImageAnimation</Filter>
+    </ClCompile>
+    <ClCompile Include="ImageAnimationDlgbar.cpp">
+      <Filter>Dlg\AssetEditor\ImageAnimation</Filter>
+    </ClCompile>
+    <ClCompile Include="UIFrame.cpp">
+      <Filter>Object\UIFrame</Filter>
+    </ClCompile>
+    <ClCompile Include="UIScene.cpp">
+      <Filter>Object\UIScene</Filter>
+    </ClCompile>
+    <ClCompile Include="TabBtnDlgBar.cpp">
+      <Filter>Dlg\AssetEditor\TabBtn</Filter>
+    </ClCompile>
+    <ClCompile Include="TabBtnBase.cpp">
+      <Filter>Object\TabButton</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneAssetPreview.cpp">
+      <Filter>Wnd\SceneEditor</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneAssetPreviewWnd.cpp">
+      <Filter>Wnd\SceneEditor</Filter>
+    </ClCompile>
+    <ClCompile Include="ThirdGridDlgBar.cpp">
+      <Filter>Dlg\AssetEditor\ThirdGrid</Filter>
+    </ClCompile>
+    <ClCompile Include="ThirdGridBase.cpp">
+      <Filter>Object\ThirdGrid</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="UITool.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

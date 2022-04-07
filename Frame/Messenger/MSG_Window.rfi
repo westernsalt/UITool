@@ -1,0 +1,67 @@
+[REVISE_FRAME]
+0,0
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Messenger\MSG_Bg_GRI.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Messenger\MSG_Bg_Head_GRI.rai
+AssetPosition	3,3
+[END]	
+[START]
+AssetPath		.\Asset\Messenger\MSG_Bg_Head_GRI.rai
+AssetPosition	3,28
+[END]	
+[START]
+AssetPath		.\Asset\Messenger\MSG_DecoLine_Bottom_PIC.rai
+AssetPosition	5,478
+[END]	
+[START]
+AssetPath		.\Asset\Messenger\MSG_DecoLine_TopMenu_PIC.rai
+AssetPosition	3,98
+[END]	
+[START]
+AssetPath		.\Asset\Messenger\MSG_Btn_Close_BTN.rai
+AssetPosition	194,9
+[END]	
+[START]
+AssetPath		.\Asset\Messenger\MSG_Text_UserName_TXT.rai
+AssetPosition	7,5
+[END]	
+[START]
+AssetPath		.\Asset\Messenger\MSG_Btn_UserList_BTN.rai
+AssetPosition	4,59
+[END]	
+[START]
+AssetPath		.\Asset\Messenger\MSG_Btn_FriendList_BTN.rai
+AssetPosition	45,59
+[END]	
+[START]
+AssetPath		.\Asset\Messenger\MSG_Btn_ClanList_BTN.rai
+AssetPosition	87,59
+[END]	
+[START]
+AssetPath		.\Asset\Messenger\MSG_Btn_RivalList_BTN.rai
+AssetPosition	129,59
+[END]	
+[START]
+AssetPath		.\Asset\Messenger\MSG_Btn_BlockList_BTN.rai
+AssetPosition	171,59
+[END]	
+[START]
+AssetPath		.\Asset\Messenger\MSG_ListBox_UserName_LST.rai
+AssetPosition	3,106
+[END]	
+[START]
+AssetPath		.\Asset\Messenger\MSG_Btn_AddFriend_BTN.rai
+AssetPosition	156,480
+[END]	
+[START]
+AssetPath		.\Asset\Messenger\MSG_Btn_BlockUser_BTN.rai
+AssetPosition	184,480
+[END]	
+[START]
+AssetPath		.\Asset\Messenger\MSG_ComboBox_RepChaList_CMB.rai
+AssetPosition	3,28
+[END]	

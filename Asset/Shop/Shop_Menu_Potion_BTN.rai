@@ -1,0 +1,37 @@
+[START]
+Attribute		1
+Position		573,296
+HitBox			573,296,618,341
+FileSize		0,0,45,45
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Shop\Shop_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\Shop\Shop_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[BUTTON START]
+NormalTex		323,261
+PressedTex		323,353
+DisableTex		277,261
+HighlightTex	323,307
+Size			45,45
+TextBoxSetApart	0
+IconFront		1
+TextBoxIndent	0
+Attribute		3
+Position		573,296
+HitBox			573,296,618,341
+FileSize		0,0,45,45
+Scale			1,1
+[TEXTBOX START]
+TextBox			573,296,618,341
+TextScaling		1
+SortFlag		36
+RGBA			0,0,0
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		0
+[TEXTBOX END]
+[BUTTON END]
+[END]	

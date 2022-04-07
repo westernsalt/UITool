@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release_Dev|Win32">
+      <Configuration>Release_Dev</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{5E9FDA21-D30A-4FF4-9E5D-2613CB53EAC7}</ProjectGuid>
+    <RootNamespace>UITool</RootNamespace>
+    <Keyword>MFCProj</Keyword>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <CharacterSet>Unicode</CharacterSet>
+    <UseOfMfc>Static</UseOfMfc>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+    <UseOfMfc>Static</UseOfMfc>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='Release_Dev|Win32'">
+    <UseOfMfc>Static</UseOfMfc>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='Release_Dev|Win32'">
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='Release_Dev|Win32'">
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+    <IncludePath>./include;$(IncludePath)</IncludePath>
+    <LibraryPath>./debuglib;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+    <OutDir>$(Configuration)\</OutDir>
+    <IncludePath>./include;$(IncludePath)</IncludePath>
+    <LibraryPath>./releaselib;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release_Dev|Win32'">
+    <OutDir>$(Configuration)\</OutDir>
+    <IncludePath>./include;$(IncludePath)</IncludePath>
+    <LibraryPath>./releaselib;$(LibraryPath)</LibraryPath>
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>uafxcwd.lib;cximage.lib;jasper.lib;jbig.lib;Jpeg.lib;libdcr.lib;libpsd.lib;mng.lib;png.lib;Tiff.lib;zlib.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <IgnoreSpecificDefaultLibraries>libc.lib;libcd.lib;msvcrt.lib;msvcrtd;uafxcwd.lib;%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+    </Link>
+    <Midl>
+      <MkTypLibCompatible>false</MkTypLibCompatible>
+      <ValidateAllParameters>true</ValidateAllParameters>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x0412</Culture>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>$(IntDir);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>RELEASE_PATH;WIN32;_WINDOWS;NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <AdditionalDependencies>uafxcw.lib;cximage.lib;jasper.lib;jbig.lib;Jpeg.lib;libdcr.lib;libpsd.lib;mng.lib;png.lib;Tiff.lib;zlib.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <IgnoreSpecificDefaultLibraries>libc.lib;libcd.lib;msvcrt.lib;libcmtd.lib;msvcrtd;uafxcw.lib;uafxcwd.lib;%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+    </Link>
+    <Midl>
+      <MkTypLibCompatible>false</MkTypLibCompatible>
+      <ValidateAllParameters>true</ValidateAllParameters>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x0412</Culture>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>$(IntDir);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release_Dev|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>RELEASE_DEV_PATH;WIN32;_WINDOWS;NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>uafxcw.lib;cximage.lib;jasper.lib;jbig.lib;Jpeg.lib;libdcr.lib;libpsd.lib;mng.lib;png.lib;Tiff.lib;zlib.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <IgnoreSpecificDefaultLibraries>libc.lib;libcd.lib;msvcrt.lib;libcmtd.lib;msvcrtd;uafxcw.lib;uafxcwd.lib;%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <OptimizeReferences>true</OptimizeReferences>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <SubSystem>Windows</SubSystem>
+    </Link>
+    <ResourceCompile>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>$(IntDir);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <Culture>0x0412</Culture>
+    </ResourceCompile>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram11.cd" />
+    <None Include="ReadMe.txt" />
+    <None Include="res\UITool.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CheckBoxBase.h" />
+    <ClInclude Include="CheckBoxDlgBar.h" />
+    <ClInclude Include="ComboBoxBase.h" />
+    <ClInclude Include="ComboboxDlgBar.h" />
+    <ClInclude Include="GroupButton.h" />
+    <ClInclude Include="ImageAnimationBase.h" />
+    <ClInclude Include="ImageAnimationDlgbar.h" />
+    <ClInclude Include="InputText.h" />
+    <ClInclude Include="InputTextDlgBar.h" />
+    <ClInclude Include="ListBoxBase.h" />
+    <ClInclude Include="ListBoxDlgBar.h" />
+    <ClInclude Include="ListItemBase.h" />
+    <ClInclude Include="ListItemDlgBar.h" />
+    <ClInclude Include="PicPropDlgBar.h" />
+    <ClInclude Include="PictureDlgBar.h" />
+    <ClInclude Include="AssetEditor.h" />
+    <ClInclude Include="AssetEditorView.h" />
+    <ClInclude Include="AssetSettingDlgBar.h" />
+    <ClInclude Include="BaseInterface.h" />
+    <ClInclude Include="BasicAsset.h" />
+    <ClInclude Include="AssetBase.h" />
+    <ClInclude Include="SceneAssetPreview.h" />
+    <ClInclude Include="SceneAssetPreviewWnd.h" />
+    <ClInclude Include="TabBtnBase.h" />
+    <ClInclude Include="TabBtnDlgBar.h" />
+    <ClInclude Include="ThirdGridBase.h" />
+    <ClInclude Include="ThirdGridDlgBar.h" />
+    <ClInclude Include="UIFrame.h" />
+    <ClInclude Include="BtnBase.h" />
+    <ClInclude Include="ButtonDlgBar.h" />
+    <ClInclude Include="DBMgr.h" />
+    <ClInclude Include="Define.h" />
+    <ClInclude Include="Extern.h" />
+    <ClInclude Include="GlobalFunc.h" />
+    <ClInclude Include="Macro.h" />
+    <ClInclude Include="MainFrm.h" />
+    <ClInclude Include="MainView.h" />
+    <ClInclude Include="ObjMgr.h" />
+    <ClInclude Include="PictureView.h" />
+    <ClInclude Include="ProgressBarBase.h" />
+    <ClInclude Include="ProgressbarDlgBar.h" />
+    <ClInclude Include="RadioBtnBase.h" />
+    <ClInclude Include="RadioBtnDlgBar.h" />
+    <ClInclude Include="Resource.h" />
+    <ClInclude Include="SceneEditDlgBar.h" />
+    <ClInclude Include="SceneSettingDlgBar.h" />
+    <ClInclude Include="ScrollBase.h" />
+    <ClInclude Include="ScrollDlgBar.h" />
+    <ClInclude Include="SliderDlgBar.h" />
+    <ClInclude Include="SliderBase.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="targetver.h" />
+    <ClInclude Include="TextBox.h" />
+    <ClInclude Include="TextBoxDlgBar.h" />
+    <ClInclude Include="PictureWnd.h" />
+    <ClInclude Include="UIScene.h" />
+    <ClInclude Include="UITool.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CheckBoxBase.cpp" />
+    <ClCompile Include="CheckBoxDlgBar.cpp" />
+    <ClCompile Include="ComboBoxBase.cpp" />
+    <ClCompile Include="ComboboxDlgBar.cpp" />
+    <ClCompile Include="GroupButton.cpp" />
+    <ClCompile Include="ImageAnimationBase.cpp" />
+    <ClCompile Include="ImageAnimationDlgbar.cpp" />
+    <ClCompile Include="InputText.cpp" />
+    <ClCompile Include="InputTextDlgBar.cpp" />
+    <ClCompile Include="ListBoxBase.cpp" />
+    <ClCompile Include="ListBoxDlgBar.cpp" />
+    <ClCompile Include="ListItemBase.cpp" />
+    <ClCompile Include="ListItemDlgBar.cpp" />
+    <ClCompile Include="PicPropDlgBar.cpp" />
+    <ClCompile Include="PictureDlgBar.cpp" />
+    <ClCompile Include="AssetEditor.cpp" />
+    <ClCompile Include="AssetEditorView.cpp" />
+    <ClCompile Include="AssetSettingDlgBar.cpp" />
+    <ClCompile Include="BaseInterface.cpp" />
+    <ClCompile Include="BasicAsset.cpp" />
+    <ClCompile Include="AssetBase.cpp" />
+    <ClCompile Include="SceneAssetPreview.cpp" />
+    <ClCompile Include="SceneAssetPreviewWnd.cpp" />
+    <ClCompile Include="TabBtnBase.cpp" />
+    <ClCompile Include="TabBtnDlgBar.cpp" />
+    <ClCompile Include="ThirdGridBase.cpp" />
+    <ClCompile Include="ThirdGridDlgBar.cpp" />
+    <ClCompile Include="UIFrame.cpp" />
+    <ClCompile Include="BtnBase.cpp" />
+    <ClCompile Include="ButtonDlgBar.cpp" />
+    <ClCompile Include="DBMgr.cpp" />
+    <ClCompile Include="MainFrm.cpp" />
+    <ClCompile Include="MainView.cpp" />
+    <ClCompile Include="ObjMgr.cpp" />
+    <ClCompile Include="PictureView.cpp" />
+    <ClCompile Include="ProgressBarBase.cpp" />
+    <ClCompile Include="ProgressbarDlgBar.cpp" />
+    <ClCompile Include="RadioBtnBase.cpp" />
+    <ClCompile Include="RadioBtnDlgBar.cpp" />
+    <ClCompile Include="SceneEditDlgBar.cpp" />
+    <ClCompile Include="SceneSettingDlgBar.cpp" />
+    <ClCompile Include="ScrollBase.cpp" />
+    <ClCompile Include="ScrollDlgBar.cpp" />
+    <ClCompile Include="SliderDlgBar.cpp" />
+    <ClCompile Include="SliderBase.cpp" />
+    <ClCompile Include="stdafx.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="TextBox.cpp" />
+    <ClCompile Include="TextBoxDlgBar.cpp" />
+    <ClCompile Include="PictureWnd.cpp" />
+    <ClCompile Include="UIScene.cpp" />
+    <ClCompile Include="UITool.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="UITool.rc" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+  <ProjectExtensions>
+    <VisualStudio>
+      <UserProperties RESOURCE_FILE="UITool.rc" />
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

@@ -1,0 +1,13 @@
+[START]
+Attribute		0
+Position		0,0
+HitBox			0,0,496,455
+FileSize		0,0,496,455
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Lobby\Lobby_Texture1.tga
+TexFilePath		TexturesSV\ui\newUI\Lobby\Lobby_Texture1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		16,0
+[PICTURE END]
+[END]	

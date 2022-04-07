@@ -1,0 +1,28 @@
+[START]
+AssetPath		.\Asset\Lobby\Lobby_QuickStart_Bg_PIC.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Lobby\Lobby_QuickStart_ListBtn_BTN.rai
+AssetPosition	2,7
+[END]	
+[START]
+AssetPath		.\Asset\Lobby\Lobby_QuickStart_ListBtn_BTN.rai
+AssetPosition	2,27
+[END]	
+[START]
+AssetPath		.\Asset\Lobby\Lobby_QuickStart_ListBtn_BTN.rai
+AssetPosition	2,48
+[END]	
+[START]
+AssetPath		.\Asset\Lobby\Lobby_QuickStart_ListBtn_BTN.rai
+AssetPosition	2,69
+[END]	
+[START]
+AssetPath		.\Asset\Lobby\Lobby_QuickStart_ListBtn_BTN.rai
+AssetPosition	2,90
+[END]	
+[START]
+AssetPath		.\Asset\Lobby\Lobby_QuickStart_ListBtn_BTN.rai
+AssetPosition	2,111
+[END]	

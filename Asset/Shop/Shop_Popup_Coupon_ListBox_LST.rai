@@ -1,0 +1,156 @@
+[START]
+Attribute		6
+Position		0,0
+HitBox			0,0,259,136
+FileSize		0,0,259,136
+Scale			1,1
+[LISTBOX START]
+ListBoxArea		0,0,259,136
+FilePath		.\Texture\Shop\Shop_Texture.tga
+ScrollPath		
+ListItemPath	.\Asset\Shop\Shop_Popup_Coupon_ListItem_ITM.rai
+ListItemCount	7
+ListInterval	0,1
+ListStartPos	3,6
+Attribute		0
+Position		0,0
+HitBox			0,0,259,136
+FileSize		0,0,259,136
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Shop\Shop_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\Shop\Shop_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		1,103
+[PICTURE END]
+Attribute		10
+Position		0,0
+HitBox			0,0,1175084372,0
+FileSize		0,0,1175084372,0
+Scale			1,1
+[SCROLL START]
+Attribute		1
+Position		0,0
+HitBox			0,0,1175084372,1348824169
+FileSize		0,0,1175084372,1348824169
+Scale			1,1
+[PICTURE START]
+FilePath		
+TexFilePath		
+FolderPath		
+StartPos		0,0
+[PICTURE END]
+[BUTTON START]
+NormalTex		741357100,1393176630
+PressedTex		1701601635,822675721
+DisableTex		1527394604,1413695824
+HighlightTex	541413973,1380013139
+Size			1175084372,1348824169
+TextBoxSetApart	0
+IconFront		1
+TextBoxIndent	0
+Attribute		3
+Position		0,0
+HitBox			0,0,0,0
+FileSize		0,0,0,0
+Scale			1,1
+[TEXTBOX START]
+TextBox			0,0,0,0
+TextScaling		1
+SortFlag		37
+RGBA			0,0,0
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		1
+[TEXTBOX END]
+[BUTTON END]
+Attribute		-1
+Position		587542208,0
+HitBox			587542208,0,587542208,0
+FileSize		0,0,0,0
+Scale			1,1
+[PICTURE START]
+FilePath		
+TexFilePath		
+FolderPath		
+StartPos		0,0
+[PICTURE END]
+[SCROLL END]
+Attribute		5
+Position		223,0
+HitBox			0,0,253,20
+FileSize		0,0,253,20
+Scale			1,1
+[LISTITEM START]
+[LISTITEM]
+Attribute		1
+Position		0,0
+HitBox			0,0,253,20
+FileSize		0,0,253,20
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Shop\Shop_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\Shop\Shop_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[BUTTON START]
+NormalTex		0,490
+PressedTex		1,267
+DisableTex		0,490
+HighlightTex	1,267
+Size			253,20
+TextBoxSetApart	0
+IconFront		1
+TextBoxIndent	0
+Attribute		3
+Position		0,0
+HitBox			0,0,253,20
+FileSize		0,0,253,20
+Scale			1,1
+[TEXTBOX START]
+TextBox			0,0,253,20
+TextScaling		1
+SortFlag		36
+RGBA			0,0,0
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		0
+[TEXTBOX END]
+[BUTTON END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		3
+Position		6,0
+HitBox			6,0,216,20
+FileSize		0,0,210,20
+Scale			1,1
+[TEXTBOX START]
+TextBox			6,0,216,20
+TextScaling		1
+SortFlag		36
+RGBA			209,209,209
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		1
+[TEXTBOX END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		3
+Position		223,0
+HitBox			223,0,247,20
+FileSize		0,0,24,20
+Scale			1,1
+[TEXTBOX START]
+TextBox			223,0,247,20
+TextScaling		1
+SortFlag		38
+RGBA			209,209,209
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		1
+[TEXTBOX END]
+[LISTITEM_END]
+[LISTITEM COMPLETE]
+[LISTBOX END]
+[END]	

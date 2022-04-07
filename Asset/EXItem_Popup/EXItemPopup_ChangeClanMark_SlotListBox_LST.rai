@@ -1,0 +1,140 @@
+[START]
+Attribute		6
+Position		0,0
+HitBox			0,0,486,273
+FileSize		0,0,486,273
+Scale			1,1
+[LISTBOX START]
+ListBoxArea		0,0,480,273
+FilePath		
+ScrollPath		.\Asset\Common\CM_Scroll_SCR.rai
+ListItemPath	.\Asset\EXItem_Popup\EXItemPopup_ChangeClanMark_SlotListItem_ITM.rai
+ListItemCount	50
+ListInterval	3,3
+ListStartPos	0,0
+Attribute		0
+Position		0,0
+HitBox			0,0,0,0
+FileSize		0,0,0,0
+Scale			1,1
+[PICTURE START]
+FilePath		
+TexFilePath		
+FolderPath		
+StartPos		0,0
+[PICTURE END]
+Attribute		10
+Position		480,0
+HitBox			480,0,486,273
+FileSize		0,0,6,273
+Scale			1,1
+[SCROLL START]
+Attribute		1
+Position		0,0
+HitBox			0,0,6,18
+FileSize		0,0,6,18
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\Common_Texture_1.tga
+TexFilePath		TexturesSV\ui\newUI\Common\Common_Texture_1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[BUTTON START]
+NormalTex		505,2
+PressedTex		505,24
+DisableTex		505,2
+HighlightTex	499,24
+Size			6,18
+TextBoxSetApart	0
+IconFront		1
+TextBoxIndent	0
+Attribute		3
+Position		0,0
+HitBox			0,0,0,0
+FileSize		0,0,0,0
+Scale			1,1
+[TEXTBOX START]
+TextBox			0,0,0,0
+TextScaling		1
+SortFlag		37
+RGBA			0,0,0
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		1
+[FONT_BOLD_START]
+0
+[TEXTBOX END]
+[BUTTON END]
+Attribute		-1
+Position		482,0
+HitBox			482,0,484,273
+FileSize		0,0,2,18
+Scale			1,15.1667
+[PICTURE START]
+FilePath		.\Texture\Common\Common_Texture_1.tga
+TexFilePath		TexturesSV\ui\newUI\Common\Common_Texture_1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		501,2
+[PICTURE END]
+[SCROLL END]
+Attribute		5
+Position		0,0
+HitBox			0,0,66,66
+FileSize		0,0,66,66
+Scale			1,1
+[LISTITEM START]
+[LISTITEM]
+Attribute		1
+Position		0,0
+HitBox			0,0,66,66
+FileSize		0,0,66,66
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\Common_Texture_1.tga
+TexFilePath		TexturesSV\ui\newUI\Common\Common_Texture_1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[BUTTON START]
+NormalTex		132,194
+PressedTex		266,194
+DisableTex		132,194
+HighlightTex	199,194
+Size			66,66
+TextBoxSetApart	0
+IconFront		1
+TextBoxIndent	0
+Attribute		3
+Position		0,0
+HitBox			0,0,66,66
+FileSize		0,0,66,66
+Scale			1,1
+[TEXTBOX START]
+TextBox			0,0,66,66
+TextScaling		1
+SortFlag		37
+RGBA			0,0,0
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		0
+[FONT_BOLD_START]
+0
+[TEXTBOX END]
+[BUTTON END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		3,3
+HitBox			3,3,63,63
+FileSize		0,0,60,60
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\Common_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\Common\Common_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM COMPLETE]
+[END]	

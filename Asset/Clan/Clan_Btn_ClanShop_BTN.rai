@@ -1,0 +1,39 @@
+[START]
+Attribute		1
+Position		0,0
+HitBox			0,0,23,29
+FileSize		0,0,23,29
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Lobby\Lobby_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\Lobby\Lobby_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[BUTTON START]
+NormalTex		352,140
+PressedTex		398,140
+DisableTex		398,140
+HighlightTex	375,140
+Size			23,29
+TextBoxSetApart	0
+IconFront		1
+TextBoxIndent	0
+Attribute		3
+Position		0,0
+HitBox			0,0,23,29
+FileSize		0,0,23,29
+Scale			1,1
+[TEXTBOX START]
+TextBox			0,0,23,29
+TextScaling		1
+SortFlag		36
+RGBA			0,0,0
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		0
+[FONT_BOLD_START]
+0
+[TEXTBOX END]
+[BUTTON END]
+[END]	

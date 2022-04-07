@@ -1,0 +1,71 @@
+[REVISE_FRAME]
+-128,-96
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Common\PopupBg\Lobby_Blur_Bg_PIC.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_3_PIC.rai
+AssetPosition	238,179
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_PT_CreateRoom_PIC.rai
+AssetPosition	530,190
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Close_BTN.rai
+AssetPosition	1009,219
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_DecoLine_Bottom_PIC.rai
+AssetPosition	261,282
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_DecoLine_Top_PIC.rai
+AssetPosition	261,238
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_Text_W70_TXT.rai
+AssetPosition	265,258
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_Text_W70_TXT.rai
+AssetPosition	760,258
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_InputText_RoomTitle_INP.rai
+AssetPosition	337,251
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_InputText_Password_INP.rai
+AssetPosition	831,251
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_Text_W70_TXT.rai
+AssetPosition	265,298
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_ComboBox_GameMode_CMB.rai
+AssetPosition	337,290
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_CheckBox_PlayList_CHK.rai
+AssetPosition	530,293
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_ListBox_MapList_LST.rai
+AssetPosition	262,323
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_Btn_MakeRoom_BTN.rai
+AssetPosition	777,727
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_Text_LvOff_TXT.rai
+AssetPosition	263,220
+[END]	
+[START]
+AssetPath		.\Asset\CreateRoom\CR_ComboBox_GameMode_PvP_CMB.rai
+AssetPosition	337,290
+[END]	

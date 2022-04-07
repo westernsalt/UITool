@@ -1,0 +1,47 @@
+[REVISE_FRAME]
+637,552
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_TitleRoomInfo_TXT.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_W180_S13_L_TXT.rai
+AssetPosition	1,35
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_W180_S13_L_TXT.rai
+AssetPosition	1,57
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_W180_S13_L_TXT.rai
+AssetPosition	1,79
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_W160_S13_R_TXT.rai
+AssetPosition	179,35
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_W160_S13_R_TXT.rai
+AssetPosition	179,57
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_W160_S13_R_TXT.rai
+AssetPosition	179,79
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_W180_S13_O_L_TXT.rai
+AssetPosition	1,101
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_W160_S13_O_R_TXT.rai
+AssetPosition	179,101
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_W180_S13_O_L_TXT.rai
+AssetPosition	1,123
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_W160_S13_O_R_TXT.rai
+AssetPosition	179,123
+[END]	

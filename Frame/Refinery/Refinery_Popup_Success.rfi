@@ -1,0 +1,43 @@
+[REVISE_FRAME]
+-128,-96
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Common\PopupBg\Refinery_Blur_Bg_PIC.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_1_PIC.rai
+AssetPosition	393,272
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_OK_BTN.rai
+AssetPosition	564,538
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ListItem_Creature_ITM.rai
+AssetPosition	540,389
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ListItem_Creature_ITM.rai
+AssetPosition	675,389
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_Success_Img_PIC.rai
+AssetPosition	512,183
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_Ani_Success_IMG.rai
+AssetPosition	512,172
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_Success_Text_PIC.rai
+AssetPosition	535,272
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_AddPeriod_Arrow_PIC.rai
+AssetPosition	634,414
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_Text_12_TXT.rai
+AssetPosition	407,477
+[END]	

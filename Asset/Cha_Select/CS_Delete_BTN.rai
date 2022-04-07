@@ -1,0 +1,37 @@
+[START]
+Attribute		1
+Position		0,0
+HitBox			0,0,176,26
+FileSize		0,0,176,26
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Cha_Select\CharacterSelect_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\Cha_Select\CharacterSelect_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[BUTTON START]
+NormalTex		2,150
+PressedTex		2,204
+DisableTex		2,231
+HighlightTex	2,177
+Size			176,26
+TextBoxSetApart	0
+IconFront		1
+TextBoxIndent	0
+Attribute		3
+Position		0,0
+HitBox			0,0,176,26
+FileSize		0,0,176,26
+Scale			1,1
+[TEXTBOX START]
+TextBox			0,0,176,26
+TextScaling		1
+SortFlag		37
+RGBA			193,193,193
+DisableRGB		133,133,133
+Indent			0,0
+DefaultShow		1
+[TEXTBOX END]
+[BUTTON END]
+[END]	

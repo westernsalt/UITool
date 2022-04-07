@@ -1,0 +1,39 @@
+[START]
+Attribute		1
+Position		0,0
+HitBox			0,0,44,21
+FileSize		0,0,44,21
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Server\ServerSelect_Texture1.tga
+TexFilePath		TexturesSV\ui\newUI\Server\ServerSelect_Texture1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[BUTTON START]
+NormalTex		360,7
+PressedTex		404,7
+DisableTex		404,7
+HighlightTex	382,7
+Size			18,21
+TextBoxSetApart	1
+IconFront		1
+TextBoxIndent	8
+Attribute		3
+Position		26,0
+HitBox			26,0,44,21
+FileSize		0,0,18,21
+Scale			1,1
+[TEXTBOX START]
+TextBox			26,0,44,21
+TextScaling		1
+SortFlag		36
+RGBA			209,209,209
+DisableRGB		133,133,133
+Indent			0,0
+DefaultShow		1
+[FONT_BOLD_START]
+1
+[TEXTBOX END]
+[BUTTON END]
+[END]	

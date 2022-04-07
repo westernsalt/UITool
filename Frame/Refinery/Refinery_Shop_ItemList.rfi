@@ -1,0 +1,103 @@
+[REVISE_FRAME]
+0,76
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Common\CM_DecoLine_Bottom_L_PIC.rai
+AssetPosition	4,0
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_DecoLine_Bottom_L_PIC.rai
+AssetPosition	149,0
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_DecoLine_Bottom_L_PIC.rai
+AssetPosition	4,426
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_DecoLine_Bottom_L_PIC.rai
+AssetPosition	149,426
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_Preview_Bg_GRI.rai
+AssetPosition	355,8
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Tooltip_ItemName_TXT.rai
+AssetPosition	370,220
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_ItemSlot_ListBox_LST.rai
+AssetPosition	0,7
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Coin_Cash_PIC.rai
+AssetPosition	370,241
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Coin_Gold_PIC.rai
+AssetPosition	370,241
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_Preview_TimeBg_PIC.rai
+AssetPosition	368,16
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_Preview_TimeBg_PIC.rai
+AssetPosition	560,16
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_Preview_Text_TXT.rai
+AssetPosition	373,18
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_Preview_Text_TXT.rai
+AssetPosition	566,18
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_Preview_Text_Price_TXT.rai
+AssetPosition	389,240
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_Preview_Text_13L_TXT.rai
+AssetPosition	370,266
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_Preview_Text_13R_TXT.rai
+AssetPosition	505,266
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_Preview_Text_13L_TXT.rai
+AssetPosition	370,284
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_Preview_Text_13R_TXT.rai
+AssetPosition	505,284
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_64_PIC.rai
+AssetPosition	467,93
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_Preview_ItemExplain_TXT.rai
+AssetPosition	370,325
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_Preview_Pink_13R_TXT.rai
+AssetPosition	505,240
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_Preview_Red_13R_TXT.rai
+AssetPosition	505,302
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_Preview_Text_13L_TXT.rai
+AssetPosition	370,302
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Coin_Clan_PIC.rai
+AssetPosition	370,241
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Coin_Event_PIC.rai
+AssetPosition	370,241
+[END]	

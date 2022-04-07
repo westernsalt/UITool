@@ -1,0 +1,35 @@
+[REVISE_FRAME]
+334,216
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Event\Event_LoginGauge_PIC.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Event\Event_Text_W38_Bold_TXT.rai
+AssetPosition	147,97
+[END]	
+[START]
+AssetPath		.\Asset\Event\Event_Text_W270_Bold_TXT.rai
+AssetPosition	31,160
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_TipIcon_PIC.rai
+AssetPosition	26,364
+[END]	
+[START]
+AssetPath		.\Asset\Event\Event_Text_W462_TXT.rai
+AssetPosition	45,364
+[END]	
+[START]
+AssetPath		.\Asset\Event\Event_LoginGauge_Btn_BTN.rai
+AssetPosition	83,318
+[END]	
+[START]
+AssetPath		.\Asset\Event\Event_LoginGauge_ListBox_LST.rai
+AssetPosition	39,193
+[END]	
+[START]
+AssetPath		.\Asset\Event\Event_LoginGauge_ProgressBar_PRG.rai
+AssetPosition	28,136
+[END]	

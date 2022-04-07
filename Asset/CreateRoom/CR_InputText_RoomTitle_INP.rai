@@ -1,0 +1,31 @@
+[START]
+Attribute		4
+Position		0,0
+HitBox			0,0,349,26
+FileSize		0,0,349,26
+Scale			1,1
+[TEXTBOX START]
+TextBox			8,0,349,26
+TextScaling		1
+SortFlag		36
+RGBA			209,209,209
+DisableRGB		113,113,113
+Indent			0,0
+DefaultShow		1
+[TEXTBOX END]
+[INPUTTEXT START]
+PasswordType	0
+Interval		8
+Attribute		0
+Position		0,0
+HitBox			0,0,349,26
+FileSize		0,0,349,26
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\CreateRoom\CR_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\CreateRoom\CR_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		1,22
+[PICTURE END]
+[INPUTTEXT END]
+[END]	

@@ -1,0 +1,21 @@
+[START]
+Attribute		14
+Position		0,0
+HitBox			0,0,290,100
+FileSize		0,0,290,100
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Shop\Shop_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\Shop\Shop_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[THIRDGRID START]
+FirstTex		1,1
+SecondTex		1,11
+ThirdTex		1,21
+ImageSize		290,10
+ScaleType		1
+Pixel	70
+[THIRDGRID END]
+[END]	

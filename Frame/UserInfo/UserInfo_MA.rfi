@@ -1,0 +1,103 @@
+[REVISE_FRAME]
+312,129
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\UserInfo\UI_Popup_Bg_PIC.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\MasterApprentice\MA_PT_PIC.rai
+AssetPosition	91,9
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Close_BTN.rai
+AssetPosition	367,35
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Text_W240_TXT.rai
+AssetPosition	17,56
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Master_TextBg_PIC.rai
+AssetPosition	9,75
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Text_W103_Yellow_TXT.rai
+AssetPosition	149,77
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Master_Bg_PIC.rai
+AssetPosition	144,99
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\ClassSymbol_Nomal\Inven_Symbol_Archer_N_PIC.rai
+AssetPosition	170,125
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Text_W87_Yellow_TXT.rai
+AssetPosition	156,222
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Text_W87_Yellow_TXT.rai
+AssetPosition	156,240
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Apprentice_TextBg_PIC.rai
+AssetPosition	9,297
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Text_W103_TXT.rai
+AssetPosition	149,299
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Apprentice_Bg_PIC.rai
+AssetPosition	19,321
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\ClassSymbol_Nomal\Inven_Symbol_Blacksmith_N_PIC.rai
+AssetPosition	45,346
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Text_W87_TXT.rai
+AssetPosition	31,439
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Text_W87_TXT.rai
+AssetPosition	31,457
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Apprentice_Bg_PIC.rai
+AssetPosition	144,321
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\ClassSymbol_Nomal\Inven_Symbol_CombatWizard_N_PIC.rai
+AssetPosition	169,346
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Text_W87_TXT.rai
+AssetPosition	156,439
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Text_W87_TXT.rai
+AssetPosition	156,457
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Apprentice_Bg_PIC.rai
+AssetPosition	269,321
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\ClassSymbol_Nomal\Inven_Symbol_DoubleSword_N_PIC.rai
+AssetPosition	294,346
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Text_W87_TXT.rai
+AssetPosition	281,439
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Text_W87_TXT.rai
+AssetPosition	281,457
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Text_W387_TXT.rai
+AssetPosition	7,250
+[END]	

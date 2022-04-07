@@ -1,0 +1,19 @@
+[REVISE_FRAME]
+-128,-96
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Common\PopupBg\Lobby_Blur_Bg_PIC.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_3_PIC.rai
+AssetPosition	238,177
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Close_BTN.rai
+AssetPosition	1008,216
+[END]	
+[START]
+AssetPath		.\Asset\Lobby\Lobby_Pt_Event_PIC.rai
+AssetPosition	530,188
+[END]	

@@ -1,0 +1,21 @@
+[START]
+Attribute		14
+Position		0,0
+HitBox			0,0,508,282
+FileSize		0,0,508,282
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\CreatureBook\CB_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\CreatureBook\CB_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[THIRDGRID START]
+FirstTex		2,0
+SecondTex		2,10
+ThirdTex		2,20
+ImageSize		508,10
+ScaleType		1
+Pixel	252
+[THIRDGRID END]
+[END]	

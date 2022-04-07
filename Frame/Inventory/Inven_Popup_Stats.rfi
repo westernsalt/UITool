@@ -1,0 +1,71 @@
+[REVISE_FRAME]
+-128,-96
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Common\PopupBg\Inven_Blur_Bg_PIC.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_1_PIC.rai
+AssetPosition	393,272
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_Symbol_StatsUp_PIC.rai
+AssetPosition	613,289
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_OK_BTN.rai
+AssetPosition	462,538
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_Cancel_BTN.rai
+AssetPosition	672,538
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_DecoLine_Top_PIC.rai
+AssetPosition	421,358
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_DecoLine_Bottom_PIC.rai
+AssetPosition	421,429
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_Minus_BTN.rai
+AssetPosition	582,485
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_Plus_BTN.rai
+AssetPosition	680,485
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Popup_Text_1_TXT.rai
+AssetPosition	412,449
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Popup_Text_Yellow_L_TXT.rai
+AssetPosition	421,375
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Popup_Text_Yellow_R_TXT.rai
+AssetPosition	649,375
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Popup_Text_Yellow_L_TXT.rai
+AssetPosition	421,391
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Popup_Text_Yellow_R_TXT.rai
+AssetPosition	649,391
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Popup_Text_Green_L_TXT.rai
+AssetPosition	421,407
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Popup_Text_Green_R_TXT.rai
+AssetPosition	649,407
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_TextInput_Num_INP.rai
+AssetPosition	604,480
+[END]	

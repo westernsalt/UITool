@@ -1,0 +1,71 @@
+[REVISE_FRAME]
+138,234
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Refinery\Refinery_CF_MagicCircle_PIC.rai
+AssetPosition	0,123
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_CF_Line_PIC.rai
+AssetPosition	42,102
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotBg_S64_PIC.rai
+AssetPosition	158,137
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotBg_S64_PIC.rai
+AssetPosition	158,222
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_64_PIC.rai
+AssetPosition	161,140
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotBg_S64_PIC.rai
+AssetPosition	158,307
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Creature_SlotDeco_PIC.rai
+AssetPosition	161,140
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_64_PIC.rai
+AssetPosition	161,225
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_64_PIC.rai
+AssetPosition	161,310
+[END]	
+[START]
+AssetPath		.\Asset\Common\Creature_Property\CM_CP_Dark_PIC.rai
+AssetPosition	161,178
+[END]	
+[START]
+AssetPath		.\Asset\Common\Creatrue_Upgrade\CM_Creature_Plus1_PIC.rai
+AssetPosition	205,143
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ListBox_Creature_LST.rai
+AssetPosition	18,0
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_Btn_Start_BTN.rai
+AssetPosition	117,409
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_CF_Text_TXT.rai
+AssetPosition	19,81
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_CF_Ani_IMG.rai
+AssetPosition	65,123
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Progressbar_Orange_PRG.rai
+AssetPosition	45,101
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Ani_Effect_Progressbar_IMG.rai
+AssetPosition	42,93
+[END]	

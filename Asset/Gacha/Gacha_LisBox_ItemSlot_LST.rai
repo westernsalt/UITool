@@ -1,0 +1,128 @@
+[START]
+Attribute		6
+Position		0,0
+HitBox			0,0,215,70
+FileSize		0,0,215,70
+Scale			1,1
+[LISTBOX START]
+ListBoxArea		0,0,215,70
+FilePath		
+ScrollPath		
+ListItemPath	.\Asset\Gacha\Gacha_ListItem_ItemSlot_ITM.rai
+ListItemCount	3
+ListInterval	4,0
+ListStartPos	0,0
+Attribute		0
+Position		0,0
+HitBox			0,0,0,0
+FileSize		0,0,0,0
+Scale			1,1
+[PICTURE START]
+FilePath		
+TexFilePath		
+FolderPath		
+StartPos		0,0
+[PICTURE END]
+Attribute		10
+Position		0,0
+HitBox			0,0,6619252,0
+FileSize		0,0,6619252,0
+Scale			1,1
+[SCROLL START]
+Attribute		1
+Position		0,0
+HitBox			0,0,6619252,4980845
+FileSize		0,0,6619252,4980845
+Scale			1,1
+[PICTURE START]
+FilePath		
+TexFilePath		
+FolderPath		
+StartPos		0,0
+[PICTURE END]
+[BUTTON START]
+NormalTex		6029422,5046339
+PressedTex		4784223,7733358
+DisableTex		7209061,7274612
+HighlightTex	7929970,4784223
+Size			6619252,4980845
+TextBoxSetApart	0
+IconFront		1
+TextBoxIndent	0
+Attribute		3
+Position		0,0
+HitBox			0,0,0,0
+FileSize		0,0,0,0
+Scale			1,1
+[TEXTBOX START]
+TextBox			0,0,0,0
+TextScaling		1
+SortFlag		37
+RGBA			0,0,0
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		1
+[FONT_BOLD_START]
+0
+[TEXTBOX END]
+[BUTTON END]
+Attribute		-1
+Position		3309626,0
+HitBox			3309626,0,3309626,0
+FileSize		0,0,0,0
+Scale			1,1
+[PICTURE START]
+FilePath		
+TexFilePath		
+FolderPath		
+StartPos		0,0
+[PICTURE END]
+[SCROLL END]
+Attribute		5
+Position		0,0
+HitBox			0,0,66,66
+FileSize		0,0,66,66
+Scale			1,1
+[LISTITEM START]
+[LISTITEM]
+Attribute		0
+Position		0,0
+HitBox			0,0,66,66
+FileSize		0,0,66,66
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\Common_Texture_1.tga
+TexFilePath		TexturesSV\ui\newUI\Common\Common_Texture_1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		132,194
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		4,4
+HitBox			4,4,64,64
+FileSize		0,0,60,60
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Gacha\Gacha_Texture_1.tga
+TexFilePath		TexturesSV\ui\newUI\Gacha\Gacha_Texture_1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		3,3
+HitBox			3,3,63,63
+FileSize		0,0,60,60
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Gacha\Gacha_Texture_1.tga
+TexFilePath		TexturesSV\ui\newUI\Gacha\Gacha_Texture_1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		296,90
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM COMPLETE]
+[LISTBOX END]
+[END]	

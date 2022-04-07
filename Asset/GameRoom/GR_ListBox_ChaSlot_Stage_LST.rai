@@ -1,0 +1,330 @@
+[START]
+Attribute		6
+Position		0,0
+HitBox			0,0,440,345
+FileSize		0,0,440,345
+Scale			1,1
+[LISTBOX START]
+ListBoxArea		0,0,440,345
+FilePath		
+ScrollPath		
+ListItemPath	.\Asset\GameRoom\GR_ListItem_ChaSlot_ITM.rai
+ListItemCount	10
+ListInterval	6,6
+ListStartPos	0,0
+Attribute		0
+Position		0,0
+HitBox			0,0,440,345
+FileSize		0,0,440,345
+Scale			1,1
+[PICTURE START]
+FilePath		
+TexFilePath		
+FolderPath		
+StartPos		0,0
+[PICTURE END]
+Attribute		10
+Position		0,0
+HitBox			0,0,0,0
+FileSize		0,0,0,0
+Scale			1,1
+[SCROLL START]
+Attribute		1
+Position		0,0
+HitBox			0,0,0,0
+FileSize		0,0,0,0
+Scale			1,1
+[PICTURE START]
+FilePath		
+TexFilePath		
+FolderPath		
+StartPos		0,0
+[PICTURE END]
+[BUTTON START]
+NormalTex		0,0
+PressedTex		0,0
+DisableTex		0,0
+HighlightTex	0,0
+Size			0,0
+TextBoxSetApart	0
+IconFront		1
+TextBoxIndent	0
+Attribute		3
+Position		0,0
+HitBox			0,0,0,0
+FileSize		0,0,0,0
+Scale			1,1
+[TEXTBOX START]
+TextBox			0,0,0,0
+TextScaling		1
+SortFlag		37
+RGBA			0,0,0
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		1
+[FONT_BOLD_START]
+0
+[TEXTBOX END]
+[BUTTON END]
+Attribute		-1
+Position		0,0
+HitBox			0,0,0,0
+FileSize		0,0,0,0
+Scale			1,1
+[PICTURE START]
+FilePath		
+TexFilePath		
+FolderPath		
+StartPos		0,0
+[PICTURE END]
+[SCROLL END]
+Attribute		5
+Position		0,0
+HitBox			0,0,215,64
+FileSize		0,0,215,64
+Scale			1,1
+[LISTITEM START]
+[LISTITEM]
+Attribute		1
+Position		0,0
+HitBox			0,0,211,64
+FileSize		0,0,211,64
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\Common_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\Common\Common_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[BUTTON START]
+NormalTex		154,105
+PressedTex		154,235
+DisableTex		154,105
+HighlightTex	154,170
+Size			211,64
+TextBoxSetApart	0
+IconFront		1
+TextBoxIndent	0
+Attribute		3
+Position		0,0
+HitBox			0,0,211,64
+FileSize		0,0,211,64
+Scale			1,1
+[TEXTBOX START]
+TextBox			0,0,211,64
+TextScaling		1
+SortFlag		36
+RGBA			0,0,0
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		0
+[FONT_BOLD_START]
+0
+[TEXTBOX END]
+[BUTTON END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		4,7
+HitBox			4,7,54,57
+FileSize		0,0,50,50
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\Common_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\Common\Common_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		156,2
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		3
+Position		58,37
+HitBox			58,37,208,51
+FileSize		0,0,150,14
+Scale			1,1
+[TEXTBOX START]
+TextBox			58,37,208,51
+TextScaling		1
+SortFlag		36
+RGBA			209,209,209
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		1
+[FONT_BOLD_START]
+0
+[TEXTBOX END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		57,15
+HitBox			57,15,77,35
+FileSize		0,0,20,20
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\GameRoom\GameRoom_Texture_1.tga
+TexFilePath		TexturesSV\ui\newUI\GameRoom\GameRoom_Texture_1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		3
+Position		81,18
+HitBox			81,18,191,32
+FileSize		0,0,110,14
+Scale			1,1
+[TEXTBOX START]
+TextBox			81,18,191,32
+TextScaling		1
+SortFlag		36
+RGBA			209,209,209
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		1
+[FONT_BOLD_START]
+0
+[TEXTBOX END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		1,1
+HitBox			1,1,215,63
+FileSize		0,0,214,62
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\GameRoom\GameRoom_Texture_4.tga
+TexFilePath		TexturesSV\ui\newUI\GameRoom\GameRoom_Texture_4.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		7,10
+HitBox			7,10,52,55
+FileSize		0,0,45,45
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\Common_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\Common\Common_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		3
+Position		131,5
+HitBox			131,5,191,19
+FileSize		0,0,60,14
+Scale			1,1
+[TEXTBOX START]
+TextBox			131,5,191,19
+TextScaling		1
+SortFlag		38
+RGBA			209,209,209
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		1
+[FONT_BOLD_START]
+0
+[TEXTBOX END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		3
+Position		192,5
+HitBox			192,5,212,19
+FileSize		0,0,20,14
+Scale			1,1
+[TEXTBOX START]
+TextBox			192,5,212,19
+TextScaling		1
+SortFlag		36
+RGBA			209,209,209
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		1
+[FONT_BOLD_START]
+0
+[TEXTBOX END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		0,0
+HitBox			0,0,25,25
+FileSize		0,0,25,25
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\GameRoom\GameRoom_Texture_1.tga
+TexFilePath		TexturesSV\ui\newUI\GameRoom\GameRoom_Texture_1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		211,453
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		2,44
+HitBox			2,44,58,63
+FileSize		0,0,56,19
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\GameRoom\GameRoom_Texture_1.tga
+TexFilePath		TexturesSV\ui\newUI\GameRoom\GameRoom_Texture_1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		153,449
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		2,44
+HitBox			2,44,58,63
+FileSize		0,0,56,19
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\GameRoom\GameRoom_Texture_1.tga
+TexFilePath		TexturesSV\ui\newUI\GameRoom\GameRoom_Texture_1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		238,452
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		1
+Position		0,0
+HitBox			0,0,211,64
+FileSize		0,0,211,64
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\GameRoom\GameRoom_Texture_3.tga
+TexFilePath		TexturesSV\ui\newUI\GameRoom\GameRoom_Texture_3.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[BUTTON START]
+NormalTex		0,0
+PressedTex		0,128
+DisableTex		0,0
+HighlightTex	0,64
+Size			211,64
+TextBoxSetApart	0
+IconFront		1
+TextBoxIndent	0
+Attribute		3
+Position		0,0
+HitBox			0,0,211,64
+FileSize		0,0,211,64
+Scale			1,1
+[TEXTBOX START]
+TextBox			0,0,211,64
+TextScaling		1
+SortFlag		36
+RGBA			0,0,0
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		0
+[FONT_BOLD_START]
+0
+[TEXTBOX END]
+[BUTTON END]
+[LISTITEM_END]
+[LISTITEM COMPLETE]
+[LISTBOX END]
+[END]	

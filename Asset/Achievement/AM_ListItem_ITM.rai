@@ -1,0 +1,207 @@
+[START]
+Attribute		5
+Position		0,0
+HitBox			0,0,482,59
+FileSize		0,0,482,59
+Scale			1,1
+[LISTITEM START]
+[LISTITEM]
+Attribute		0
+Position		0,0
+HitBox			0,0,482,59
+FileSize		0,0,482,59
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\CM_Popup_2.tga
+TexFilePath		TexturesSV\ui\newUI\Common\CM_Popup_2.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,838
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		7,2
+HitBox			7,2,29,24
+FileSize		0,0,42,42
+Scale			0.547619,0.52381
+[PICTURE START]
+FilePath		.\Texture\Achievement\AM_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\Achievement\AM_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		84,42
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		3
+Position		35,6
+HitBox			35,6,275,23
+FileSize		0,0,240,17
+Scale			1,1
+[TEXTBOX START]
+TextBox			35,6,275,23
+TextScaling		1.5
+SortFlag		36
+RGBA			236,229,210
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		1
+[FONT_BOLD_START]
+1
+[TEXTBOX END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		3
+Position		276,6
+HitBox			276,6,376,23
+FileSize		0,0,100,17
+Scale			1,1
+[TEXTBOX START]
+TextBox			276,6,376,23
+TextScaling		1
+SortFlag		38
+RGBA			225,190,94
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		1
+[FONT_BOLD_START]
+0
+[TEXTBOX END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		3
+Position		7,25
+HitBox			7,25,275,53
+FileSize		0,0,268,28
+Scale			1,1
+[TEXTBOX START]
+TextBox			7,25,275,53
+TextScaling		1
+SortFlag		36
+RGBA			209,209,209
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		1
+[FONT_BOLD_START]
+0
+[TEXTBOX END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		3
+Position		276,30
+HitBox			276,30,376,47
+FileSize		0,0,100,17
+Scale			1,1
+[TEXTBOX START]
+TextBox			276,30,376,47
+TextScaling		1
+SortFlag		38
+RGBA			209,209,209
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		1
+[FONT_BOLD_START]
+0
+[TEXTBOX END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		1
+Position		379,10
+HitBox			379,10,474,47
+FileSize		0,0,95,37
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\Common_Texture_1.tga
+TexFilePath		TexturesSV\ui\newUI\Common\Common_Texture_1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[BUTTON START]
+NormalTex		132,156
+PressedTex		417,156
+DisableTex		417,156
+HighlightTex	227,156
+Size			95,37
+TextBoxSetApart	0
+IconFront		1
+TextBoxIndent	0
+Attribute		3
+Position		0,0
+HitBox			379,10,474,47
+FileSize		0,0,95,37
+Scale			1,1
+[TEXTBOX START]
+TextBox			0,0,95,37
+TextScaling		1
+SortFlag		37
+RGBA			236,229,210
+DisableRGB		133,133,133
+Indent			0,0
+DefaultShow		1
+[FONT_BOLD_START]
+0
+[TEXTBOX END]
+[BUTTON END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		0,0
+HitBox			0,0,45,46
+FileSize		0,0,45,46
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Achievement\AM_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\Achievement\AM_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		126,0
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		11
+Position		3,54
+HitBox			3,54,479,56
+FileSize		0,0,476,2
+Scale			1,1
+[PROGRESSBAR START]
+FilePath		.\Texture\Common\CM_Popup_2.tga
+GaugePercentage	50
+ExtraGaugePercentage	0
+GaugeIndent		0,0
+GaugeCount		1
+Attribute		-1
+Position		3,54
+HitBox			3,54,479,56
+FileSize		0,0,476,2
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\CM_Popup_2.tga
+TexFilePath		TexturesSV\ui\newUI\Common\CM_Popup_2.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,899
+[PICTURE END]
+Attribute		-1
+Position		0,0
+HitBox			0,0,238,2
+FileSize		0,0,6,2
+Scale			0.793333,1
+[PICTURE START]
+FilePath		.\Texture\Common\CM_Popup_2.tga
+TexFilePath		TexturesSV\ui\newUI\Common\CM_Popup_2.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		626,499
+[PICTURE END]
+GaugeBarfScale	0.793333
+Attribute		-1
+Position		-1,-53
+HitBox			-1,-53,-1,-53
+FileSize		0,0,0,0
+Scale			1.#INF,1
+[PICTURE START]
+FilePath		D:\Rakion\DataSetup\UI\Texture\Common\CM_Popup_2.tga
+TexFilePath		TexturesSV\ui\newUI\Common\CM_Popup_2.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[PROGRESSBAR END]
+[LISTITEM_END]
+[LISTITEM COMPLETE]
+[END]	

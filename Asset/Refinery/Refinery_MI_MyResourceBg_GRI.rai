@@ -1,0 +1,21 @@
+[START]
+Attribute		14
+Position		0,0
+HitBox			0,0,180,422
+FileSize		0,0,180,422
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Refinery\Refinery_Texture_1.tga
+TexFilePath		TexturesSV\ui\newUI\Refinery\Refinery_Texture_1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[THIRDGRID START]
+FirstTex		0,61
+SecondTex		0,71
+ThirdTex		0,81
+ImageSize		180,10
+ScaleType		1
+Pixel	392
+[THIRDGRID END]
+[END]	

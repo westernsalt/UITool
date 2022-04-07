@@ -1,0 +1,55 @@
+[REVISE_FRAME]
+0,0
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Lobby\Lobby_ListBox_RoomList_LST.rai
+AssetPosition	0,48
+[END]	
+[START]
+AssetPath		.\Asset\Lobby\Lobby_ListSetting_BTN.rai
+AssetPosition	486,16
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_DecoLine_Top_L_PIC.rai
+AssetPosition	14,0
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_DecoLine_Bottom_L_PIC.rai
+AssetPosition	14,47
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_DecoLine_Bottom_L_PIC.rai
+AssetPosition	14,502
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Prev_BTN.rai
+AssetPosition	14,518
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Next_BTN.rai
+AssetPosition	94,518
+[END]	
+[START]
+AssetPath		.\Asset\Lobby\Lobby_Btn_QuickStart_BTN.rai
+AssetPosition	360,517
+[END]	
+[START]
+AssetPath		.\Asset\Lobby\Lobby_Btn_MakeGame_BTN.rai
+AssetPosition	200,517
+[END]	
+[START]
+AssetPath		.\Asset\Lobby\Lobby_Text_PageNum_TXT.rai
+AssetPosition	33,520
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_CheckBox_CHK.rai
+AssetPosition	16,20
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_CheckBox_CHK.rai
+AssetPosition	106,20
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_CheckBox_CHK.rai
+AssetPosition	196,20
+[END]	

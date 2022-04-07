@@ -1,0 +1,47 @@
+[REVISE_FRAME]
+334,216
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Event\Event_Alphabet_PIC.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Event\Event_Alphabet_ListBox_LST.rai
+AssetPosition	70,143
+[END]	
+[START]
+AssetPath		.\Asset\Event\Event_Alphabet_ListBox_LST.rai
+AssetPosition	70,197
+[END]	
+[START]
+AssetPath		.\Asset\Event\Event_Alphabet_ListBox_LST.rai
+AssetPosition	70,252
+[END]	
+[START]
+AssetPath		.\Asset\Event\Event_Text_W47_Bold_TXT.rai
+AssetPosition	14,140
+[END]	
+[START]
+AssetPath		.\Asset\Event\Event_Text_W47_Bold_TXT.rai
+AssetPosition	14,194
+[END]	
+[START]
+AssetPath		.\Asset\Event\Event_Text_W47_Bold_TXT.rai
+AssetPosition	14,249
+[END]	
+[START]
+AssetPath		.\Asset\Event\Event_Text_W349_Bold_TXT.rai
+AssetPosition	14,104
+[END]	
+[START]
+AssetPath		.\Asset\Event\Event_Text_W484_TXT.rai
+AssetPosition	14,307
+[END]	
+[START]
+AssetPath		.\Asset\Event\Event_Text_W81_Bold_TXT.rai
+AssetPosition	397,104
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Coin_Event_PIC.rai
+AssetPosition	482,109
+[END]	

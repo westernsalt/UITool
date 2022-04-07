@@ -1,0 +1,23 @@
+[START]
+Attribute		13
+Position		0,0
+HitBox			0,0,256,256
+FileSize		0,0,256,256
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\EXItem_Popup\EXItemPopup_Ani_EquipmentSynthesis_Texture3.tga
+TexFilePath		TexturesSV\ui\newUI\EXItem_Popup\EXItemPopup_Ani_EquipmentSynthesis_Texture3.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[ANIMATION START]
+TextureSize		1024,1024
+ImageStartPos		0,0
+ImageInterval		0,0
+ImageSize		256,256
+ImageNum	4,3
+ImageTotalNum			10
+AniLoop			1
+DelayTime			0.1
+[ANIMATION END]
+[END]	

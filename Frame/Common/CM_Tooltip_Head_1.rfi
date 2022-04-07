@@ -1,0 +1,55 @@
+[REVISE_FRAME]
+12,12
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Common\CM_Tooltip_ItemName_TXT.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Coin_Gold_PIC.rai
+AssetPosition	0,20
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Coin_Cash_PIC.rai
+AssetPosition	0,20
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_Preview_Text_Price_TXT.rai
+AssetPosition	20,20
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_Preview_Text_13L_TXT.rai
+AssetPosition	0,42
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_Preview_Text_13R_TXT.rai
+AssetPosition	134,42
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_Preview_Text_13L_TXT.rai
+AssetPosition	0,57
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_Preview_Text_13R_TXT.rai
+AssetPosition	134,57
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Tooltip_Text_TimeLimit_R_TXT.rai
+AssetPosition	134,20
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Coin_Clan_PIC.rai
+AssetPosition	0,20
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Coin_Event_PIC.rai
+AssetPosition	0,20
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_Popup_DiscountArrow_GRI.rai
+AssetPosition	18,24
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_Preview_Text_Price_Gray_TXT.rai
+AssetPosition	20,20
+[END]	

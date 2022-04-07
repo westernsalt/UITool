@@ -1,0 +1,51 @@
+[REVISE_FRAME]
+265,176
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Common\CM_Popup_1_PIC.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_Btn_Use_BTN.rai
+AssetPosition	69,266
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_Cancel_BTN.rai
+AssetPosition	279,266
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_Symbol_Compose_PIC.rai
+AssetPosition	220,17
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_Effect_AddPeriod_Bg_PIC.rai
+AssetPosition	173,90
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotBg_S64_BTN.rai
+AssetPosition	213,112
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_2_TXT.rai
+AssetPosition	20,213
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_AddPeriod_Arrow_PIC.rai
+AssetPosition	242,239
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_AddPeriod_Text_L_TXT.rai
+AssetPosition	269,239
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_AddPeriod_Text_R_TXT.rai
+AssetPosition	126,239
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_Ani_Effect_AddPeriod_IMG.rai
+AssetPosition	120,16
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_Ani_Effect_Common_IMG.rai
+AssetPosition	120,16
+[END]	

@@ -1,0 +1,21 @@
+[START]
+Attribute		14
+Position		0,0
+HitBox			0,0,328,116
+FileSize		0,0,328,116
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Lobby\Lobby_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\Lobby\Lobby_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[THIRDGRID START]
+FirstTex		422,139
+SecondTex		432,139
+ThirdTex		442,139
+ImageSize		10,116
+ScaleType		0
+Pixel	298
+[THIRDGRID END]
+[END]	

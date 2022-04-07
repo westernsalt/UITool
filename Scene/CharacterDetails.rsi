@@ -1,0 +1,15 @@
+[START]
+FrameFilePath	.\Frame\Cha_Details\CharacterDetails.rfi
+FramePosition	-128,-96
+FrameSize		1280,960
+[END]	
+[START]
+FrameFilePath	.\Frame\Cha_Details\CD_Mode.rfi
+FramePosition	357,339
+FrameSize		471,252
+[END]	
+[START]
+FrameFilePath	.\Frame\Cha_Details\CD_Stage.rfi
+FramePosition	357,339
+FrameSize		470,256
+[END]	

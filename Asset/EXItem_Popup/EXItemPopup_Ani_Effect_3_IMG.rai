@@ -1,0 +1,23 @@
+[START]
+Attribute		13
+Position		0,0
+HitBox			0,0,76,76
+FileSize		0,0,76,76
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\CM_RankSymbol_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\Common\CM_RankSymbol_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		284,196
+[PICTURE END]
+[ANIMATION START]
+TextureSize		512,512
+ImageStartPos		284,196
+ImageInterval		0,0
+ImageSize		76,76
+ImageNum	3,1
+ImageTotalNum			3
+AniLoop			0
+DelayTime			0.04
+[ANIMATION END]
+[END]	

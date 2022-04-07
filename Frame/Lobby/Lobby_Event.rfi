@@ -1,0 +1,12 @@
+[START]
+AssetPath		.\Asset\Lobby\Lobby_EventBg_PIC.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Lobby\Lobby_SubBtn_Event_Shop_BTN.rai
+AssetPosition	12,26
+[END]	
+[START]
+AssetPath		.\Asset\Lobby\Lobby_SubBtn_WebEvent_BTN.rai
+AssetPosition	12,64
+[END]	

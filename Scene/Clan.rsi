@@ -1,0 +1,72 @@
+[BACKGROUND]
+BackgroundPath	.\Asset\Common\CM_MainBg_PIC.rai
+[START]
+FrameFilePath	.\Frame\Common\CM_Main_TopMenu.rfi
+FramePosition	14,15
+FrameSize		994,83
+[END]	
+[START]
+FrameFilePath	.\Frame\Common\CM_Main_Bottom.rfi
+FramePosition	0,736
+FrameSize		1024,32
+[END]	
+[START]
+FrameFilePath	.\Frame\Common\CM_Tooltip_IconName.rfi
+FramePosition	266,90
+FrameSize		305,20
+[END]	
+[START]
+FrameFilePath	.\Frame\Common\CM_Megaphone.rfi
+FramePosition	35,726
+FrameSize		815,20
+[END]	
+[START]
+FrameFilePath	.\Frame\Common\CM_Notice.rfi
+FramePosition	0,110
+FrameSize		500,15
+[END]	
+[START]
+FrameFilePath	.\Frame\Clan\Clan_ClanDetail.rfi
+FramePosition	12,159
+FrameSize		476,361
+[END]	
+[START]
+FrameFilePath	.\Frame\Clan\Clan_ContentBg.rfi
+FramePosition	509,159
+FrameSize		496,503
+[END]	
+[START]
+FrameFilePath	.\Frame\Clan\Clan_ClanChat.rfi
+FramePosition	18,527
+FrameSize		473,139
+[END]	
+[START]
+FrameFilePath	.\Frame\Clan\Clan_Btn_Join.rfi
+FramePosition	175,575
+FrameSize		152,38
+[END]	
+[START]
+FrameFilePath	.\Frame\Clan\Clan_ClanInfo.rfi
+FramePosition	508,221
+FrameSize		498,438
+[END]	
+[START]
+FrameFilePath	.\Frame\Clan\Clan_Member.rfi
+FramePosition	508,208
+FrameSize		506,497
+[END]	
+[START]
+FrameFilePath	.\Frame\Clan\Clan_Search.rfi
+FramePosition	508,209
+FrameSize		498,485
+[END]	
+[START]
+FrameFilePath	.\Frame\Clan\Clan_WaitingJoin.rfi
+FramePosition	508,208
+FrameSize		506,451
+[END]	
+[START]
+FrameFilePath	.\Frame\Clan\Clan_Popup_SetPosition.rfi
+FramePosition	-128,-96
+FrameSize		1280,960
+[END]	

@@ -1,0 +1,198 @@
+[START]
+Attribute		6
+Position		0,0
+HitBox			0,0,348,506
+FileSize		0,0,348,506
+Scale			1,1
+[LISTBOX START]
+ListBoxArea		0,0,348,506
+FilePath		.\Texture\Server\ServerSelect_Texture.tga
+ScrollPath		
+ListItemPath	.\Asset\Server\Server_ListItem_ITM.rai
+ListItemCount	16
+ListInterval	0,2
+ListStartPos	0,22
+Attribute		0
+Position		0,0
+HitBox			0,0,348,506
+FileSize		0,0,348,506
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Server\ServerSelect_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\Server\ServerSelect_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		3,2
+[PICTURE END]
+Attribute		10
+Position		348,0
+HitBox			348,0,348,506
+FileSize		0,0,0,-2147483648
+Scale			1,1
+[SCROLL START]
+Attribute		1
+Position		0,0
+HitBox			0,0,0,0
+FileSize		0,0,0,0
+Scale			1,1
+[PICTURE START]
+FilePath		
+TexFilePath		
+FolderPath		
+StartPos		0,0
+[PICTURE END]
+[BUTTON START]
+NormalTex		0,0
+PressedTex		0,0
+DisableTex		0,0
+HighlightTex	0,0
+Size			0,0
+TextBoxSetApart	0
+IconFront		1
+TextBoxIndent	0
+Attribute		3
+Position		0,0
+HitBox			0,0,0,0
+FileSize		0,0,0,0
+Scale			1,1
+[TEXTBOX START]
+TextBox			0,0,0,0
+TextScaling		1
+SortFlag		37
+RGBA			0,0,0
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		1
+[TEXTBOX END]
+[BUTTON END]
+Attribute		-1
+Position		348,0
+HitBox			348,0,348,-2147483648
+FileSize		0,0,0,0
+Scale			1,1.#INF
+[PICTURE START]
+FilePath		
+TexFilePath		
+FolderPath		
+StartPos		0,0
+[PICTURE END]
+[SCROLL END]
+Attribute		5
+Position		5,0
+HitBox			0,0,348,30
+FileSize		0,0,348,30
+Scale			1,1
+[LISTITEM START]
+[LISTITEM]
+Attribute		1
+Position		0,0
+HitBox			0,0,348,30
+FileSize		0,0,348,30
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Server\ServerSelect_Texture1.tga
+TexFilePath		TexturesSV\ui\newUI\Server\ServerSelect_Texture1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[BUTTON START]
+NormalTex		3,478
+PressedTex		3,36
+DisableTex		3,478
+HighlightTex	3,3
+Size			348,30
+TextBoxSetApart	0
+IconFront		1
+TextBoxIndent	0
+Attribute		3
+Position		0,0
+HitBox			0,0,348,30
+FileSize		0,0,348,30
+Scale			1,1
+[TEXTBOX START]
+TextBox			0,0,348,30
+TextScaling		1
+SortFlag		36
+RGBA			0,0,0
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		0
+[TEXTBOX END]
+[BUTTON END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		3
+Position		21,5
+HitBox			21,5,185,25
+FileSize		0,0,164,20
+Scale			1,1
+[TEXTBOX START]
+TextBox			21,5,185,25
+TextScaling		1
+SortFlag		36
+RGBA			255,255,255
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		1
+[TEXTBOX END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		3
+Position		203,5
+HitBox			203,5,269,25
+FileSize		0,0,66,20
+Scale			1,1
+[TEXTBOX START]
+TextBox			203,5,269,25
+TextScaling		1
+SortFlag		37
+RGBA			255,255,255
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		1
+[TEXTBOX END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		3
+Position		273,5
+HitBox			273,5,339,25
+FileSize		0,0,66,20
+Scale			1,1
+[TEXTBOX START]
+TextBox			273,5,339,25
+TextScaling		1
+SortFlag		37
+RGBA			255,255,255
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		1
+[TEXTBOX END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		0,0
+HitBox			0,0,0,0
+FileSize		0,0,0,0
+Scale			0,0
+[PICTURE START]
+FilePath		
+TexFilePath		
+FolderPath		
+StartPos		0,0
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		0,0
+HitBox			0,0,0,0
+FileSize		0,0,0,0
+Scale			0,0
+[PICTURE START]
+FilePath		
+TexFilePath		
+FolderPath		
+StartPos		0,0
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM COMPLETE]
+[LISTBOX END]
+[END]	

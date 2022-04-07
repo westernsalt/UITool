@@ -1,0 +1,215 @@
+[REVISE_FRAME]
+0,0
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Shop\Shop_Menu_Equipment_BTN.rai
+AssetPosition	93,0
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_Menu_Jewelry_BTN.rai
+AssetPosition	138,0
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_Menu_CashItem_BTN.rai
+AssetPosition	183,0
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_Menu_Creature_BTN.rai
+AssetPosition	228,0
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_Menu_SetItem_BTN.rai
+AssetPosition	273,0
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_Menu_Potion_BTN.rai
+AssetPosition	318,0
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_Menu_ExItem_BTN.rai
+AssetPosition	363,0
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_Menu_ETC_BTN.rai
+AssetPosition	409,0
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_Menu_New_BTN.rai
+AssetPosition	3,0
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_Menu_Limited_BTN.rai
+AssetPosition	48,0
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_SubMenu_Equipment_Helmet_BTN.rai
+AssetPosition	24,43
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_SubMenu_Equipment_Armor_BTN.rai
+AssetPosition	69,43
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_SubMenu_Equipment_Shoulder_BTN.rai
+AssetPosition	114,43
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_SubMenu_Equipment_Wrist_BTN.rai
+AssetPosition	159,43
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_SubMenu_Equipment_Sword_BTN.rai
+AssetPosition	204,43
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_SubMenu_Equipment_Bow_BTN.rai
+AssetPosition	249,43
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_SubMenu_Equipment_AttributeStone_BTN.rai
+AssetPosition	294,43
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_SubMenu_Jewelry_necklace_BTN.rai
+AssetPosition	24,43
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_SubMenu_Jewelry_Ring_BTN.rai
+AssetPosition	69,43
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_SubMenu_Jewelry_Bead_BTN.rai
+AssetPosition	114,43
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_SubMenu_ETC_QuestScroll_BTN.rai
+AssetPosition	24,43
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_SubMenu_ETC_Dye_BTN.rai
+AssetPosition	69,43
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_SubMenu_CashItem_Body_BTN.rai
+AssetPosition	24,43
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_SubMenu_CashItem_Head_BTN.rai
+AssetPosition	69,43
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_SubMenu_CashItem_Cloak_BTN.rai
+AssetPosition	114,43
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_DecoLine_Bottom_L_PIC.rai
+AssetPosition	4,76
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_DecoLine_Bottom_L_PIC.rai
+AssetPosition	149,76
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_DecoLine_Bottom_L_PIC.rai
+AssetPosition	4,502
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_DecoLine_Bottom_L_PIC.rai
+AssetPosition	149,502
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_Preview_Bg_GRI.rai
+AssetPosition	355,84
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Tooltip_ItemName_TXT.rai
+AssetPosition	370,296
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_ItemSlot_ListBox_LST.rai
+AssetPosition	0,83
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Coin_Cash_PIC.rai
+AssetPosition	370,317
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Coin_Gold_PIC.rai
+AssetPosition	370,317
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_Preview_TimeBg_PIC.rai
+AssetPosition	368,92
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_Preview_TimeBg_PIC.rai
+AssetPosition	560,92
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_Preview_Text_TXT.rai
+AssetPosition	373,94
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_Preview_Text_TXT.rai
+AssetPosition	566,94
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_Preview_Text_Price_TXT.rai
+AssetPosition	389,316
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_Preview_Text_13L_TXT.rai
+AssetPosition	370,342
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_Preview_Text_13R_TXT.rai
+AssetPosition	505,342
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_Preview_Text_13L_TXT.rai
+AssetPosition	370,360
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_Preview_Text_13R_TXT.rai
+AssetPosition	505,360
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_64_PIC.rai
+AssetPosition	467,169
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_Preview_ItemExplain_TXT.rai
+AssetPosition	370,401
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_Preview_Pink_13R_TXT.rai
+AssetPosition	505,316
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_Preview_Red_13R_TXT.rai
+AssetPosition	505,378
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_Preview_Text_13L_TXT.rai
+AssetPosition	370,378
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_Menu_Core_BTN.rai
+AssetPosition	183,0
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_Menu_Gem_BTN.rai
+AssetPosition	273,0
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Coin_Clan_PIC.rai
+AssetPosition	370,317
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Coin_Event_PIC.rai
+AssetPosition	370,317
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_Text_W640_TXT.rai
+AssetPosition	2,280
+[END]	

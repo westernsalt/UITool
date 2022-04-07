@@ -1,0 +1,39 @@
+[REVISE_FRAME]
+-128,-96
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Common\PopupBg\Refinery_Blur_Bg_PIC.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_1_PIC.rai
+AssetPosition	393,272
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_Fail_Img_PIC.rai
+AssetPosition	512,183
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_Ani_Fail_IMG.rai
+AssetPosition	516,153
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_Fail_Text_PIC.rai
+AssetPosition	586,271
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_OK_BTN.rai
+AssetPosition	564,538
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotBg_S64_PIC.rai
+AssetPosition	606,387
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_64_PIC.rai
+AssetPosition	609,390
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_Text_12_TXT.rai
+AssetPosition	407,477
+[END]	

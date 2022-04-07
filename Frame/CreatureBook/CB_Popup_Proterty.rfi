@@ -1,0 +1,195 @@
+[REVISE_FRAME]
+258,165
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\CreatureBook\CB_PopupBg_DetailInfo_L_GRI.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Bg_DividePage_H380_PIC.rai
+AssetPosition	230,36
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Close_BTN.rai
+AssetPosition	477,9
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_Buy_BTN.rai
+AssetPosition	41,376
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_14Px_TXT.rai
+AssetPosition	275,33
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W124_L_TXT.rai
+AssetPosition	250,61
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W124_L_TXT.rai
+AssetPosition	250,81
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W124_L_TXT.rai
+AssetPosition	250,105
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W112_R_TXT.rai
+AssetPosition	374,105
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W124_L_TXT.rai
+AssetPosition	250,125
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W124_L_TXT.rai
+AssetPosition	250,152
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W49_TXT.rai
+AssetPosition	376,152
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W59_TXT.rai
+AssetPosition	427,152
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W124_L_TXT.rai
+AssetPosition	250,170
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W49_TXT.rai
+AssetPosition	376,170
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W59_TXT.rai
+AssetPosition	427,170
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W124_L_TXT.rai
+AssetPosition	250,188
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W49_TXT.rai
+AssetPosition	376,188
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W59_TXT.rai
+AssetPosition	427,188
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W124_L_TXT.rai
+AssetPosition	250,206
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W49_TXT.rai
+AssetPosition	376,206
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W59_TXT.rai
+AssetPosition	427,206
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W124_L_TXT.rai
+AssetPosition	250,224
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W49_TXT.rai
+AssetPosition	376,224
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W59_TXT.rai
+AssetPosition	427,224
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W124_L_TXT.rai
+AssetPosition	250,242
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W49_TXT.rai
+AssetPosition	376,242
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W59_TXT.rai
+AssetPosition	427,242
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W124_L_TXT.rai
+AssetPosition	250,260
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W49_TXT.rai
+AssetPosition	376,260
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W59_TXT.rai
+AssetPosition	427,260
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W124_L_TXT.rai
+AssetPosition	250,278
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W49_TXT.rai
+AssetPosition	376,278
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W59_TXT.rai
+AssetPosition	427,278
+[END]	
+[START]
+AssetPath		.\Asset\Common\Creature_Property\CM_CP_Dark_PIC.rai
+AssetPosition	247,31
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W124_L_TXT.rai
+AssetPosition	250,308
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_CP_Dark_S_PIC.rai
+AssetPosition	246,347
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_CP_Fire_S_PIC.rai
+AssetPosition	246,383
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_CP_Light_S_PIC.rai
+AssetPosition	246,365
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_CP_None_S_PIC.rai
+AssetPosition	246,401
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_CP_Water_S_PIC.rai
+AssetPosition	246,419
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_CP_Wind_S_PIC.rai
+AssetPosition	246,329
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W221_TXT.rai
+AssetPosition	265,328
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W221_TXT.rai
+AssetPosition	265,346
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W221_TXT.rai
+AssetPosition	265,364
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W221_TXT.rai
+AssetPosition	265,382
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W221_TXT.rai
+AssetPosition	265,400
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W221_TXT.rai
+AssetPosition	265,418
+[END]	

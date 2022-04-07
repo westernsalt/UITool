@@ -1,0 +1,13 @@
+[START]
+Attribute		0
+Position		0,0
+HitBox			0,0,60,60
+FileSize		0,0,60,60
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Gacha\Gacha_Texture_1.tga
+TexFilePath		TexturesSV\ui\newUI\Gacha\Gacha_Texture_1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		296,90
+[PICTURE END]
+[END]	

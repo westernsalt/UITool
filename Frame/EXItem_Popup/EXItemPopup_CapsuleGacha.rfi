@@ -1,0 +1,127 @@
+[REVISE_FRAME]
+650,149
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_CG_Bg_PIC.rai
+AssetPosition	13,0
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_CG_Text_Bold_TXT.rai
+AssetPosition	44,410
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_CG_Text_1_TXT.rai
+AssetPosition	29,450
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_60_PIC.rai
+AssetPosition	29,76
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_60_PIC.rai
+AssetPosition	94,76
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_60_PIC.rai
+AssetPosition	159,76
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_60_PIC.rai
+AssetPosition	224,76
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_60_PIC.rai
+AssetPosition	289,76
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_60_PIC.rai
+AssetPosition	29,141
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_60_PIC.rai
+AssetPosition	94,141
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_60_PIC.rai
+AssetPosition	159,141
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_60_PIC.rai
+AssetPosition	224,141
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_60_PIC.rai
+AssetPosition	289,141
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_60_PIC.rai
+AssetPosition	29,206
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_60_PIC.rai
+AssetPosition	94,206
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_60_PIC.rai
+AssetPosition	159,206
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_60_PIC.rai
+AssetPosition	224,206
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_60_PIC.rai
+AssetPosition	289,206
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_60_PIC.rai
+AssetPosition	29,271
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_60_PIC.rai
+AssetPosition	94,271
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_60_PIC.rai
+AssetPosition	159,271
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_60_PIC.rai
+AssetPosition	224,271
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_60_PIC.rai
+AssetPosition	289,271
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_60_PIC.rai
+AssetPosition	29,336
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_60_PIC.rai
+AssetPosition	94,336
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_60_PIC.rai
+AssetPosition	159,336
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_60_PIC.rai
+AssetPosition	224,336
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_60_PIC.rai
+AssetPosition	289,336
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Load_ItemIcon_56_PIC.rai
+AssetPosition	161,5
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_Ani_Effect_3_IMG.rai
+AssetPosition	21,68
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_Ani_Effect_4_IMG.rai
+AssetPosition	0,47
+[END]	

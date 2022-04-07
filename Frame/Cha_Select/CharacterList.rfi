@@ -1,0 +1,20 @@
+[START]
+AssetPath		.\Asset\Cha_Select\CS_ChaListBox_LST.rai
+AssetPosition	0,13
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Select\CS_DecoLine_Top_PIC.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Select\CS_DecoLine_Bottom_PIC.rai
+AssetPosition	0,473
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Select\CS_Tutorial_BTN.rai
+AssetPosition	19,495
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Select\CS_Delete_BTN.rai
+AssetPosition	19,549
+[END]	

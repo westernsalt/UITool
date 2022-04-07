@@ -1,0 +1,159 @@
+[REVISE_FRAME]
+448,218
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Quest\Quest_Text_1_TXT.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Quest\Quest_Text_2_TXT.rai
+AssetPosition	94,0
+[END]	
+[START]
+AssetPath		.\Asset\Quest\Quest_Text_1_TXT.rai
+AssetPosition	0,63
+[END]	
+[START]
+AssetPath		.\Asset\Quest\Quest_Text_4_TXT.rai
+AssetPosition	94,63
+[END]	
+[START]
+AssetPath		.\Asset\Quest\Quest_Text_1_TXT.rai
+AssetPosition	0,90
+[END]	
+[START]
+AssetPath		.\Asset\Quest\Quest_Progressbar_Orange_PRG.rai
+AssetPosition	93,87
+[END]	
+[START]
+AssetPath		.\Asset\Quest\Quest_Text_5_TXT.rai
+AssetPosition	96,91
+[END]	
+[START]
+AssetPath		.\Asset\Quest\Quest_Text_3_TXT.rai
+AssetPosition	0,124
+[END]	
+[START]
+AssetPath		.\Asset\Quest\Quest_CoinSlot_PIC.rai
+AssetPosition	2,147
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Coin_Gold_PIC.rai
+AssetPosition	8,152
+[END]	
+[START]
+AssetPath		.\Asset\Quest\Quest_Text_4_TXT.rai
+AssetPosition	31,153
+[END]	
+[START]
+AssetPath		.\Asset\Quest\Quest_CoinSlot_PIC.rai
+AssetPosition	129,147
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Icon_EXP_PIC.rai
+AssetPosition	136,155
+[END]	
+[START]
+AssetPath		.\Asset\Quest\Quest_Text_4_TXT.rai
+AssetPosition	167,153
+[END]	
+[START]
+AssetPath		.\Asset\Quest\Quest_CoinSlot_PIC.rai
+AssetPosition	256,147
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Coin_Event_PIC.rai
+AssetPosition	261,152
+[END]	
+[START]
+AssetPath		.\Asset\Quest\Quest_Text_4_TXT.rai
+AssetPosition	285,153
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotBg_S64_PIC.rai
+AssetPosition	2,180
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotBg_S64_PIC.rai
+AssetPosition	79,180
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotBg_S64_PIC.rai
+AssetPosition	155,180
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotBg_S64_PIC.rai
+AssetPosition	232,180
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotBg_S64_PIC.rai
+AssetPosition	308,180
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotBg_S64_PIC.rai
+AssetPosition	2,256
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotBg_S64_PIC.rai
+AssetPosition	79,256
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotBg_S64_PIC.rai
+AssetPosition	155,256
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotBg_S64_PIC.rai
+AssetPosition	232,256
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotBg_S64_PIC.rai
+AssetPosition	308,256
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_64_PIC.rai
+AssetPosition	5,183
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_64_PIC.rai
+AssetPosition	82,183
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_64_PIC.rai
+AssetPosition	158,183
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_64_PIC.rai
+AssetPosition	235,183
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_64_PIC.rai
+AssetPosition	311,183
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_64_PIC.rai
+AssetPosition	5,259
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_64_PIC.rai
+AssetPosition	82,259
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_64_PIC.rai
+AssetPosition	158,259
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_64_PIC.rai
+AssetPosition	235,259
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_64_PIC.rai
+AssetPosition	311,259
+[END]	
+[START]
+AssetPath		.\Asset\Quest\Quest_Btn_GiveUp_BTN.rai
+AssetPosition	236,340
+[END]	
+[START]
+AssetPath		.\Asset\Quest\Quest_Btn_Reward_BTN.rai
+AssetPosition	236,340
+[END]	

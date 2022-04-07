@@ -1,0 +1,87 @@
+[REVISE_FRAME]
+-128,-96
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Common\PopupBg\Shop_Blur_Bg_PIC.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_1_PIC.rai
+AssetPosition	393,272
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_Symbol_Basic_PIC.rai
+AssetPosition	613,289
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_Buy_BTN.rai
+AssetPosition	462,538
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_Cancel_BTN.rai
+AssetPosition	672,538
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_Popup_ItemPreview_TopLine_PIC.rai
+AssetPosition	436,371
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_Popup_ItemPreview_BottomLine_PIC.rai
+AssetPosition	436,509
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_64_PIC.rai
+AssetPosition	477,411
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Tooltip_ItemName_TXT.rai
+AssetPosition	594,376
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Coin_Gold_PIC.rai
+AssetPosition	720,468
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Coin_Cash_PIC.rai
+AssetPosition	720,468
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_DotLine_PIC.rai
+AssetPosition	595,447
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Coin_Gold_PIC.rai
+AssetPosition	720,494
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_Text_Yellow_TXT.rai
+AssetPosition	739,470
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_Text_Blue_TXT.rai
+AssetPosition	739,470
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_Text_Yellow_TXT.rai
+AssetPosition	739,496
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_Text_Gray_TXT.rai
+AssetPosition	602,470
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_Text_Gray_TXT.rai
+AssetPosition	602,496
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_Minus_BTN.rai
+AssetPosition	595,410
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_Plus_BTN.rai
+AssetPosition	693,410
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_TextInput_Num_INP.rai
+AssetPosition	617,405
+[END]	

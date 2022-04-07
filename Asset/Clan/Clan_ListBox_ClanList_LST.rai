@@ -1,0 +1,203 @@
+[START]
+Attribute		6
+Position		0,0
+HitBox			0,0,498,460
+FileSize		0,0,498,460
+Scale			1,1
+[LISTBOX START]
+ListBoxArea		0,0,498,460
+FilePath		
+ScrollPath		
+ListItemPath	.\Asset\Clan\Clan_ListItem_ClanList_ITM.rai
+ListItemCount	10
+ListInterval	0,1
+ListStartPos	0,0
+Attribute		0
+Position		0,0
+HitBox			0,0,498,460
+FileSize		0,0,498,460
+Scale			1,1
+[PICTURE START]
+FilePath		
+TexFilePath		
+FolderPath		
+StartPos		0,0
+[PICTURE END]
+Attribute		10
+Position		0,0
+HitBox			0,0,6,0
+FileSize		0,0,6,0
+Scale			1,1
+[SCROLL START]
+Attribute		1
+Position		0,0
+HitBox			0,0,6,18
+FileSize		0,0,6,18
+Scale			1,1
+[PICTURE START]
+FilePath		
+TexFilePath		
+FolderPath		
+StartPos		0,0
+[PICTURE END]
+[BUTTON START]
+NormalTex		505,2
+PressedTex		505,24
+DisableTex		505,2
+HighlightTex	499,24
+Size			6,18
+TextBoxSetApart	0
+IconFront		1
+TextBoxIndent	0
+Attribute		3
+Position		0,0
+HitBox			0,0,0,0
+FileSize		0,0,0,0
+Scale			1,1
+[TEXTBOX START]
+TextBox			0,0,0,0
+TextScaling		1
+SortFlag		37
+RGBA			0,0,0
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		1
+[FONT_BOLD_START]
+0
+[TEXTBOX END]
+[BUTTON END]
+Attribute		-1
+Position		3,0
+HitBox			3,0,3,0
+FileSize		0,0,0,0
+Scale			1,1
+[PICTURE START]
+FilePath		
+TexFilePath		
+FolderPath		
+StartPos		0,0
+[PICTURE END]
+[SCROLL END]
+Attribute		5
+Position		0,0
+HitBox			0,0,498,44
+FileSize		0,0,498,44
+Scale			1,1
+[LISTITEM START]
+[LISTITEM]
+Attribute		1
+Position		0,0
+HitBox			0,0,498,44
+FileSize		0,0,498,44
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\Common_Texture_1.tga
+TexFilePath		TexturesSV\ui\newUI\Common\Common_Texture_1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[BUTTON START]
+NormalTex		1,19
+PressedTex		1,110
+DisableTex		1,19
+HighlightTex	1,64
+Size			498,44
+TextBoxSetApart	0
+IconFront		1
+TextBoxIndent	0
+Attribute		3
+Position		0,0
+HitBox			0,0,498,44
+FileSize		0,0,498,44
+Scale			1,1
+[TEXTBOX START]
+TextBox			0,0,498,44
+TextScaling		1
+SortFlag		36
+RGBA			0,0,0
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		0
+[FONT_BOLD_START]
+0
+[TEXTBOX END]
+[BUTTON END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		3,3
+HitBox			3,3,41,41
+FileSize		0,0,38,38
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Lobby\Lobby_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\Lobby\Lobby_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		472,1
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		3
+Position		8,14
+HitBox			8,14,38,30
+FileSize		0,0,30,16
+Scale			1,1
+[TEXTBOX START]
+TextBox			8,14,38,30
+TextScaling		1
+SortFlag		37
+RGBA			209,209,209
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		1
+[FONT_BOLD_START]
+0
+[TEXTBOX END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		51,2
+HitBox			51,2,91,42
+FileSize		0,0,40,40
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Lobby\Lobby_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\Lobby\Lobby_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		381,185
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		55,6
+HitBox			55,6,87,38
+FileSize		0,0,32,32
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\Common_Texture_1.tga
+TexFilePath		TexturesSV\ui\newUI\Common\Common_Texture_1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		393,224
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		3
+Position		102,14
+HitBox			102,14,472,30
+FileSize		0,0,370,16
+Scale			1,1
+[TEXTBOX START]
+TextBox			102,14,472,30
+TextScaling		1
+SortFlag		36
+RGBA			209,209,209
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		1
+[FONT_BOLD_START]
+0
+[TEXTBOX END]
+[LISTITEM_END]
+[LISTITEM COMPLETE]
+[LISTBOX END]
+[END]	

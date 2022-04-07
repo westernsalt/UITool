@@ -1,0 +1,15 @@
+[START]
+FrameFilePath	.\Frame\Quest\Quest.rfi
+FramePosition	-128,-96
+FrameSize		1280,960
+[END]	
+[START]
+FrameFilePath	.\Frame\Quest\Quest_Accept.rfi
+FramePosition	448,218
+FrameSize		388,378
+[END]	
+[START]
+FrameFilePath	.\Frame\Quest\Quest_None.rfi
+FramePosition	448,302
+FrameSize		380,305
+[END]	

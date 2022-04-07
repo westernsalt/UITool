@@ -1,0 +1,135 @@
+[REVISE_FRAME]
+-128,-95
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Common\PopupBg\CM_BlackBg_Popup_PIC.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_1_PIC.rai
+AssetPosition	393,271
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_Symbol_Basic_PIC.rai
+AssetPosition	613,288
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Close_BTN.rai
+AssetPosition	857,330
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_2_TXT.rai
+AssetPosition	412,363
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_TableBg_1_PIC.rai
+AssetPosition	439,469
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W109_TXT.rai
+AssetPosition	441,499
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W93_TXT.rai
+AssetPosition	553,472
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W93_TXT.rai
+AssetPosition	649,472
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W93_TXT.rai
+AssetPosition	746,472
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W109_TXT.rai
+AssetPosition	441,526
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W109_TXT.rai
+AssetPosition	441,553
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W93_TXT.rai
+AssetPosition	553,499
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W93_TXT.rai
+AssetPosition	649,499
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W93_TXT.rai
+AssetPosition	745,499
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W93_TXT.rai
+AssetPosition	649,526
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W93_TXT.rai
+AssetPosition	745,526
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W93_TXT.rai
+AssetPosition	745,553
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotBg_PIC.rai
+AssetPosition	527,391
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotBg_PIC.rai
+AssetPosition	607,391
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotBg_PIC.rai
+AssetPosition	687,391
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_60_PIC.rai
+AssetPosition	530,394
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Creature_SlotDeco_S60_PIC.rai
+AssetPosition	530,394
+[END]	
+[START]
+AssetPath		.\Asset\Common\Creatrue_Upgrade\CM_Creature_Plus1_PIC.rai
+AssetPosition	570,397
+[END]	
+[START]
+AssetPath		.\Asset\Common\Creature_Property\CM_CP_Light_PIC.rai
+AssetPosition	530,428
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_60_PIC.rai
+AssetPosition	610,394
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Creature_SlotDeco_S60_PIC.rai
+AssetPosition	610,394
+[END]	
+[START]
+AssetPath		.\Asset\Common\Creatrue_Upgrade\CM_Creature_Plus1_PIC.rai
+AssetPosition	650,397
+[END]	
+[START]
+AssetPath		.\Asset\Common\Creature_Property\CM_CP_None_PIC.rai
+AssetPosition	610,428
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_60_PIC.rai
+AssetPosition	690,394
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Creature_SlotDeco_S60_PIC.rai
+AssetPosition	690,394
+[END]	
+[START]
+AssetPath		.\Asset\Common\Creatrue_Upgrade\CM_Creature_Plus1_PIC.rai
+AssetPosition	730,397
+[END]	
+[START]
+AssetPath		.\Asset\Common\Creature_Property\CM_CP_Water_PIC.rai
+AssetPosition	690,428
+[END]	

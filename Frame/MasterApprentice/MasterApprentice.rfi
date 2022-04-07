@@ -1,0 +1,27 @@
+[REVISE_FRAME]
+-128,-96
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Common\PopupBg\Inven_Blur_Bg_PIC.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_2_PIC.rai
+AssetPosition	302,245
+[END]	
+[START]
+AssetPath		.\Asset\MasterApprentice\MA_PT_PIC.rai
+AssetPosition	530,255
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Close_BTN.rai
+AssetPosition	945,283
+[END]	
+[START]
+AssetPath		.\Asset\MasterApprentice\MA_BalckBg_PIC.rai
+AssetPosition	376,309
+[END]	
+[START]
+AssetPath		.\Asset\MasterApprentice\MA_TabBtn_TAB.rai
+AssetPosition	317,308
+[END]	

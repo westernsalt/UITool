@@ -1,0 +1,59 @@
+[REVISE_FRAME]
+1,6
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Common\CM_Tooltip_Line_PIC.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_CP_Dark_S_PIC.rai
+AssetPosition	13,28
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_CP_Fire_S_PIC.rai
+AssetPosition	13,47
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_CP_Light_S_PIC.rai
+AssetPosition	13,66
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_CP_None_S_PIC.rai
+AssetPosition	13,85
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_CP_Water_S_PIC.rai
+AssetPosition	13,104
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_CP_Wind_S_PIC.rai
+AssetPosition	13,123
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Tooltip_Text_Property_TXT.rai
+AssetPosition	13,10
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Tooltip_Text_Property_TXT.rai
+AssetPosition	32,29
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Tooltip_Text_Property_TXT.rai
+AssetPosition	32,48
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Tooltip_Text_Property_TXT.rai
+AssetPosition	32,67
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Tooltip_Text_Property_TXT.rai
+AssetPosition	32,86
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Tooltip_Text_Property_TXT.rai
+AssetPosition	32,105
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Tooltip_Text_Property_TXT.rai
+AssetPosition	32,124
+[END]	

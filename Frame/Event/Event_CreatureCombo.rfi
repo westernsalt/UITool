@@ -1,0 +1,67 @@
+[REVISE_FRAME]
+334,216
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Event\Event_CreatureCombo_PIC.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_TipIcon_PIC.rai
+AssetPosition	26,364
+[END]	
+[START]
+AssetPath		.\Asset\Event\Event_Text_W462_TXT.rai
+AssetPosition	45,364
+[END]	
+[START]
+AssetPath		.\Asset\Event\Event_CC_ListBox_Creature_LST.rai
+AssetPosition	24,130
+[END]	
+[START]
+AssetPath		.\Asset\Event\Event_Text_W93_TXT.rai
+AssetPosition	141,236
+[END]	
+[START]
+AssetPath		.\Asset\Event\Event_Text_W93_TXT.rai
+AssetPosition	237,236
+[END]	
+[START]
+AssetPath		.\Asset\Event\Event_Text_W93_TXT.rai
+AssetPosition	333,236
+[END]	
+[START]
+AssetPath		.\Asset\Event\Event_Text_W93_TXT.rai
+AssetPosition	36,263
+[END]	
+[START]
+AssetPath		.\Asset\Event\Event_Text_W93_TXT.rai
+AssetPosition	36,290
+[END]	
+[START]
+AssetPath		.\Asset\Event\Event_Text_W93_TXT.rai
+AssetPosition	36,317
+[END]	
+[START]
+AssetPath		.\Asset\Event\Event_Text_W93_Yellow_TXT.rai
+AssetPosition	141,263
+[END]	
+[START]
+AssetPath		.\Asset\Event\Event_Text_W93_Yellow_TXT.rai
+AssetPosition	237,263
+[END]	
+[START]
+AssetPath		.\Asset\Event\Event_Text_W93_Yellow_TXT.rai
+AssetPosition	237,290
+[END]	
+[START]
+AssetPath		.\Asset\Event\Event_Text_W93_Yellow_TXT.rai
+AssetPosition	333,263
+[END]	
+[START]
+AssetPath		.\Asset\Event\Event_Text_W93_Yellow_TXT.rai
+AssetPosition	333,290
+[END]	
+[START]
+AssetPath		.\Asset\Event\Event_Text_W93_Yellow_TXT.rai
+AssetPosition	333,317
+[END]	

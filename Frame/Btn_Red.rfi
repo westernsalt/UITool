@@ -1,0 +1,11 @@
+[REVISE_FRAME]
+0,0
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Cha_Create\CC_Btn_ChaCreate_BTN.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Select\CS_Btn_Enter_BTN.rai
+AssetPosition	0,0
+[END]	

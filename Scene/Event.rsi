@@ -1,0 +1,25 @@
+[START]
+FrameFilePath	.\Frame\Event\Event.rfi
+FramePosition	-129,-96
+FrameSize		1280,960
+[END]	
+[START]
+FrameFilePath	.\Frame\Event\Event_Attendance.rfi
+FramePosition	334,216
+FrameSize		509,392
+[END]	
+[START]
+FrameFilePath	.\Frame\Event\Event_Alphabet.rfi
+FramePosition	334,216
+FrameSize		509,392
+[END]	
+[START]
+FrameFilePath	.\Frame\Event\Event_CreatureCombo.rfi
+FramePosition	334,216
+FrameSize		509,393
+[END]	
+[START]
+FrameFilePath	.\Frame\Event\Event_LoginGauge.rfi
+FramePosition	334,216
+FrameSize		509,393
+[END]	

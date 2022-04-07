@@ -1,0 +1,255 @@
+[REVISE_FRAME]
+16,217
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Common\CM_DecoLine_Bottom_L_PIC.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_DecoLine_Bottom_L_PIC.rai
+AssetPosition	145,0
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_DecoLine_Bottom_L_PIC.rai
+AssetPosition	0,426
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_DecoLine_Bottom_L_PIC.rai
+AssetPosition	145,426
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_ListBox_LST.rai
+AssetPosition	0,3
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_MyResourceBg_GRI.rai
+AssetPosition	462,2
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_Text_W172_TXT.rai
+AssetPosition	466,12
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_LoadIcon_S22_PIC.rai
+AssetPosition	466,39
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_Text_W66_TXT.rai
+AssetPosition	489,40
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_LoadIcon_S22_PIC.rai
+AssetPosition	557,39
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_Text_W66_TXT.rai
+AssetPosition	580,40
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_LoadIcon_S22_PIC.rai
+AssetPosition	466,67
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_Text_W66_TXT.rai
+AssetPosition	489,68
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_LoadIcon_S22_PIC.rai
+AssetPosition	557,67
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_Text_W66_TXT.rai
+AssetPosition	580,68
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_LoadIcon_S22_PIC.rai
+AssetPosition	466,94
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_Text_W66_TXT.rai
+AssetPosition	489,95
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_LoadIcon_S22_PIC.rai
+AssetPosition	557,94
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_Text_W66_TXT.rai
+AssetPosition	580,95
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_LoadIcon_S22_PIC.rai
+AssetPosition	466,122
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_Text_W66_TXT.rai
+AssetPosition	489,123
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_LoadIcon_S22_PIC.rai
+AssetPosition	557,122
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_Text_W66_TXT.rai
+AssetPosition	580,123
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_LoadIcon_S22_PIC.rai
+AssetPosition	466,149
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_Text_W66_TXT.rai
+AssetPosition	489,150
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_LoadIcon_S22_PIC.rai
+AssetPosition	557,149
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_Text_W66_TXT.rai
+AssetPosition	580,150
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_LoadIcon_S22_PIC.rai
+AssetPosition	466,177
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_Text_W66_TXT.rai
+AssetPosition	489,178
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_LoadIcon_S22_PIC.rai
+AssetPosition	557,177
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_Text_W66_TXT.rai
+AssetPosition	580,178
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_LoadIcon_S22_PIC.rai
+AssetPosition	466,204
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_Text_W66_TXT.rai
+AssetPosition	489,205
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_LoadIcon_S22_PIC.rai
+AssetPosition	557,204
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_Text_W66_TXT.rai
+AssetPosition	580,205
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_LoadIcon_S22_PIC.rai
+AssetPosition	466,232
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_Text_W66_TXT.rai
+AssetPosition	489,233
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_LoadIcon_S22_PIC.rai
+AssetPosition	557,232
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_Text_W66_TXT.rai
+AssetPosition	580,233
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_LoadIcon_S22_PIC.rai
+AssetPosition	466,259
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_Text_W66_TXT.rai
+AssetPosition	489,260
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_LoadIcon_S22_PIC.rai
+AssetPosition	557,259
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_Text_W66_TXT.rai
+AssetPosition	580,260
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_LoadIcon_S22_PIC.rai
+AssetPosition	466,287
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_Text_W66_TXT.rai
+AssetPosition	489,288
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_LoadIcon_S22_PIC.rai
+AssetPosition	557,287
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_Text_W66_TXT.rai
+AssetPosition	580,288
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_LoadIcon_S22_PIC.rai
+AssetPosition	466,314
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_Text_W66_TXT.rai
+AssetPosition	489,315
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_LoadIcon_S22_PIC.rai
+AssetPosition	557,314
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_Text_W66_TXT.rai
+AssetPosition	580,315
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_LoadIcon_S22_PIC.rai
+AssetPosition	466,342
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_Text_W66_TXT.rai
+AssetPosition	489,343
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_LoadIcon_S22_PIC.rai
+AssetPosition	557,342
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_Text_W66_TXT.rai
+AssetPosition	580,343
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_LoadIcon_S22_PIC.rai
+AssetPosition	466,369
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_Text_W66_TXT.rai
+AssetPosition	489,370
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_LoadIcon_S22_PIC.rai
+AssetPosition	557,369
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_Text_W66_TXT.rai
+AssetPosition	580,370
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_LoadIcon_S22_PIC.rai
+AssetPosition	466,397
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_Text_W66_TXT.rai
+AssetPosition	489,398
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_LoadIcon_S22_PIC.rai
+AssetPosition	557,397
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_MI_Text_W66_TXT.rai
+AssetPosition	580,398
+[END]	

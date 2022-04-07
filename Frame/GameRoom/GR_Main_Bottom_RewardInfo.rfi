@@ -1,0 +1,87 @@
+[REVISE_FRAME]
+637,552
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_TitleRoomInfo_TXT.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_RankSymbol_S_PIC.rai
+AssetPosition	2,25
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_RankSymbol_D_PIC.rai
+AssetPosition	2,125
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_RankSymbol_C_PIC.rai
+AssetPosition	2,100
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_RankSymbol_B_PIC.rai
+AssetPosition	2,75
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_RankSymbol_A_PIC.rai
+AssetPosition	2,50
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_W125_S13_L_TXT.rai
+AssetPosition	32,30
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_W125_S13_L_TXT.rai
+AssetPosition	32,54
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_W125_S13_L_TXT.rai
+AssetPosition	32,129
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_W125_S13_L_TXT.rai
+AssetPosition	32,105
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_W125_S13_L_TXT.rai
+AssetPosition	32,80
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_W80_S13_R_TXT.rai
+AssetPosition	166,129
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_W80_S13_R_TXT.rai
+AssetPosition	166,105
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_W80_S13_R_TXT.rai
+AssetPosition	166,54
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_W80_S13_R_TXT.rai
+AssetPosition	166,80
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_W80_S13_R_TXT.rai
+AssetPosition	166,30
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_W80_S13_R_TXT.rai
+AssetPosition	260,129
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_W80_S13_R_TXT.rai
+AssetPosition	260,105
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_W80_S13_R_TXT.rai
+AssetPosition	260,80
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_W80_S13_R_TXT.rai
+AssetPosition	260,54
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_W80_S13_R_TXT.rai
+AssetPosition	260,30
+[END]	

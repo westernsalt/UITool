@@ -1,0 +1,38 @@
+[START]
+Attribute		5
+Position		0,0
+HitBox			0,0,200,32
+FileSize		0,0,200,32
+Scale			1,1
+[LISTITEM START]
+[LISTITEM]
+Attribute		0
+Position		0,0
+HitBox			0,0,32,32
+FileSize		0,0,32,32
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\CM_Popup_1.tga
+TexFilePath		TexturesSV\ui\newUI\Common\CM_Popup_1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,50
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		3
+Position		43,9
+HitBox			43,9,200,23
+FileSize		0,0,157,14
+Scale			1,1
+[TEXTBOX START]
+TextBox			43,9,200,23
+TextScaling		1
+SortFlag		36
+RGBA			209,209,209
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		1
+[TEXTBOX END]
+[LISTITEM_END]
+[LISTITEM COMPLETE]
+[END]	

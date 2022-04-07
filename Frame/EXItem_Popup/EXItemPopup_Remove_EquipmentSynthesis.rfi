@@ -1,0 +1,39 @@
+[REVISE_FRAME]
+265,176
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Common\CM_Popup_1_PIC.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_Btn_Reset_BTN.rai
+AssetPosition	69,266
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_Cancel_BTN.rai
+AssetPosition	279,266
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_Effect_RemoveES_Bg_PIC.rai
+AssetPosition	171,77
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_Symbol_Basic_PIC.rai
+AssetPosition	220,17
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotBg_S64_BTN.rai
+AssetPosition	213,130
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_2_TXT.rai
+AssetPosition	20,234
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_Ani_Effect_EquipmentSynthesis_3_IMG.rai
+AssetPosition	119,36
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_Ani_Effect_Common_IMG.rai
+AssetPosition	119,36
+[END]	

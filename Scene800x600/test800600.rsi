@@ -1,0 +1,18 @@
+[START]
+FrameFilePath	.\Frame\Refinery_CreatureFusion.rfi
+FramePosition	496,241
+FrameSize		383,452
+FrameScale		0.652741,0.652655
+[END]	
+[START]
+FrameFilePath	.\Frame\Inven_ChaInfo.rfi
+FramePosition	48,25
+FrameSize		180,116
+FrameScale		1.94444,1.93966
+[END]	
+[START]
+FrameFilePath	.\Frame\Btn_Red.rfi
+FramePosition	60,445
+FrameSize		152,38
+FrameScale		1.65789,1.65789
+[END]	

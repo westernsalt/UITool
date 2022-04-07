@@ -1,0 +1,19 @@
+[REVISE_FRAME]
+310,254
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\GameRoom\GR_Bg_Matching_GRI.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Btn_CancleMatching_BTN.rai
+AssetPosition	126,119
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_Searching_TXT.rai
+AssetPosition	9,52
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_LoadScene_Dot_IMG.rai
+AssetPosition	185,30
+[END]	

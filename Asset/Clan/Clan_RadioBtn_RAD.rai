@@ -1,0 +1,231 @@
+[START]
+Attribute		9
+Position		0,0
+HitBox			0,0,45,70
+FileSize		0,0,45,70
+Scale			1,1
+[GROUPBUTTON START]
+GroupInterval	8
+TextBoxInterval	9
+BtnCount		3
+BtnCol			1
+BtnRow			3
+MaxBtnCount		3
+Attribute		9
+Position		0,0
+HitBox			0,0,45,18
+FileSize		0,0,18,18
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\Common_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\Common\Common_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[BUTTON START]
+NormalTex		475,209
+PressedTex		475,227
+DisableTex		475,227
+HighlightTex	493,209
+Size			18,18
+TextBoxSetApart	0
+IconFront		1
+TextBoxIndent	0
+Attribute		3
+Position		27,0
+HitBox			27,0,45,18
+FileSize		0,0,18,18
+Scale			1,1
+[TEXTBOX START]
+TextBox			27,0,45,18
+TextScaling		1
+SortFlag		36
+RGBA			209,209,209
+DisableRGB		113,113,113
+Indent			0,0
+DefaultShow		1
+[FONT_BOLD_START]
+0
+[TEXTBOX END]
+[BUTTON END]
+[CHECKBOX START]
+CheckMarkPos	0,0
+CheckMarkTex	493,227
+CheckMarkSize	18,18
+Interval		9
+IconFront		1
+IconPath		
+DisableIconPath	
+IconIndent		0,0
+Attribute		-1
+Position		0,0
+HitBox			0,0,0,0
+FileSize		0,0,0,0
+Scale			1,1
+[PICTURE START]
+FilePath		
+TexFilePath		
+FolderPath		
+StartPos		0,0
+[PICTURE END]
+Attribute		-1
+Position		0,0
+HitBox			0,0,0,0
+FileSize		0,0,0,0
+Scale			1,1
+[PICTURE START]
+FilePath		
+TexFilePath		
+FolderPath		
+StartPos		0,0
+[PICTURE END]
+[CHECKBOX END]
+[RADIOBUTTON START]
+IntervalPos		0,0
+[RADIOBUTTON END]
+Attribute		9
+Position		0,26
+HitBox			0,26,45,44
+FileSize		0,0,18,18
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\Common_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\Common\Common_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[BUTTON START]
+NormalTex		475,209
+PressedTex		475,227
+DisableTex		475,227
+HighlightTex	493,209
+Size			18,18
+TextBoxSetApart	0
+IconFront		1
+TextBoxIndent	0
+Attribute		3
+Position		27,26
+HitBox			27,26,45,44
+FileSize		0,0,18,18
+Scale			1,1
+[TEXTBOX START]
+TextBox			27,26,45,44
+TextScaling		1
+SortFlag		36
+RGBA			209,209,209
+DisableRGB		113,113,113
+Indent			0,0
+DefaultShow		1
+[FONT_BOLD_START]
+0
+[TEXTBOX END]
+[BUTTON END]
+[CHECKBOX START]
+CheckMarkPos	0,0
+CheckMarkTex	493,227
+CheckMarkSize	18,18
+Interval		9
+IconFront		1
+IconPath		
+DisableIconPath	
+IconIndent		0,0
+Attribute		-1
+Position		0,-26
+HitBox			0,-26,0,-26
+FileSize		0,0,0,0
+Scale			1,1
+[PICTURE START]
+FilePath		
+TexFilePath		
+FolderPath		
+StartPos		0,0
+[PICTURE END]
+Attribute		-1
+Position		0,-26
+HitBox			0,-26,0,-26
+FileSize		0,0,0,0
+Scale			1,1
+[PICTURE START]
+FilePath		
+TexFilePath		
+FolderPath		
+StartPos		0,0
+[PICTURE END]
+[CHECKBOX END]
+[RADIOBUTTON START]
+IntervalPos		0,58
+[RADIOBUTTON END]
+Attribute		9
+Position		0,52
+HitBox			0,52,45,70
+FileSize		0,0,18,18
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\Common_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\Common\Common_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[BUTTON START]
+NormalTex		475,209
+PressedTex		475,227
+DisableTex		475,227
+HighlightTex	493,209
+Size			18,18
+TextBoxSetApart	0
+IconFront		1
+TextBoxIndent	0
+Attribute		3
+Position		27,52
+HitBox			27,52,45,70
+FileSize		0,0,18,18
+Scale			1,1
+[TEXTBOX START]
+TextBox			27,52,45,70
+TextScaling		1
+SortFlag		36
+RGBA			209,209,209
+DisableRGB		113,113,113
+Indent			0,0
+DefaultShow		1
+[FONT_BOLD_START]
+0
+[TEXTBOX END]
+[BUTTON END]
+[CHECKBOX START]
+CheckMarkPos	0,0
+CheckMarkTex	493,227
+CheckMarkSize	18,18
+Interval		9
+IconFront		1
+IconPath		
+DisableIconPath	
+IconIndent		0,0
+Attribute		-1
+Position		0,-52
+HitBox			0,-52,0,-52
+FileSize		0,0,0,0
+Scale			1,1
+[PICTURE START]
+FilePath		
+TexFilePath		
+FolderPath		
+StartPos		0,0
+[PICTURE END]
+Attribute		-1
+Position		0,-52
+HitBox			0,-52,0,-52
+FileSize		0,0,0,0
+Scale			1,1
+[PICTURE START]
+FilePath		
+TexFilePath		
+FolderPath		
+StartPos		0,0
+[PICTURE END]
+[CHECKBOX END]
+[RADIOBUTTON START]
+IntervalPos		0,116
+[RADIOBUTTON END]
+[GROUDPBUTTON END]
+[END]	

@@ -1,0 +1,159 @@
+[START]
+Attribute		9
+Position		0,0
+HitBox			0,0,112,18
+FileSize		0,0,112,18
+Scale			1,1
+[GROUPBUTTON START]
+GroupInterval	40
+TextBoxInterval	0
+BtnCount		2
+BtnCol			2
+BtnRow			1
+MaxBtnCount		2
+Attribute		9
+Position		0,0
+HitBox			0,0,36,18
+FileSize		0,0,18,18
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\Common_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\Common\Common_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[BUTTON START]
+NormalTex		475,209
+PressedTex		475,227
+DisableTex		475,227
+HighlightTex	493,209
+Size			18,18
+TextBoxSetApart	0
+IconFront		1
+TextBoxIndent	0
+Attribute		3
+Position		18,0
+HitBox			18,0,36,18
+FileSize		0,0,18,18
+Scale			1,1
+[TEXTBOX START]
+TextBox			18,0,36,18
+TextScaling		1
+SortFlag		36
+RGBA			213,161,64
+DisableRGB		113,113,113
+Indent			0,0
+DefaultShow		1
+[FONT_BOLD_START]
+0
+[TEXTBOX END]
+[BUTTON END]
+[CHECKBOX START]
+CheckMarkPos	0,0
+CheckMarkTex	493,227
+CheckMarkSize	18,18
+Interval		0
+IconFront		1
+IconPath		
+DisableIconPath	
+IconIndent		0,0
+Attribute		-1
+Position		0,0
+HitBox			0,0,0,0
+FileSize		0,0,0,0
+Scale			1,1
+[PICTURE START]
+FilePath		
+TexFilePath		
+FolderPath		
+StartPos		0,0
+[PICTURE END]
+Attribute		-1
+Position		0,0
+HitBox			0,0,0,0
+FileSize		0,0,0,0
+Scale			1,1
+[PICTURE START]
+FilePath		
+TexFilePath		
+FolderPath		
+StartPos		0,0
+[PICTURE END]
+[CHECKBOX END]
+[RADIOBUTTON START]
+IntervalPos		0,0
+[RADIOBUTTON END]
+Attribute		9
+Position		76,0
+HitBox			76,0,112,18
+FileSize		0,0,18,18
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\Common_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\Common\Common_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[BUTTON START]
+NormalTex		475,209
+PressedTex		475,227
+DisableTex		475,227
+HighlightTex	493,209
+Size			18,18
+TextBoxSetApart	0
+IconFront		1
+TextBoxIndent	0
+Attribute		3
+Position		94,0
+HitBox			94,0,112,18
+FileSize		0,0,18,18
+Scale			1,1
+[TEXTBOX START]
+TextBox			18,0,36,18
+TextScaling		1
+SortFlag		36
+RGBA			70,156,224
+DisableRGB		113,113,113
+Indent			0,0
+DefaultShow		1
+[FONT_BOLD_START]
+0
+[TEXTBOX END]
+[BUTTON END]
+[CHECKBOX START]
+CheckMarkPos	0,0
+CheckMarkTex	493,227
+CheckMarkSize	18,18
+Interval		0
+IconFront		1
+IconPath		
+DisableIconPath	
+IconIndent		0,0
+Attribute		-1
+Position		-76,0
+HitBox			-76,0,-76,0
+FileSize		0,0,0,0
+Scale			1,1
+[PICTURE START]
+FilePath		
+TexFilePath		
+FolderPath		
+StartPos		0,0
+[PICTURE END]
+Attribute		-1
+Position		-76,0
+HitBox			-76,0,-76,0
+FileSize		0,0,0,0
+Scale			1,1
+[PICTURE START]
+FilePath		
+TexFilePath		
+FolderPath		
+StartPos		0,0
+[PICTURE END]
+[CHECKBOX END]
+[RADIOBUTTON START]
+IntervalPos		36,0
+[RADIOBUTTON END]
+[GROUDPBUTTON END]
+[END]	

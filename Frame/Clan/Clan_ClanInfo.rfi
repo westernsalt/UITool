@@ -1,0 +1,31 @@
+[REVISE_FRAME]
+508,221
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Clan\Clan_Text_W450_Bold_TXT.rai
+AssetPosition	7,0
+[END]	
+[START]
+AssetPath		.\Asset\Clan\Clan_TextBg_2_GRI.rai
+AssetPosition	0,22
+[END]	
+[START]
+AssetPath		.\Asset\Clan\Clan_TextBg_3_GRI.rai
+AssetPosition	0,212
+[END]	
+[START]
+AssetPath		.\Asset\Clan\Clan_Btn_Writing_BTN.rai
+AssetPosition	477,2
+[END]	
+[START]
+AssetPath		.\Asset\Clan\Clan_Text_W450_Bold_TXT.rai
+AssetPosition	7,190
+[END]	
+[START]
+AssetPath		.\Asset\Clan\Clan_Text_H105_TXT.rai
+AssetPosition	17,37
+[END]	
+[START]
+AssetPath		.\Asset\Clan\Clan_ListBox_Alarm_LST.rai
+AssetPosition	17,226
+[END]	

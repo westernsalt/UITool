@@ -1,0 +1,13 @@
+[START]
+Attribute		0
+Position		0,0
+HitBox			0,0,76,76
+FileSize		0,0,76,76
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Cha_Create\CharacterCreate_Texture1.tga
+TexFilePath		TexturesSV\ui\newUI\Cha_Create\CharacterCreate_Texture1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		2,2
+[PICTURE END]
+[END]	

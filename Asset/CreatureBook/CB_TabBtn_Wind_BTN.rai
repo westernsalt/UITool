@@ -1,0 +1,39 @@
+[START]
+Attribute		1
+Position		0,0
+HitBox			0,0,134,38
+FileSize		0,0,134,38
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\CreatureBook\CB_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\CreatureBook\CB_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[BUTTON START]
+NormalTex		0,194
+PressedTex		0,270
+DisableTex		0,308
+HighlightTex	0,232
+Size			134,38
+TextBoxSetApart	0
+IconFront		1
+TextBoxIndent	0
+Attribute		3
+Position		0,0
+HitBox			0,0,134,38
+FileSize		0,0,134,38
+Scale			1,1
+[TEXTBOX START]
+TextBox			0,0,134,38
+TextScaling		1
+SortFlag		36
+RGBA			241,234,218
+DisableRGB		93,93,93
+Indent			39,0
+DefaultShow		1
+[FONT_BOLD_START]
+0
+[TEXTBOX END]
+[BUTTON END]
+[END]	

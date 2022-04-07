@@ -1,0 +1,391 @@
+[REVISE_FRAME]
+347,203
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Achievement\AM_DecoLine_Top_PIC.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_DecoLine_Bottom_PIC.rai
+AssetPosition	0,64
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Btn_ComboInfo_BTN.rai
+AssetPosition	351,23
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_Text_0_TXT.rai
+AssetPosition	5,18
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_Text_1_TXT.rai
+AssetPosition	125,18
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_Text_0_TXT.rai
+AssetPosition	5,38
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_Text_1_TXT.rai
+AssetPosition	125,37
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_Text_1_TXT.rai
+AssetPosition	2,81
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_Text_2_TXT.rai
+AssetPosition	399,81
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_ProgressBar_1_PRG.rai
+AssetPosition	0,100
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_Symbol_Bg_PIC.rai
+AssetPosition	1,124
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_Symbol_General_PIC.rai
+AssetPosition	18,142
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_NameBg_PIC.rai
+AssetPosition	10,180
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_ProgressBar_L_PIC.rai
+AssetPosition	4,127
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_ProgressBar_R_PIC.rai
+AssetPosition	39,127
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_ProgressBar_Cover_1_PIC.rai
+AssetPosition	18,175
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_ProgressBar_Cover_2_PIC.rai
+AssetPosition	5,159
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_ProgressBar_Cover_3_PIC.rai
+AssetPosition	38,128
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_ProgressBar_Cover_4_PIC.rai
+AssetPosition	69,162
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_Text_3_TXT.rai
+AssetPosition	2,181
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_Text_4_TXT.rai
+AssetPosition	2,201
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_Symbol_Bg_PIC.rai
+AssetPosition	82,124
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_Symbol_Battle_PIC.rai
+AssetPosition	99,141
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_NameBg_PIC.rai
+AssetPosition	90,180
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_ProgressBar_L_PIC.rai
+AssetPosition	85,127
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_ProgressBar_R_PIC.rai
+AssetPosition	120,127
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_ProgressBar_Cover_1_PIC.rai
+AssetPosition	99,175
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_ProgressBar_Cover_2_PIC.rai
+AssetPosition	86,159
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_ProgressBar_Cover_3_PIC.rai
+AssetPosition	119,128
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_ProgressBar_Cover_4_PIC.rai
+AssetPosition	150,162
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_Text_3_TXT.rai
+AssetPosition	83,181
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_Text_4_TXT.rai
+AssetPosition	83,201
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_Symbol_Bg_PIC.rai
+AssetPosition	164,124
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_Symbol_Challenge_PIC.rai
+AssetPosition	181,141
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_NameBg_PIC.rai
+AssetPosition	174,180
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_ProgressBar_L_PIC.rai
+AssetPosition	167,127
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_ProgressBar_R_PIC.rai
+AssetPosition	202,127
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_ProgressBar_Cover_1_PIC.rai
+AssetPosition	181,175
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_ProgressBar_Cover_2_PIC.rai
+AssetPosition	168,159
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_ProgressBar_Cover_3_PIC.rai
+AssetPosition	201,128
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_ProgressBar_Cover_4_PIC.rai
+AssetPosition	232,162
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_Text_3_TXT.rai
+AssetPosition	165,181
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_Text_4_TXT.rai
+AssetPosition	165,201
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_Symbol_Bg_PIC.rai
+AssetPosition	245,124
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_Symbol_Make_PIC.rai
+AssetPosition	262,141
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_NameBg_PIC.rai
+AssetPosition	256,180
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_ProgressBar_L_PIC.rai
+AssetPosition	248,127
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_ProgressBar_R_PIC.rai
+AssetPosition	283,127
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_ProgressBar_Cover_1_PIC.rai
+AssetPosition	262,175
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_ProgressBar_Cover_2_PIC.rai
+AssetPosition	249,159
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_ProgressBar_Cover_3_PIC.rai
+AssetPosition	282,128
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_ProgressBar_Cover_4_PIC.rai
+AssetPosition	313,162
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_Text_3_TXT.rai
+AssetPosition	246,181
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_Text_4_TXT.rai
+AssetPosition	246,201
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_Symbol_Bg_PIC.rai
+AssetPosition	327,124
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_Symbol_Secret_PIC.rai
+AssetPosition	344,141
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_NameBg_PIC.rai
+AssetPosition	337,180
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_ProgressBar_L_PIC.rai
+AssetPosition	330,127
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_ProgressBar_R_PIC.rai
+AssetPosition	365,127
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_ProgressBar_Cover_1_PIC.rai
+AssetPosition	344,175
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_ProgressBar_Cover_2_PIC.rai
+AssetPosition	331,159
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_ProgressBar_Cover_3_PIC.rai
+AssetPosition	364,128
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_ProgressBar_Cover_4_PIC.rai
+AssetPosition	395,162
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_Text_3_TXT.rai
+AssetPosition	327,181
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_Text_4_TXT.rai
+AssetPosition	327,201
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_Symbol_Bg_PIC.rai
+AssetPosition	408,124
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_Symbol_ETC_PIC.rai
+AssetPosition	425,141
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_NameBg_PIC.rai
+AssetPosition	419,180
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_ProgressBar_L_PIC.rai
+AssetPosition	411,127
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_ProgressBar_R_PIC.rai
+AssetPosition	446,127
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_ProgressBar_Cover_1_PIC.rai
+AssetPosition	425,175
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_ProgressBar_Cover_2_PIC.rai
+AssetPosition	412,159
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_ProgressBar_Cover_3_PIC.rai
+AssetPosition	445,128
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_ProgressBar_Cover_4_PIC.rai
+AssetPosition	476,162
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_Text_3_TXT.rai
+AssetPosition	409,181
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_Text_4_TXT.rai
+AssetPosition	409,201
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_Text_1_TXT.rai
+AssetPosition	2,234
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_DecoLine_Bottom_PIC.rai
+AssetPosition	0,255
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_DecoLine_Brown_PIC.rai
+AssetPosition	0,283
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_DecoLine_Brown_PIC.rai
+AssetPosition	0,311
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_DecoLine_Brown_PIC.rai
+AssetPosition	0,340
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_DecoLine_Brown_PIC.rai
+AssetPosition	0,368
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_Text_5_TXT.rai
+AssetPosition	5,262
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\Symbol\AM_Symbol_Challenge_1_PIC.rai
+AssetPosition	18,259
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_Text_6_TXT.rai
+AssetPosition	44,262
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_Text_5_TXT.rai
+AssetPosition	5,290
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\Symbol\AM_Symbol_ETC_1_PIC.rai
+AssetPosition	18,287
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_Text_6_TXT.rai
+AssetPosition	44,290
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_Text_5_TXT.rai
+AssetPosition	5,318
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\Symbol\AM_Symbol_Make_1_PIC.rai
+AssetPosition	18,315
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_Text_6_TXT.rai
+AssetPosition	44,318
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_Text_5_TXT.rai
+AssetPosition	5,346
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\Symbol\AM_Symbol_Secret_1_PIC.rai
+AssetPosition	18,343
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_Text_6_TXT.rai
+AssetPosition	44,346
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_Text_5_TXT.rai
+AssetPosition	5,375
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\Symbol\AM_Symbol_Battle_1_PIC.rai
+AssetPosition	18,372
+[END]	
+[START]
+AssetPath		.\Asset\Achievement\AM_Text_6_TXT.rai
+AssetPosition	44,375
+[END]	

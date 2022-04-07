@@ -1,0 +1,83 @@
+[REVISE_FRAME]
+-128,-96
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Common\PopupBg\Lobby_Blur_Bg_PIC.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_1_PIC.rai
+AssetPosition	393,272
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_Symbol_InviteRoom_PIC.rai
+AssetPosition	613,289
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_DecoLine_Top_PIC.rai
+AssetPosition	420,381
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_DecoLine_Bottom_PIC.rai
+AssetPosition	420,523
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_Accept_BTN.rai
+AssetPosition	410,538
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_Cancel_BTN.rai
+AssetPosition	566,538
+[END]	
+[START]
+AssetPath		.\Asset\Lobby\Lobby_Btn_Refuse_BTN.rai
+AssetPosition	721,538
+[END]	
+[START]
+AssetPath		.\Asset\Lobby\Lobby_Popup_Load_MapImg_PIC.rai
+AssetPosition	469,400
+[END]	
+[START]
+AssetPath		.\Asset\Lobby\Lobby_Popup_Text_1_TXT.rai
+AssetPosition	420,359
+[END]	
+[START]
+AssetPath		.\Asset\Lobby\Lobby_Popup_Text_Title_TXT.rai
+AssetPosition	611,407
+[END]	
+[START]
+AssetPath		.\Asset\Lobby\Lobby_Popup_Text_2_TXT.rai
+AssetPosition	610,438
+[END]	
+[START]
+AssetPath		.\Asset\Lobby\Lobby_Popup_Text_2_TXT.rai
+AssetPosition	610,459
+[END]	
+[START]
+AssetPath		.\Asset\Lobby\Lobby_Popup_Text_2_TXT.rai
+AssetPosition	610,479
+[END]	
+[START]
+AssetPath		.\Asset\Lobby\Lobby_Popup_Text_2_TXT.rai
+AssetPosition	610,499
+[END]	
+[START]
+AssetPath		.\Asset\Lobby\Lobby_Popup_Text_2_TXT.rai
+AssetPosition	732,438
+[END]	
+[START]
+AssetPath		.\Asset\Lobby\Lobby_Popup_Text_2_TXT.rai
+AssetPosition	732,459
+[END]	
+[START]
+AssetPath		.\Asset\Lobby\Lobby_Popup_Text_2_TXT.rai
+AssetPosition	732,479
+[END]	
+[START]
+AssetPath		.\Asset\Lobby\Lobby_Popup_Text_2_TXT.rai
+AssetPosition	732,499
+[END]	
+[START]
+AssetPath		.\Asset\Lobby\Lobby_Popup_Load_MapImg_PIC.rai
+AssetPosition	584,400
+[END]	

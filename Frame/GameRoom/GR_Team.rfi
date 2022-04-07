@@ -1,0 +1,47 @@
+[REVISE_FRAME]
+42,85
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\GameRoom\GR_Icon_VS_PIC.rai
+AssetPosition	415,0
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Title_Team_Blue_PIC.rai
+AssetPosition	503,24
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Title_Team_Red_PIC.rai
+AssetPosition	0,23
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_ListBox_ChaSlot_Stage_LST.rai
+AssetPosition	10,87
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_ListBox_ChaSlot_Stage_LST.rai
+AssetPosition	501,87
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Title_Clan_L_PIC.rai
+AssetPosition	0,19
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Title_Clan_R_PIC.rai
+AssetPosition	502,19
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Load_ClanMark_S34_PIC.rai
+AssetPosition	378,32
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Load_ClanMark_S34_PIC.rai
+AssetPosition	532,32
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_ClanName_L_TXT.rai
+AssetPosition	21,34
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_ClanName_R_TXT.rai
+AssetPosition	582,34
+[END]	

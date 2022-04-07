@@ -1,0 +1,13 @@
+[START]
+Attribute		0
+Position		0,0
+HitBox			0,0,36,41
+FileSize		0,0,36,41
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Event\Event_Alphabet_Texture2.tga
+TexFilePath		TexturesSV\ui\newUI\Event\Event_Alphabet_Texture2.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		36,82
+[PICTURE END]
+[END]	

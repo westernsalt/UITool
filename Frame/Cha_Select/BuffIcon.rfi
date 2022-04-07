@@ -1,0 +1,32 @@
+[START]
+AssetPath		.\Asset\Cha_Select\CS_Load_BuffIcon_PIC.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Select\CS_Load_BuffIcon_PIC.rai
+AssetPosition	18,0
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Select\CS_Load_BuffIcon_PIC.rai
+AssetPosition	36,0
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Select\CS_Load_BuffIcon_PIC.rai
+AssetPosition	54,0
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Select\CS_Load_BuffIcon_PIC.rai
+AssetPosition	0,18
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Select\CS_Load_BuffIcon_PIC.rai
+AssetPosition	18,18
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Select\CS_Load_BuffIcon_PIC.rai
+AssetPosition	36,18
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Select\CS_Load_BuffIcon_PIC.rai
+AssetPosition	54,18
+[END]	

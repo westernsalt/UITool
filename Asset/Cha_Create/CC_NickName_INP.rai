@@ -1,0 +1,31 @@
+[START]
+Attribute		4
+Position		0,0
+HitBox			0,0,213,26
+FileSize		0,0,213,26
+Scale			1,1
+[TEXTBOX START]
+TextBox			6,0,213,26
+TextScaling		1
+SortFlag		36
+RGBA			209,209,209
+DisableRGB		133,133,133
+Indent			0,0
+DefaultShow		1
+[TEXTBOX END]
+[INPUTTEXT START]
+PasswordType	0
+Interval		6
+Attribute		0
+Position		0,0
+HitBox			0,0,213,26
+FileSize		0,0,213,26
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Cha_Create\ChatacterCreate_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\Cha_Create\ChatacterCreate_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,470
+[PICTURE END]
+[INPUTTEXT END]
+[END]	

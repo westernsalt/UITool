@@ -1,0 +1,13 @@
+[START]
+Attribute		0
+Position		0,0
+HitBox			0,0,159,159
+FileSize		0,0,159,159
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\EXItem_Popup\EXItemPopup_Ani_Upgrade_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\EXItem_Popup\EXItemPopup_Ani_Upgrade_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		1,769
+[PICTURE END]
+[END]	

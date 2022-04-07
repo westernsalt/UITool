@@ -1,0 +1,13 @@
+[START]
+Attribute		0
+Position		0,0
+HitBox			0,0,256,200
+FileSize		0,0,256,200
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Refinery\Refinery_Ani_Fail.tga
+TexFilePath		TexturesSV\ui\newUI\Refinery\Refinery_Ani_Fail.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,512
+[PICTURE END]
+[END]	

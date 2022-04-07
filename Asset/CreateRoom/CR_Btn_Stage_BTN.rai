@@ -1,0 +1,37 @@
+[START]
+Attribute		1
+Position		0,0
+HitBox			0,0,192,510
+FileSize		0,0,192,510
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\CreateRoom\CR_SelectMode_Texture1.tga
+TexFilePath		TexturesSV\ui\newUI\CreateRoom\CR_SelectMode_Texture1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[BUTTON START]
+NormalTex		3,2
+PressedTex		391,2
+DisableTex		3,2
+HighlightTex	197,2
+Size			192,510
+TextBoxSetApart	0
+IconFront		1
+TextBoxIndent	0
+Attribute		3
+Position		0,0
+HitBox			0,0,192,510
+FileSize		0,0,192,510
+Scale			1,1
+[TEXTBOX START]
+TextBox			0,0,192,510
+TextScaling		1
+SortFlag		36
+RGBA			0,0,0
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		0
+[TEXTBOX END]
+[BUTTON END]
+[END]	

@@ -1,0 +1,13 @@
+[START]
+Attribute		0
+Position		0,0
+HitBox			0,0,130,2
+FileSize		0,0,130,2
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\CM_Popup_1.tga
+TexFilePath		TexturesSV\ui\newUI\Common\CM_Popup_1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		4,508
+[PICTURE END]
+[END]	

@@ -1,0 +1,75 @@
+[REVISE_FRAME]
+-128,-96
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Common\PopupBg\Inven_Blur_Bg_PIC.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_2_PIC.rai
+AssetPosition	302,245
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Details\CD_PT_PIC.rai
+AssetPosition	529,255
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Close_BTN.rai
+AssetPosition	945,283
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Details\CD_Bg_DividePage_H257_PIC.rai
+AssetPosition	390,434
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Details\CD_TabBtn_TAB.rai
+AssetPosition	323,435
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Details\ChaImg\CD_ChaImg_Archer_PIC.rai
+AssetPosition	324,308
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Details\CD_ChaImg_PIC.rai
+AssetPosition	836,308
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Details\CD_DecoLine_Top_PIC.rai
+AssetPosition	324,299
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Details\CD_DecoLine_Bottom_PIC.rai
+AssetPosition	324,424
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Details\CD_Text_W211_TXT.rai
+AssetPosition	644,320
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Details\CD_Text_W211_TXT.rai
+AssetPosition	644,337
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Details\CD_Text_W95_TXT.rai
+AssetPosition	644,362
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Details\CD_Text_W95_TXT.rai
+AssetPosition	644,381
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Details\CD_Text_W95_TXT.rai
+AssetPosition	644,400
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Details\CD_Text_W110_TXT.rai
+AssetPosition	745,362
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Details\CD_Text_W110_TXT.rai
+AssetPosition	745,381
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Details\CD_Text_W110_TXT.rai
+AssetPosition	745,400
+[END]	

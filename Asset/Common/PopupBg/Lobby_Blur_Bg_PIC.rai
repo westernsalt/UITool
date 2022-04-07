@@ -1,0 +1,13 @@
+[START]
+Attribute		0
+Position		0,0
+HitBox			0,0,1280,960
+FileSize		0,0,1024,768
+Scale			1.25,1.25
+[PICTURE START]
+FilePath		.\Texture\Lobby\Lobby_Blur_Bg.tga
+TexFilePath		TexturesSV\ui\newUI\Lobby\Lobby_Blur_Bg.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[END]	

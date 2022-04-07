@@ -1,0 +1,75 @@
+[REVISE_FRAME]
+349,217
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Option\Option_DecoLine_PIC.rai
+AssetPosition	0,20
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_Text_W470_TXT.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_Text_W60_TXT.rai
+AssetPosition	6,36
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_Text_W60_TXT.rai
+AssetPosition	6,67
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_Text_W60_TXT.rai
+AssetPosition	6,98
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_Text_W60_TXT.rai
+AssetPosition	6,129
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_Text_W60_TXT.rai
+AssetPosition	6,160
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_Text_W60_TXT.rai
+AssetPosition	6,191
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_Text_W60_TXT.rai
+AssetPosition	6,222
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_Text_W60_TXT.rai
+AssetPosition	6,253
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_TextInput_2_INP.rai
+AssetPosition	67,32
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_TextInput_2_INP.rai
+AssetPosition	67,63
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_TextInput_2_INP.rai
+AssetPosition	67,94
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_TextInput_2_INP.rai
+AssetPosition	67,125
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_TextInput_2_INP.rai
+AssetPosition	67,156
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_TextInput_2_INP.rai
+AssetPosition	67,187
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_TextInput_2_INP.rai
+AssetPosition	67,218
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_TextInput_2_INP.rai
+AssetPosition	67,249
+[END]	

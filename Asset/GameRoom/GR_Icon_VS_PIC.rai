@@ -1,0 +1,13 @@
+[START]
+Attribute		0
+Position		0,0
+HitBox			0,0,110,94
+FileSize		0,0,110,94
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\GameRoom\GameRoom_Texture_1.tga
+TexFilePath		TexturesSV\ui\newUI\GameRoom\GameRoom_Texture_1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		390,406
+[PICTURE END]
+[END]	

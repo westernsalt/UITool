@@ -1,0 +1,23 @@
+[START]
+Attribute		13
+Position		0,0
+HitBox			0,0,120,120
+FileSize		0,0,120,120
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Gacha\Gacha_Texture_2.tga
+TexFilePath		TexturesSV\ui\newUI\Gacha\Gacha_Texture_2.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[ANIMATION START]
+TextureSize		512,512
+ImageStartPos		0,0
+ImageInterval		1,1
+ImageSize		120,120
+ImageNum	4,2
+ImageTotalNum			8
+AniLoop			0
+DelayTime			0.07
+[ANIMATION END]
+[END]	

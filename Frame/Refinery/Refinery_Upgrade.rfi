@@ -1,0 +1,167 @@
+[REVISE_FRAME]
+123,168
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Refinery\Refinery_Upgrade_MagicCircle_PIC.rai
+AssetPosition	11,44
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_Upgrade_DecoLine_Top_PIC.rai
+AssetPosition	1,305
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_Upgrade_DecoLine_Bottom_PIC.rai
+AssetPosition	1,411
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_Upgrade_SlotDeco_PIC.rai
+AssetPosition	348,217
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotBg_S64_BTN.rai
+AssetPosition	171,94
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_64_PIC.rai
+AssetPosition	174,97
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotBg_S56_BTN.rai
+AssetPosition	0,224
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Load_ItemIcon_56_PIC.rai
+AssetPosition	3,227
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotImg_Close_S56_PIC.rai
+AssetPosition	3,227
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotBg_S56_BTN.rai
+AssetPosition	70,224
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Load_ItemIcon_56_PIC.rai
+AssetPosition	73,227
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotImg_Close_S56_PIC.rai
+AssetPosition	73,227
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotBg_S56_BTN.rai
+AssetPosition	140,224
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Load_ItemIcon_56_PIC.rai
+AssetPosition	143,227
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotImg_Close_S56_PIC.rai
+AssetPosition	143,227
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotBg_S56_BTN.rai
+AssetPosition	209,224
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Load_ItemIcon_56_PIC.rai
+AssetPosition	212,227
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotImg_Close_S56_PIC.rai
+AssetPosition	212,227
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotBg_S56_BTN.rai
+AssetPosition	279,224
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Load_ItemIcon_56_PIC.rai
+AssetPosition	282,227
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotImg_Close_S56_PIC.rai
+AssetPosition	282,227
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotBg_S56_BTN.rai
+AssetPosition	349,224
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Load_ItemIcon_56_PIC.rai
+AssetPosition	352,227
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Text_ItemSlot_Num_TXT.rai
+AssetPosition	361,271
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotImg_Close_S56_PIC.rai
+AssetPosition	352,227
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_Upgrade_Text_0_TXT.rai
+AssetPosition	74,321
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_Upgrade_Text_1_TXT.rai
+AssetPosition	285,321
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_Upgrade_Text_1_TXT.rai
+AssetPosition	318,321
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_Upgrade_Icon_Arrow_PIC.rai
+AssetPosition	310,323
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_Upgrade_Text_0_TXT.rai
+AssetPosition	74,343
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_Upgrade_Text_2_TXT.rai
+AssetPosition	268,343
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_Upgrade_Text_0_TXT.rai
+AssetPosition	74,365
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_Upgrade_Text_4_TXT.rai
+AssetPosition	249,365
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_Upgrade_Text_3_TXT.rai
+AssetPosition	249,365
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_Upgrade_Text_0_TXT.rai
+AssetPosition	74,387
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_Upgrade_Text_2_TXT.rai
+AssetPosition	268,387
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Coin_Cash_PIC.rai
+AssetPosition	321,365
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Coin_Gold_PIC.rai
+AssetPosition	321,365
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_Upgrade_RadioBtn_RAD.rai
+AssetPosition	140,423
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_Btn_Start_BTN.rai
+AssetPosition	133,467
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_Upgrade_Ani_IMG.rai
+AssetPosition	75,0
+[END]	

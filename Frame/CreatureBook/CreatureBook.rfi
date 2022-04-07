@@ -1,0 +1,27 @@
+[REVISE_FRAME]
+-128,-96
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Common\PopupBg\Inven_Blur_Bg_PIC.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_2_PIC.rai
+AssetPosition	302,245
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_PT_PIC.rai
+AssetPosition	529,255
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Close_BTN.rai
+AssetPosition	945,283
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_TabBtn_TAB.rai
+AssetPosition	317,310
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Btn_ComboInfo_BTN.rai
+AssetPosition	849,310
+[END]	

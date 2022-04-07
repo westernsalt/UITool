@@ -1,0 +1,84 @@
+[START]
+AssetPath		.\Asset\Cha_Create\ClassSymbol\CC_Symbol_Archer_PIC.rai
+AssetPosition	18,118
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Create\CC_Class_TXT.rai
+AssetPosition	98,132
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Create\CC_Star_1_PIC.rai
+AssetPosition	97,164
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Create\CC_Star_1_PIC.rai
+AssetPosition	118,164
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Create\CC_Star_1_PIC.rai
+AssetPosition	139,164
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Create\CC_Star_1_PIC.rai
+AssetPosition	160,164
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Create\CC_Star_1_PIC.rai
+AssetPosition	181,164
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Create\CC_Star_2_PIC.rai
+AssetPosition	97,164
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Create\CC_ClassIntro_TXT.rai
+AssetPosition	20,199
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Create\CC_Stat_TXT.rai
+AssetPosition	20,358
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Create\CC_Stat_TXT.rai
+AssetPosition	20,379
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Create\CC_Stat_TXT.rai
+AssetPosition	20,400
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Create\CC_Stat_TXT.rai
+AssetPosition	20,421
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Create\CC_Stat_TXT.rai
+AssetPosition	20,442
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Create\CC_Stat_TXT.rai
+AssetPosition	20,463
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Create\CC_ProgressBar_PRG.rai
+AssetPosition	76,363
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Create\CC_ProgressBar_PRG.rai
+AssetPosition	76,384
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Create\CC_ProgressBar_PRG.rai
+AssetPosition	76,405
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Create\CC_ProgressBar_PRG.rai
+AssetPosition	76,426
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Create\CC_ProgressBar_PRG.rai
+AssetPosition	76,447
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Create\CC_ProgressBar_PRG.rai
+AssetPosition	76,468
+[END]	

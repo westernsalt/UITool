@@ -1,0 +1,25 @@
+[START]
+FrameFilePath	.\Frame\Messenger\MSG_Window.rfi
+FramePosition	810,231
+FrameSize		214,508
+[END]	
+[START]
+FrameFilePath	.\Frame\Messenger\MSG_PersonalChat.rfi
+FramePosition	247,461
+FrameSize		264,278
+[END]	
+[START]
+FrameFilePath	.\Frame\Messenger\MSG_AllChat.rfi
+FramePosition	514,411
+FrameSize		294,328
+[END]	
+[START]
+FrameFilePath	.\Frame\Messenger\MSG_LMenu.rfi
+FramePosition	886,420
+FrameSize		134,171
+[END]	
+[START]
+FrameFilePath	.\Frame\Common\CM_Tooltip_IconName.rfi
+FramePosition	837,318
+FrameSize		305,20
+[END]	

@@ -1,0 +1,19 @@
+[REVISE_FRAME]
+448,302
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Quest\Quest_RakionLogo_PIC.rai
+AssetPosition	64,0
+[END]	
+[START]
+AssetPath		.\Asset\Quest\Quest_Text_0_TXT.rai
+AssetPosition	0,63
+[END]	
+[START]
+AssetPath		.\Asset\Quest\Quest_Text_Tip_TXT.rai
+AssetPosition	22,275
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_TipIcon_PIC.rai
+AssetPosition	3,275
+[END]	

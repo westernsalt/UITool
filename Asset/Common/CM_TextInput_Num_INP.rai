@@ -1,0 +1,31 @@
+[START]
+Attribute		4
+Position		640,251
+HitBox			640,251,710,277
+FileSize		0,0,70,26
+Scale			1,1
+[TEXTBOX START]
+TextBox			640,251,710,277
+TextScaling		1
+SortFlag		37
+RGBA			236,229,210
+DisableRGB		113,113,113
+Indent			0,0
+DefaultShow		1
+[TEXTBOX END]
+[INPUTTEXT START]
+PasswordType	0
+Interval		0
+Attribute		0
+Position		640,251
+HitBox			640,251,710,277
+FileSize		0,0,70,26
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\Common_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\Common\Common_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		437,430
+[PICTURE END]
+[INPUTTEXT END]
+[END]	

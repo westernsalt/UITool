@@ -1,0 +1,307 @@
+[REVISE_FRAME]
+343,129
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\UserInfo\UI_Popup_Bg_PIC.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_PT_Myinfo_PIC.rai
+AssetPosition	91,9
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_PT_PIC.rai
+AssetPosition	91,9
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Close_BTN.rai
+AssetPosition	369,35
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Slot_Equip_PIC.rai
+AssetPosition	14,61
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Slot_Equip_Helmet_PIC.rai
+AssetPosition	18,65
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Slot_Equip_Over_PIC.rai
+AssetPosition	18,65
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Slot_Equip_PIC.rai
+AssetPosition	14,119
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Slot_Equip_Shoulder_PIC.rai
+AssetPosition	18,123
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Slot_Equip_Over_PIC.rai
+AssetPosition	18,123
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Slot_Equip_PIC.rai
+AssetPosition	14,177
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Slot_Equip_Armor_PIC.rai
+AssetPosition	18,181
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Slot_Equip_Over_PIC.rai
+AssetPosition	18,181
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Slot_Equip_PIC.rai
+AssetPosition	14,235
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Slot_Equip_Wrist_PIC.rai
+AssetPosition	18,239
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Slot_Equip_Over_PIC.rai
+AssetPosition	18,239
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Slot_Equip_PIC.rai
+AssetPosition	14,293
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\Slot_EquipIcon_Weapon_L\UI_Slot_Equip_Archer_L_PIC.rai
+AssetPosition	18,297
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Slot_Equip_Over_PIC.rai
+AssetPosition	18,297
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Slot_Equip_PIC.rai
+AssetPosition	14,351
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Slot_Equip_Bead_PIC.rai
+AssetPosition	18,356
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Slot_Equip_Over_PIC.rai
+AssetPosition	18,355
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Slot_Equip_PIC.rai
+AssetPosition	331,61
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Slot_Equip_Necklace_PIC.rai
+AssetPosition	335,65
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Slot_Equip_Over_PIC.rai
+AssetPosition	335,65
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Slot_Equip_PIC.rai
+AssetPosition	331,119
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Slot_Equip_Ring_PIC.rai
+AssetPosition	335,123
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Slot_Equip_Over_PIC.rai
+AssetPosition	335,123
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Slot_Equip_PIC.rai
+AssetPosition	331,177
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Slot_Equip_Ring_PIC.rai
+AssetPosition	335,181
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Slot_Equip_Over_PIC.rai
+AssetPosition	335,181
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Slot_Equip_PIC.rai
+AssetPosition	331,235
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Slot_Equip_Ring_PIC.rai
+AssetPosition	335,239
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Slot_Equip_Over_PIC.rai
+AssetPosition	335,239
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Slot_Equip_PIC.rai
+AssetPosition	331,293
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\Slot_EquipIcon_Weapon_R\UI_Slot_Equip_Archer_R_PIC.rai
+AssetPosition	335,297
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Slot_Equip_Over_PIC.rai
+AssetPosition	335,297
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Slot_Equip_PIC.rai
+AssetPosition	331,351
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Slot_Equip_AttributeStone_PIC.rai
+AssetPosition	335,356
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Slot_Equip_Over_PIC.rai
+AssetPosition	335,355
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Slot_Cash_PIC.rai
+AssetPosition	74,64
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Slot_Equip_Cash_Head_PIC.rai
+AssetPosition	79,69
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Slot_Cash_Over_PIC.rai
+AssetPosition	79,69
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Slot_Cash_PIC.rai
+AssetPosition	74,124
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Slot_Equip_Cash_Body_PIC.rai
+AssetPosition	79,129
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Slot_Cash_Over_PIC.rai
+AssetPosition	79,129
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Slot_Cash_PIC.rai
+AssetPosition	279,64
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Slot_Equip_Cash_Cloak_PIC.rai
+AssetPosition	284,69
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Slot_Cash_Over_PIC.rai
+AssetPosition	284,69
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Slot_Creature1_PIC.rai
+AssetPosition	128,52
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Slot_CreatureIcon_PIC.rai
+AssetPosition	133,57
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Slot_Creature_Over_PIC.rai
+AssetPosition	133,57
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Slot_Creature2_PIC.rai
+AssetPosition	128,52
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Slot_Creature1_PIC.rai
+AssetPosition	178,52
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Slot_CreatureIcon_PIC.rai
+AssetPosition	183,57
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Slot_Creature_Over_PIC.rai
+AssetPosition	183,57
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Slot_Creature2_PIC.rai
+AssetPosition	178,52
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Slot_Creature1_PIC.rai
+AssetPosition	228,52
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Slot_CreatureIcon_PIC.rai
+AssetPosition	233,57
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Slot_Creature_Over_PIC.rai
+AssetPosition	233,57
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Slot_Creature2_PIC.rai
+AssetPosition	228,52
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Text_W102_TXT.rai
+AssetPosition	16,414
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Text_W190_TXT.rai
+AssetPosition	122,414
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Text_W102_TXT.rai
+AssetPosition	16,432
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Text_W190_TXT.rai
+AssetPosition	122,432
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Text_W102_TXT.rai
+AssetPosition	16,450
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Load_ClanMark_PIC.rai
+AssetPosition	123,449
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Text_W102_TXT.rai
+AssetPosition	146,450
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Text_W102_TXT.rai
+AssetPosition	249,450
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Text_W102_TXT.rai
+AssetPosition	16,468
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Text_W190_TXT.rai
+AssetPosition	122,468
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Text_W102_TXT.rai
+AssetPosition	16,486
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Text_W190_TXT.rai
+AssetPosition	122,486
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_Btn_MyInfo_BTN.rai
+AssetPosition	359,443
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SubBtn_MA_BTN.rai
+AssetPosition	359,475
+[END]	
+[START]
+AssetPath		.\Asset\UserInfo\UI_ListBox_Buff_LST.rai
+AssetPosition	130,101
+[END]	

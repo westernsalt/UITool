@@ -1,0 +1,37 @@
+[BACKGROUND]
+BackgroundPath	.\Asset\Common\CM_MainBg_PIC.rai
+[START]
+FrameFilePath	.\Frame\GameRoom\GR_Main_TopMenu.rfi
+FramePosition	14,15
+FrameSize		993,67
+[END]	
+[START]
+FrameFilePath	.\Frame\Common\CM_Main_Bottom.rfi
+FramePosition	0,736
+FrameSize		1024,32
+[END]	
+[START]
+FrameFilePath	.\Frame\GameRoom\GR_Main_Bottom.rfi
+FramePosition	19,521
+FrameSize		984,202
+[END]	
+[START]
+FrameFilePath	.\Frame\GameRoom\GR_Main_Bottom_MapInfo.rfi
+FramePosition	637,552
+FrameSize		350,140
+[END]	
+[START]
+FrameFilePath	.\Frame\GameRoom\GR_Team.rfi
+FramePosition	42,85
+FrameSize		943,432
+[END]	
+[START]
+FrameFilePath	.\Frame\GameRoom\GR_InviteList.rfi
+FramePosition	404,320
+FrameSize		214,269
+[END]	
+[START]
+FrameFilePath	.\Frame\GameRoom\GR_LMenu.rfi
+FramePosition	872,332
+FrameSize		134,115
+[END]	

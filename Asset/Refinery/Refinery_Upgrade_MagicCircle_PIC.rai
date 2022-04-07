@@ -1,0 +1,13 @@
+[START]
+Attribute		0
+Position		0,0
+HitBox			0,0,390,341
+FileSize		0,0,390,341
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Refinery\Refinery_Upgrade_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\Refinery\Refinery_Upgrade_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[END]	

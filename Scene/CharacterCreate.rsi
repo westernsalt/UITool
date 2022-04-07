@@ -1,0 +1,22 @@
+[BACKGROUND]
+BackgroundPath	.\Asset\Common\CM_BlackBg_PIC.rai
+[START]
+FrameFilePath	.\Frame\Cha_Create\ChaCreate_ClassInfo.rfi
+FramePosition	16,117
+FrameSize		222,361
+[END]	
+[START]
+FrameFilePath	.\Frame\Common\Btn_PrevScene.rfi
+FramePosition	16,734
+FrameSize		45,18
+[END]	
+[START]
+FrameFilePath	.\Frame\Common\Btn_Red.rfi
+FramePosition	831,714
+FrameSize		152,38
+[END]	
+[START]
+FrameFilePath	.\Frame\Cha_Create\ChaCreate_ChaList.rfi
+FramePosition	794,103
+FrameSize		213,468
+[END]	

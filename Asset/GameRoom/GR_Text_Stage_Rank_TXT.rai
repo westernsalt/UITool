@@ -1,0 +1,16 @@
+[START]
+Attribute		3
+Position		0,0
+HitBox			0,0,493,20
+FileSize		0,0,493,20
+Scale			1,1
+[TEXTBOX START]
+TextBox			0,0,493,20
+TextScaling		1.5
+SortFlag		37
+RGBA			236,229,210
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		1
+[TEXTBOX END]
+[END]	

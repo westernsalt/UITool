@@ -1,0 +1,143 @@
+[REVISE_FRAME]
+29,223
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Refinery\Refinery_JS_MagicCircle_PIC.rai
+AssetPosition	104,17
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_Btn_Start_BTN.rai
+AssetPosition	231,347
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotBg_S64_BTN.rai
+AssetPosition	272,125
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_64_PIC.rai
+AssetPosition	275,128
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotBg_BTN.rai
+AssetPosition	274,0
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_JS_SquareJewel_PIC.rai
+AssetPosition	277,3
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_60_PIC.rai
+AssetPosition	277,3
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Slot_Lock_60_PIC.rai
+AssetPosition	277,3
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotImg_Close_PIC.rai
+AssetPosition	277,3
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotBg_BTN.rai
+AssetPosition	159,48
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_JS_RoundJewel_PIC.rai
+AssetPosition	162,51
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_60_PIC.rai
+AssetPosition	162,51
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Slot_Lock_60_PIC.rai
+AssetPosition	162,51
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotImg_Close_PIC.rai
+AssetPosition	162,51
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotBg_BTN.rai
+AssetPosition	159,205
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_JS_RoundJewel_PIC.rai
+AssetPosition	162,208
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_60_PIC.rai
+AssetPosition	162,208
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Slot_Lock_60_PIC.rai
+AssetPosition	162,208
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotImg_Close_PIC.rai
+AssetPosition	162,208
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotBg_BTN.rai
+AssetPosition	274,252
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_JS_SquareJewel_PIC.rai
+AssetPosition	277,255
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_60_PIC.rai
+AssetPosition	277,255
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Slot_Lock_60_PIC.rai
+AssetPosition	277,255
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotImg_Close_PIC.rai
+AssetPosition	277,255
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotBg_BTN.rai
+AssetPosition	387,205
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_JS_HexagonJewel_PIC.rai
+AssetPosition	390,208
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_60_PIC.rai
+AssetPosition	390,208
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Slot_Lock_60_PIC.rai
+AssetPosition	390,208
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotImg_Close_PIC.rai
+AssetPosition	390,208
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotBg_BTN.rai
+AssetPosition	387,48
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_JS_HexagonJewel_PIC.rai
+AssetPosition	390,51
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_60_PIC.rai
+AssetPosition	390,51
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Slot_Lock_60_PIC.rai
+AssetPosition	390,51
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotImg_Close_PIC.rai
+AssetPosition	390,51
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_Text_Tip_2_TXT.rai
+AssetPosition	0,412
+[END]	

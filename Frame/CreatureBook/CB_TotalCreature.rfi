@@ -1,0 +1,47 @@
+[REVISE_FRAME]
+189,247
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Bg_DividePage_H347_PIC.rai
+AssetPosition	61,2
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_ListBox_Creature_LST.rai
+AssetPosition	154,0
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_TabBtn_All_BTN.rai
+AssetPosition	0,3
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_TabBtn_Fire_BTN.rai
+AssetPosition	0,41
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_TabBtn_Water_BTN.rai
+AssetPosition	0,79
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_TabBtn_Wind_BTN.rai
+AssetPosition	0,117
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_TabBtn_Light_BTN.rai
+AssetPosition	0,155
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_TabBtn_Dark_BTN.rai
+AssetPosition	0,193
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_TableBg_PIC.rai
+AssetPosition	1,305
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W128_TXT.rai
+AssetPosition	3,307
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Text_W128_TXT.rai
+AssetPosition	3,329
+[END]	

@@ -1,0 +1,11 @@
+[REVISE_FRAME]
+16,527
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Clan\Clan_ListBox_Chat_LST.rai
+AssetPosition	2,0
+[END]	
+[START]
+AssetPath		.\Asset\Clan\Clan_TextInput_Chat_INP.rai
+AssetPosition	0,121
+[END]	

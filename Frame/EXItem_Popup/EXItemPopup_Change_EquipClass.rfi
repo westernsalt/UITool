@@ -1,0 +1,75 @@
+[REVISE_FRAME]
+265,176
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Common\CM_Popup_1_PIC.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_Symbol_Change_PIC.rai
+AssetPosition	220,17
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_EquipClass_DecoLine_Top_PIC.rai
+AssetPosition	295,80
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_EquipClass_DecoLine_Bottom_PIC.rai
+AssetPosition	295,239
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_Change_BTN.rai
+AssetPosition	69,266
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_Cancel_BTN.rai
+AssetPosition	279,266
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotBg_BTN.rai
+AssetPosition	327,126
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotBg_BTN.rai
+AssetPosition	82,106
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotBg_BTN.rai
+AssetPosition	152,106
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotBg_BTN.rai
+AssetPosition	47,175
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotBg_BTN.rai
+AssetPosition	117,175
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotBg_BTN.rai
+AssetPosition	187,175
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_EquipClass_Text_1_TXT.rai
+AssetPosition	283,101
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_EquipClass_Text_2_TXT.rai
+AssetPosition	293,201
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Slot_Lock_60_PIC.rai
+AssetPosition	190,178
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_EquipClass_ClassNameBg_PIC.rai
+AssetPosition	83,78
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_EquipClass_ClassNameBg_1_PIC.rai
+AssetPosition	150,78
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_EquipClass_Text_3_TXT.rai
+AssetPosition	89,86
+[END]	

@@ -1,0 +1,39 @@
+[REVISE_FRAME]
+0,0
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Messenger\MSG_Bg_LMenu_PIC.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Messenger\MSG_Btn_LMenu_BTN.rai
+AssetPosition	3,6
+[END]	
+[START]
+AssetPath		.\Asset\Messenger\MSG_Btn_LMenu_BTN.rai
+AssetPosition	3,26
+[END]	
+[START]
+AssetPath		.\Asset\Messenger\MSG_Btn_LMenu_BTN.rai
+AssetPosition	3,46
+[END]	
+[START]
+AssetPath		.\Asset\Messenger\MSG_Btn_LMenu_BTN.rai
+AssetPosition	3,66
+[END]	
+[START]
+AssetPath		.\Asset\Messenger\MSG_Btn_LMenu_BTN.rai
+AssetPosition	3,86
+[END]	
+[START]
+AssetPath		.\Asset\Messenger\MSG_Btn_LMenu_BTN.rai
+AssetPosition	3,106
+[END]	
+[START]
+AssetPath		.\Asset\Messenger\MSG_Btn_LMenu_BTN.rai
+AssetPosition	3,126
+[END]	
+[START]
+AssetPath		.\Asset\Messenger\MSG_Btn_LMenu_BTN.rai
+AssetPosition	3,146
+[END]	

@@ -1,0 +1,33 @@
+[START]
+Attribute		4
+Position		0,0
+HitBox			0,0,256,60
+FileSize		0,0,256,60
+Scale			1,1
+[TEXTBOX START]
+TextBox			5,0,256,60
+TextScaling		1
+SortFlag		36
+RGBA			209,209,209
+DisableRGB		113,113,113
+Indent			0,0
+DefaultShow		1
+[FONT_BOLD_START]
+0
+[TEXTBOX END]
+[INPUTTEXT START]
+PasswordType	0
+Interval		5
+Attribute		0
+Position		0,0
+HitBox			0,0,256,60
+FileSize		0,0,256,60
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Messenger\MSG_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\Messenger\MSG_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		211,93
+[PICTURE END]
+[INPUTTEXT END]
+[END]	

@@ -1,0 +1,19 @@
+[REVISE_FRAME]
+0,0
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\GameRoom\GR_Invite_Bg_GRI.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Messenger\MSG_Bg_Head_GRI.rai
+AssetPosition	3,3
+[END]	
+[START]
+AssetPath		.\Asset\Messenger\MSG_Text_UserName_TXT.rai
+AssetPosition	7,5
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_ListBox_InviteList_LST.rai
+AssetPosition	3,32
+[END]	

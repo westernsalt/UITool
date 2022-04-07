@@ -1,0 +1,71 @@
+[REVISE_FRAME]
+-128,-96
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Common\PopupBg\Inven_Blur_Bg_PIC.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_2_PIC.rai
+AssetPosition	302,245
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_ChangeClass_Pt_PIC.rai
+AssetPosition	530,255
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_ChangeClass_Decoline_Top_PIC.rai
+AssetPosition	753,349
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_ChangeClass_Decoline_Bottom_PIC.rai
+AssetPosition	753,638
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Close_BTN.rai
+AssetPosition	945,283
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_Change_BTN.rai
+AssetPosition	780,657
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Create\ClassBtn\CC_Archer_BTN.rai
+AssetPosition	752,363
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Create\ClassBtn\CC_Blacksmith_BTN.rai
+AssetPosition	752,417
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Create\ClassBtn\CC_CombatWizard_BTN.rai
+AssetPosition	752,471
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Create\ClassBtn\CC_Ninja_BTN.rai
+AssetPosition	752,525
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Create\ClassBtn\EXItemPopup_ChangeClass_CommingSoon_PIC.rai
+AssetPosition	752,579
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_TipIcon_PIC.rai
+AssetPosition	322,658
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_TipIcon_PIC.rai
+AssetPosition	322,679
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_ChangeClass_Text_Tip_TXT.rai
+AssetPosition	339,658
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_ChangeClass_Text_Tip_TXT.rai
+AssetPosition	339,679
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_ChangeClass_Text_TXT.rai
+AssetPosition	753,332
+[END]	

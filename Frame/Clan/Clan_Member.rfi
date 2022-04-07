@@ -1,0 +1,47 @@
+[REVISE_FRAME]
+508,208
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Clan\Clan_ListGuideBg_PIC.rai
+AssetPosition	1,0
+[END]	
+[START]
+AssetPath		.\Asset\Clan\Clan_ListGuideBg_DivideLine_PIC.rai
+AssetPosition	115,2
+[END]	
+[START]
+AssetPath		.\Asset\Clan\Clan_ListGuideBg_DivideLine_PIC.rai
+AssetPosition	228,2
+[END]	
+[START]
+AssetPath		.\Asset\Clan\Clan_ListGuideBg_DivideLine_PIC.rai
+AssetPosition	299,2
+[END]	
+[START]
+AssetPath		.\Asset\Clan\Clan_ListBox_ClanMember_LST.rai
+AssetPosition	0,26
+[END]	
+[START]
+AssetPath		.\Asset\Clan\Clan_Text_W109_DG_TXT.rai
+AssetPosition	4,2
+[END]	
+[START]
+AssetPath		.\Asset\Clan\Clan_Text_W109_DG_TXT.rai
+AssetPosition	118,2
+[END]	
+[START]
+AssetPath		.\Asset\Clan\Clan_Text_W67_DG_TXT.rai
+AssetPosition	231,2
+[END]	
+[START]
+AssetPath		.\Asset\Clan\Clan_Text_W193_DG_TXT.rai
+AssetPosition	302,2
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Red_S_BTN.rai
+AssetPosition	297,460
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Red_S_BTN.rai
+AssetPosition	402,460
+[END]	

@@ -1,0 +1,159 @@
+[REVISE_FRAME]
+684,181
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Gacha\Gacha_ReelBg_PIC.rai
+AssetPosition	11,18
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotBg_PIC.rai
+AssetPosition	122,27
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotBg_PIC.rai
+AssetPosition	122,95
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotBg_PIC.rai
+AssetPosition	122,164
+[END]	
+[START]
+AssetPath		.\Asset\Gacha\Gacha_LoadItem_60_PIC.rai
+AssetPosition	126,31
+[END]	
+[START]
+AssetPath		.\Asset\Gacha\Gacha_LoadItem_60_PIC.rai
+AssetPosition	126,99
+[END]	
+[START]
+AssetPath		.\Asset\Gacha\Gacha_LoadItem_60_PIC.rai
+AssetPosition	126,168
+[END]	
+[START]
+AssetPath		.\Asset\Gacha\Gacha_SlotQuestionMark_PIC.rai
+AssetPosition	125,30
+[END]	
+[START]
+AssetPath		.\Asset\Gacha\Gacha_SlotQuestionMark_PIC.rai
+AssetPosition	125,98
+[END]	
+[START]
+AssetPath		.\Asset\Gacha\Gacha_SlotQuestionMark_PIC.rai
+AssetPosition	125,167
+[END]	
+[START]
+AssetPath		.\Asset\Gacha\Gacha_ReelDeco_PIC.rai
+AssetPosition	4,17
+[END]	
+[START]
+AssetPath		.\Asset\Gacha\Gacha_ReelBg_ItemList_PIC.rai
+AssetPosition	10,257
+[END]	
+[START]
+AssetPath		.\Asset\Gacha\Gacha_Btn_Reset_BTN.rai
+AssetPosition	130,241
+[END]	
+[START]
+AssetPath		.\Asset\Gacha\Gacha_Btn_ItemPreview_BTN.rai
+AssetPosition	130,241
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotBg_BTN.rai
+AssetPosition	16,286
+[END]	
+[START]
+AssetPath		.\Asset\Gacha\Gacha_LisBox_ItemSlot_LST.rai
+AssetPosition	87,286
+[END]	
+[START]
+AssetPath		.\Asset\Gacha\Gacha_Btn_UseCash_BTN.rai
+AssetPosition	0,473
+[END]	
+[START]
+AssetPath		.\Asset\Gacha\Gacha_Btn_UseCoupon_BTN.rai
+AssetPosition	157,473
+[END]	
+[START]
+AssetPath		.\Asset\Gacha\Gacha_TextBg_GRI.rai
+AssetPosition	10,366
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Coin_Cash_PIC.rai
+AssetPosition	272,376
+[END]	
+[START]
+AssetPath		.\Asset\Gacha\Gacha_Text_1_TXT.rai
+AssetPosition	24,375
+[END]	
+[START]
+AssetPath		.\Asset\Gacha\Gacha_Text_2_TXT.rai
+AssetPosition	208,401
+[END]	
+[START]
+AssetPath		.\Asset\Gacha\Gacha_Text_3_TXT.rai
+AssetPosition	200,375
+[END]	
+[START]
+AssetPath		.\Asset\Gacha\Gacha_Text_2_TXT.rai
+AssetPosition	208,422
+[END]	
+[START]
+AssetPath		.\Asset\Gacha\Gacha_Text_1_TXT.rai
+AssetPosition	24,401
+[END]	
+[START]
+AssetPath		.\Asset\Gacha\Gacha_Text_1_TXT.rai
+AssetPosition	24,422
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_Ani_Effect_Common_IMG.rai
+AssetPosition	26,0
+[END]	
+[START]
+AssetPath		.\Asset\Gacha\Gacha_Ani_ItemPreview_IMG.rai
+AssetPosition	60,260
+[END]	
+[START]
+AssetPath		.\Asset\Gacha\Gacha_Ani_ItemPreview_IMG.rai
+AssetPosition	130,260
+[END]	
+[START]
+AssetPath		.\Asset\Gacha\Gacha_Ani_ItemPreview_IMG.rai
+AssetPosition	200,260
+[END]	
+[START]
+AssetPath		.\Asset\Gacha\Gacha_MarkWinningItem_PIC.rai
+AssetPosition	14,283
+[END]	
+[START]
+AssetPath		.\Asset\Gacha\Gacha_MarkWinningItem_PIC.rai
+AssetPosition	85,283
+[END]	
+[START]
+AssetPath		.\Asset\Gacha\Gacha_MarkWinningItem_PIC.rai
+AssetPosition	155,283
+[END]	
+[START]
+AssetPath		.\Asset\Gacha\Gacha_MarkWinningItem_PIC.rai
+AssetPosition	226,283
+[END]	
+[START]
+AssetPath		.\Asset\Gacha\Gacha_Btn_UseCash_1_BTN.rai
+AssetPosition	0,473
+[END]	
+[START]
+AssetPath		.\Asset\Gacha\Gacha_Text_1_TXT.rai
+AssetPosition	24,442
+[END]	
+[START]
+AssetPath		.\Asset\Gacha\Gacha_Text_2_TXT.rai
+AssetPosition	208,442
+[END]	
+[START]
+AssetPath		.\Asset\Gacha\Gacha_Btn_UseCash_BTN.rai
+AssetPosition	0,473
+[END]	
+[START]
+AssetPath		.\Asset\Gacha\Gacha_Btn_UseCash_2_BTN.rai
+AssetPosition	0,473
+[END]	

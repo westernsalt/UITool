@@ -1,0 +1,71 @@
+[START]
+Attribute		8
+Position		0,0
+HitBox			0,0,32,16
+FileSize		0,0,16,16
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\Common_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\Common\Common_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[BUTTON START]
+NormalTex		476,103
+PressedTex		476,121
+DisableTex		476,121
+HighlightTex	494,103
+Size			16,16
+TextBoxSetApart	0
+IconFront		1
+TextBoxIndent	0
+Attribute		3
+Position		16,0
+HitBox			16,0,32,16
+FileSize		0,0,16,16
+Scale			1,1
+[TEXTBOX START]
+TextBox			16,0,32,16
+TextScaling		1
+SortFlag		36
+RGBA			0,0,0
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		0
+[FONT_BOLD_START]
+0
+[TEXTBOX END]
+[BUTTON END]
+[CHECKBOX START]
+CheckMarkPos	0,-1
+CheckMarkTex	493,122
+CheckMarkSize	16,19
+Interval		0
+IconFront		1
+IconPath		
+DisableIconPath	
+IconIndent		0,0
+Attribute		-1
+Position		-1,0
+HitBox			-1,0,-1,0
+FileSize		0,0,0,0
+Scale			1,1
+[PICTURE START]
+FilePath		..\UI
+TexFilePath		
+FolderPath		
+StartPos		0,0
+[PICTURE END]
+Attribute		-1
+Position		-1,-264
+HitBox			-1,-264,-1,-264
+FileSize		0,0,0,0
+Scale			1,1
+[PICTURE START]
+FilePath		..\UI
+TexFilePath		
+FolderPath		
+StartPos		0,0
+[PICTURE END]
+[CHECKBOX END]
+[END]	

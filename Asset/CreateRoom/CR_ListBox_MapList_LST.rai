@@ -1,0 +1,231 @@
+[START]
+Attribute		6
+Position		0,0
+HitBox			0,0,416,440
+FileSize		0,0,416,440
+Scale			1,1
+[LISTBOX START]
+ListBoxArea		0,0,410,440
+FilePath		
+ScrollPath		.\Asset\Common\CM_Scroll_SCR.rai
+ListItemPath	.\Asset\CreateRoom\CR_ListItem_MapList_ITM.rai
+ListItemCount	20
+ListInterval	8,8
+ListStartPos	0,0
+Attribute		0
+Position		0,0
+HitBox			0,0,0,0
+FileSize		0,0,0,0
+Scale			1,1
+[PICTURE START]
+FilePath		
+TexFilePath		
+FolderPath		
+StartPos		0,0
+[PICTURE END]
+Attribute		10
+Position		410,0
+HitBox			410,0,416,440
+FileSize		0,0,6,440
+Scale			1,1
+[SCROLL START]
+Attribute		1
+Position		0,0
+HitBox			0,0,6,18
+FileSize		0,0,6,18
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\Common_Texture_1.tga
+TexFilePath		TexturesSV\ui\newUI\Common\Common_Texture_1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[BUTTON START]
+NormalTex		505,2
+PressedTex		505,24
+DisableTex		505,2
+HighlightTex	499,24
+Size			6,18
+TextBoxSetApart	0
+IconFront		1
+TextBoxIndent	0
+Attribute		3
+Position		0,0
+HitBox			0,0,0,0
+FileSize		0,0,0,0
+Scale			1,1
+[TEXTBOX START]
+TextBox			0,0,0,0
+TextScaling		1
+SortFlag		37
+RGBA			0,0,0
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		1
+[TEXTBOX END]
+[BUTTON END]
+Attribute		-1
+Position		412,0
+HitBox			412,0,414,440
+FileSize		0,0,2,18
+Scale			1,24.4444
+[PICTURE START]
+FilePath		.\Texture\Common\Common_Texture_1.tga
+TexFilePath		TexturesSV\ui\newUI\Common\Common_Texture_1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		501,2
+[PICTURE END]
+[SCROLL END]
+Attribute		5
+Position		0,0
+HitBox			0,0,130,130
+FileSize		0,0,130,130
+Scale			1,1
+[LISTITEM START]
+[LISTITEM]
+Attribute		0
+Position		1,1
+HitBox			1,1,129,129
+FileSize		0,0,128,128
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\CreateRoom\CR_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\CreateRoom\CR_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		31,132
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		1,104
+HitBox			1,104,129,129
+FileSize		0,0,128,25
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\CreateRoom\CR_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\CreateRoom\CR_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		353,23
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		3
+Position		5,109
+HitBox			5,109,127,123
+FileSize		0,0,122,14
+Scale			1,1
+[TEXTBOX START]
+TextBox			5,109,127,123
+TextScaling		1
+SortFlag		36
+RGBA			255,255,255
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		1
+[TEXTBOX END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		1
+Position		0,0
+HitBox			0,0,130,130
+FileSize		0,0,130,130
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\CreateRoom\CR_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\CreateRoom\CR_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[BUTTON START]
+NormalTex		360,201
+PressedTex		251,69
+DisableTex		360,201
+HighlightTex	382,69
+Size			130,130
+TextBoxSetApart	0
+IconFront		1
+TextBoxIndent	0
+Attribute		3
+Position		0,0
+HitBox			0,0,130,130
+FileSize		0,0,130,130
+Scale			1,1
+[TEXTBOX START]
+TextBox			0,0,130,130
+TextScaling		1
+SortFlag		36
+RGBA			0,0,0
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		0
+[TEXTBOX END]
+[BUTTON END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		4,70
+HitBox			4,70,33,103
+FileSize		0,0,29,33
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\CreateRoom\CR_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\CreateRoom\CR_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		208,155
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		100,77
+HitBox			100,77,126,101
+FileSize		0,0,26,24
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\CreateRoom\CR_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\CreateRoom\CR_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		180,156
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		108,4
+HitBox			108,4,126,22
+FileSize		0,0,18,18
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\Common_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\Common\Common_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		445,283
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		60,88
+HitBox			60,88,125,102
+FileSize		0,0,65,14
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\CreateRoom\CR_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\CreateRoom\CR_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		180,140
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		5,5
+HitBox			5,5,45,45
+FileSize		0,0,40,40
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\CreateRoom\CR_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\CreateRoom\CR_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		356,471
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM COMPLETE]
+[LISTBOX END]
+[END]	

@@ -1,0 +1,155 @@
+[REVISE_FRAME]
+0,4
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Common\CM_TopMenuLine_PIC.rai
+AssetPosition	3,30
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_TopMenuLine_PIC.rai
+AssetPosition	482,30
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_MainBtn_Lobby_BTN.rai
+AssetPosition	0,33
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_MainBtn_Inventory_BTN.rai
+AssetPosition	57,33
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_MainBtn_Shop_BTN.rai
+AssetPosition	114,33
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_MainBtn_Refinery_BTN.rai
+AssetPosition	171,33
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_MainBtn_Clan_BTN.rai
+AssetPosition	228,33
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SubBtn_Quest_BTN.rai
+AssetPosition	760,40
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SubBtn_Creature_BTN.rai
+AssetPosition	795,40
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SubBtn_Achievement_BTN.rai
+AssetPosition	830,40
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SubBtn_Event_BTN.rai
+AssetPosition	865,40
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SubBtn_MA_BTN.rai
+AssetPosition	900,40
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SubBtn_Mail_BTN.rai
+AssetPosition	934,40
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SubBtn_Option_BTN.rai
+AssetPosition	970,40
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Coin_Gold_PIC.rai
+AssetPosition	973,3
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Coin_RCash_PIC.rai
+AssetPosition	837,3
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Coin_Cash_PIC.rai
+AssetPosition	704,3
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Text_Coin_TXT.rai
+AssetPosition	597,4
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Text_Coin_TXT.rai
+AssetPosition	731,4
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Text_Coin_TXT.rai
+AssetPosition	866,4
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Icon_Alarm_PIC.rai
+AssetPosition	18,66
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Icon_Alarm_PIC.rai
+AssetPosition	75,66
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Icon_Alarm_PIC.rai
+AssetPosition	132,66
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Icon_Alarm_PIC.rai
+AssetPosition	189,66
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Icon_Alarm_PIC.rai
+AssetPosition	246,66
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Icon_Alarm_PIC.rai
+AssetPosition	773,55
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Icon_Alarm_PIC.rai
+AssetPosition	808,55
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Icon_Alarm_PIC.rai
+AssetPosition	843,55
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Icon_Alarm_PIC.rai
+AssetPosition	879,55
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Icon_Alarm_PIC.rai
+AssetPosition	913,55
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Icon_Alarm_PIC.rai
+AssetPosition	951,55
+[END]	
+[START]
+AssetPath		.\Asset\Common\SceneTitle\CM_Title_Lobby_PIC.rai
+AssetPosition	4,0
+[END]	
+[START]
+AssetPath		.\Asset\Shop\Shop_Coin_LuckyKey_PIC.rai
+AssetPosition	566,3
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Text_Coin_TXT.rai
+AssetPosition	461,4
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_MainBtn_SelectLine_PIC.rai
+AssetPosition	0,27
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Coin_Event_PIC.rai
+AssetPosition	570,3
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Text_Coin_TXT.rai
+AssetPosition	463,4
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Coin_Clan_PIC.rai
+AssetPosition	570,3
+[END]	

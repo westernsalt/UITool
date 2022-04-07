@@ -1,0 +1,8 @@
+[START]
+AssetPath		.\Asset\Common\CM_Megaphone_Icon_PIC.rai
+AssetPosition	4,4
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Megaphone_Text_TXT.rai
+AssetPosition	29,2
+[END]	

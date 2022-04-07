@@ -1,0 +1,11 @@
+[REVISE_FRAME]
+637,552
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_TitleRoomInfo_TXT.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_ListBox_ItemReward_LST.rai
+AssetPosition	0,27
+[END]	

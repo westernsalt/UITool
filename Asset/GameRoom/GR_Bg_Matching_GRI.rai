@@ -1,0 +1,21 @@
+[START]
+Attribute		14
+Position		0,0
+HitBox			0,0,408,163
+FileSize		0,0,408,163
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\CM_Popup_1.tga
+TexFilePath		TexturesSV\ui\newUI\Common\CM_Popup_1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[THIRDGRID START]
+FirstTex		2,391
+SecondTex		2,425
+ThirdTex		2,459
+ImageSize		408,34
+ScaleType		1
+Pixel	61
+[THIRDGRID END]
+[END]	

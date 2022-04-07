@@ -1,0 +1,16 @@
+[START]
+AssetPath		.\Asset\Lobby\Lobby_ChaInfo_Bg_PIC.rai
+AssetPosition	1,13
+[END]	
+[START]
+AssetPath		.\Asset\Lobby\ClassSymbol_Nomal\Lobby_Symbol_Archer_N_PIC.rai
+AssetPosition	80,20
+[END]	
+[START]
+AssetPath		.\Asset\Lobby\Lobby_Text_LvName_TXT.rai
+AssetPosition	10,48
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Icon_LvT_PIC.rai
+AssetPosition	86,5
+[END]	

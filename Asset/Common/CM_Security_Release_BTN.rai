@@ -1,0 +1,37 @@
+[START]
+Attribute		1
+Position		755,289
+HitBox			755,289,784,305
+FileSize		0,0,29,16
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\CM_IS_NumKey_Texutre1.tga
+TexFilePath		TexturesSV\ui\newUI\Common\CM_IS_NumKey_Texutre1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[BUTTON START]
+NormalTex		226,2
+PressedTex		226,38
+DisableTex		226,38
+HighlightTex	226,20
+Size			12,16
+TextBoxSetApart	1
+IconFront		1
+TextBoxIndent	5
+Attribute		3
+Position		772,289
+HitBox			772,289,784,305
+FileSize		0,0,12,16
+Scale			1,1
+[TEXTBOX START]
+TextBox			772,289,784,305
+TextScaling		1
+SortFlag		36
+RGBA			209,209,209
+DisableRGB		113,113,113
+Indent			0,0
+DefaultShow		1
+[TEXTBOX END]
+[BUTTON END]
+[END]	

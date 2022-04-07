@@ -1,0 +1,31 @@
+[REVISE_FRAME]
+265,176
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Common\CM_Popup_1_PIC.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_Symbol_Basic_PIC.rai
+AssetPosition	220,17
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Progressbar_Orange_PRG.rai
+AssetPosition	99,205
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_Popup_Proleague_TXT.rai
+AssetPosition	18,103
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Ani_Effect_Progressbar_IMG.rai
+AssetPosition	383,197
+[END]	
+[START]
+AssetPath		.\Asset\Common\Popup_Btn\CM_Btn_Red_Accept_BTN.rai
+AssetPosition	69,266
+[END]	
+[START]
+AssetPath		.\Asset\Common\Popup_Btn\CM_Btn_Gray_Refuse_BTN.rai
+AssetPosition	279,266
+[END]	

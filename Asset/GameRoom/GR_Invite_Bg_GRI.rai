@@ -1,0 +1,21 @@
+[START]
+Attribute		14
+Position		0,0
+HitBox			0,0,214,269
+FileSize		0,0,214,269
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Messenger\MSG_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\Messenger\MSG_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[THIRDGRID START]
+FirstTex		210,168
+SecondTex		210,178
+ThirdTex		210,188
+ImageSize		214,10
+ScaleType		1
+Pixel	239
+[THIRDGRID END]
+[END]	

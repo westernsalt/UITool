@@ -1,0 +1,75 @@
+[REVISE_FRAME]
+349,217
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Option\Option_DecoLine_PIC.rai
+AssetPosition	0,20
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_Text_W470_TXT.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_Text_W120_TXT.rai
+AssetPosition	4,39
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_Text_W120_TXT.rai
+AssetPosition	4,73
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_ComboBox_1_CMB.rai
+AssetPosition	129,69
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_ComboBox_2_CMB.rai
+AssetPosition	129,35
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_CheckBox_CHK.rai
+AssetPosition	4,122
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_CheckBox_CHK.rai
+AssetPosition	4,164
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_Text_W368H30_TXT.rai
+AssetPosition	51,124
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_Text_W368H30_TXT.rai
+AssetPosition	51,166
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_Text_W470_TXT.rai
+AssetPosition	0,221
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_DecoLine_PIC.rai
+AssetPosition	0,240
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_Text_W120_TXT.rai
+AssetPosition	4,260
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_Text_W120_TXT.rai
+AssetPosition	4,293
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_Slider_SLD.rai
+AssetPosition	129,259
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_Slider_SLD.rai
+AssetPosition	129,292
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_Text_W60_TXT.rai
+AssetPosition	421,260
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_Text_W60_TXT.rai
+AssetPosition	421,293
+[END]	

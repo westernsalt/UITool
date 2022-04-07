@@ -1,0 +1,27 @@
+[REVISE_FRAME]
+508,209
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Common\CM_Prev_BTN.rai
+AssetPosition	1,464
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Next_BTN.rai
+AssetPosition	79,464
+[END]	
+[START]
+AssetPath		.\Asset\Lobby\Lobby_Text_PageNum_TXT.rai
+AssetPosition	19,466
+[END]	
+[START]
+AssetPath		.\Asset\Clan\Clan_ListBox_ClanList_LST.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\CreatureBook\CB_Btn_ComboInfo_BTN.rai
+AssetPosition	384,459
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_TextInput_INP.rai
+AssetPosition	133,459
+[END]	

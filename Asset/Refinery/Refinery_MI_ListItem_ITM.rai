@@ -1,0 +1,353 @@
+[START]
+Attribute		5
+Position		0,0
+HitBox			0,0,453,124
+FileSize		0,0,453,124
+Scale			1,1
+[LISTITEM START]
+[LISTITEM]
+Attribute		14
+Position		0,0
+HitBox			0,0,453,124
+FileSize		0,0,453,124
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Refinery\Refinery_Texture_1.tga
+TexFilePath		TexturesSV\ui\newUI\Refinery\Refinery_Texture_1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[THIRDGRID START]
+FirstTex		226,0
+SecondTex		236,0
+ThirdTex		246,0
+ImageSize		10,124
+ScaleType		0
+Pixel	423
+[THIRDGRID END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		311,27
+HitBox			311,27,350,96
+FileSize		0,0,39,69
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Refinery\Refinery_Texture_1.tga
+TexFilePath		TexturesSV\ui\newUI\Refinery\Refinery_Texture_1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		186,0
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		3,95
+HitBox			3,95,451,96
+FileSize		0,0,448,1
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\Common_Texture_1.tga
+TexFilePath		TexturesSV\ui\newUI\Common\Common_Texture_1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		2,16
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		3
+Position		8,6
+HitBox			8,6,446,24
+FileSize		0,0,438,18
+Scale			1,1
+[TEXTBOX START]
+TextBox			8,6,446,24
+TextScaling		1
+SortFlag		36
+RGBA			236,229,210
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		1
+[FONT_BOLD_START]
+0
+[TEXTBOX END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		5,30
+HitBox			5,30,67,92
+FileSize		0,0,62,62
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Refinery\Refinery_Texture_1.tga
+TexFilePath		TexturesSV\ui\newUI\Refinery\Refinery_Texture_1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,91
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		8,33
+HitBox			8,33,64,89
+FileSize		0,0,56,56
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Refinery\Refinery_Texture_1.tga
+TexFilePath		TexturesSV\ui\newUI\Refinery\Refinery_Texture_1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		195,0
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		3
+Position		69,30
+HitBox			69,30,347,92
+FileSize		0,0,278,62
+Scale			1,1
+[TEXTBOX START]
+TextBox			69,30,347,92
+TextScaling		1
+SortFlag		36
+RGBA			209,209,209
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		1
+[FONT_BOLD_START]
+0
+[TEXTBOX END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		1
+Position		353,42
+HitBox			353,42,448,79
+FileSize		0,0,95,37
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\Common_Texture_1.tga
+TexFilePath		TexturesSV\ui\newUI\Common\Common_Texture_1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[BUTTON START]
+NormalTex		132,156
+PressedTex		417,156
+DisableTex		417,156
+HighlightTex	227,156
+Size			95,37
+TextBoxSetApart	0
+IconFront		1
+TextBoxIndent	0
+Attribute		3
+Position		353,42
+HitBox			353,42,448,79
+FileSize		0,0,95,37
+Scale			1,1
+[TEXTBOX START]
+TextBox			353,42,448,79
+TextScaling		1
+SortFlag		37
+RGBA			236,229,210
+DisableRGB		133,133,133
+Indent			0,0
+DefaultShow		1
+[FONT_BOLD_START]
+0
+[TEXTBOX END]
+[BUTTON END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		6,99
+HitBox			6,99,26,119
+FileSize		0,0,20,20
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Refinery\Refinery_Texture_1.tga
+TexFilePath		TexturesSV\ui\newUI\Refinery\Refinery_Texture_1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		230,0
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		3
+Position		29,99
+HitBox			29,99,95,119
+FileSize		0,0,66,20
+Scale			1,1
+[TEXTBOX START]
+TextBox			29,99,95,119
+TextScaling		1
+SortFlag		36
+RGBA			209,209,209
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		1
+[FONT_BOLD_START]
+0
+[TEXTBOX END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		122,99
+HitBox			122,99,142,119
+FileSize		0,0,20,20
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Refinery\Refinery_Texture_1.tga
+TexFilePath		TexturesSV\ui\newUI\Refinery\Refinery_Texture_1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		230,0
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		3
+Position		145,99
+HitBox			145,99,211,119
+FileSize		0,0,66,20
+Scale			1,1
+[TEXTBOX START]
+TextBox			145,99,211,119
+TextScaling		1
+SortFlag		36
+RGBA			209,209,209
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		1
+[FONT_BOLD_START]
+0
+[TEXTBOX END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		238,99
+HitBox			238,99,258,119
+FileSize		0,0,20,20
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Refinery\Refinery_Texture_1.tga
+TexFilePath		TexturesSV\ui\newUI\Refinery\Refinery_Texture_1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		230,0
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		3
+Position		261,99
+HitBox			261,99,327,119
+FileSize		0,0,66,20
+Scale			1,1
+[TEXTBOX START]
+TextBox			261,99,327,119
+TextScaling		1
+SortFlag		36
+RGBA			209,209,209
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		1
+[FONT_BOLD_START]
+0
+[TEXTBOX END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		354,99
+HitBox			354,99,374,119
+FileSize		0,0,20,20
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Refinery\Refinery_Texture_1.tga
+TexFilePath		TexturesSV\ui\newUI\Refinery\Refinery_Texture_1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		230,0
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		3
+Position		377,99
+HitBox			377,99,443,119
+FileSize		0,0,66,20
+Scale			1,1
+[TEXTBOX START]
+TextBox			377,99,443,119
+TextScaling		1
+SortFlag		36
+RGBA			209,209,209
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		1
+[FONT_BOLD_START]
+0
+[TEXTBOX END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		3
+Position		39,99
+HitBox			39,99,105,119
+FileSize		0,0,66,20
+Scale			1,1
+[TEXTBOX START]
+TextBox			39,99,105,119
+TextScaling		1
+SortFlag		36
+RGBA			209,209,209
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		1
+[FONT_BOLD_START]
+0
+[TEXTBOX END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		3
+Position		155,99
+HitBox			155,99,221,119
+FileSize		0,0,66,20
+Scale			1,1
+[TEXTBOX START]
+TextBox			155,99,221,119
+TextScaling		1
+SortFlag		36
+RGBA			209,209,209
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		1
+[FONT_BOLD_START]
+0
+[TEXTBOX END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		3
+Position		271,99
+HitBox			271,99,337,119
+FileSize		0,0,66,20
+Scale			1,1
+[TEXTBOX START]
+TextBox			271,99,337,119
+TextScaling		1
+SortFlag		36
+RGBA			209,209,209
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		1
+[FONT_BOLD_START]
+0
+[TEXTBOX END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		3
+Position		387,99
+HitBox			387,99,453,119
+FileSize		0,0,66,20
+Scale			1,1
+[TEXTBOX START]
+TextBox			387,99,453,119
+TextScaling		1
+SortFlag		36
+RGBA			209,209,209
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		1
+[FONT_BOLD_START]
+0
+[TEXTBOX END]
+[LISTITEM_END]
+[LISTITEM COMPLETE]
+[END]	

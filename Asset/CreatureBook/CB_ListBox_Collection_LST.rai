@@ -1,0 +1,440 @@
+[START]
+Attribute		6
+Position		0,0
+HitBox			0,0,647,355
+FileSize		0,0,647,355
+Scale			1,1
+[LISTBOX START]
+ListBoxArea		0,0,641,355
+FilePath		
+ScrollPath		.\Asset\Common\CM_Scroll_SCR.rai
+ListItemPath	.\Asset\CreatureBook\CB_ListItem_CollectionList_ITM.rai
+ListItemCount	5
+ListInterval	0,1
+ListStartPos	0,0
+Attribute		0
+Position		0,0
+HitBox			0,0,0,0
+FileSize		0,0,0,0
+Scale			1,1
+[PICTURE START]
+FilePath		
+TexFilePath		
+FolderPath		
+StartPos		0,0
+[PICTURE END]
+Attribute		10
+Position		641,0
+HitBox			641,0,647,354
+FileSize		0,0,6,354
+Scale			1,1
+[SCROLL START]
+Attribute		1
+Position		0,0
+HitBox			0,0,6,18
+FileSize		0,0,6,18
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\Common_Texture_1.tga
+TexFilePath		TexturesSV\ui\newUI\Common\Common_Texture_1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[BUTTON START]
+NormalTex		505,2
+PressedTex		505,24
+DisableTex		505,2
+HighlightTex	499,24
+Size			6,18
+TextBoxSetApart	0
+IconFront		1
+TextBoxIndent	0
+Attribute		3
+Position		0,0
+HitBox			0,0,0,0
+FileSize		0,0,0,0
+Scale			1,1
+[TEXTBOX START]
+TextBox			0,0,0,0
+TextScaling		1
+SortFlag		37
+RGBA			0,0,0
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		1
+[FONT_BOLD_START]
+0
+[TEXTBOX END]
+[BUTTON END]
+Attribute		-1
+Position		643,0
+HitBox			643,0,645,354
+FileSize		0,0,2,18
+Scale			1,19.7222
+[PICTURE START]
+FilePath		.\Texture\Common\Common_Texture_1.tga
+TexFilePath		TexturesSV\ui\newUI\Common\Common_Texture_1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		501,2
+[PICTURE END]
+[SCROLL END]
+Attribute		5
+Position		0,0
+HitBox			0,0,639,104
+FileSize		0,0,639,104
+Scale			1,1
+[LISTITEM START]
+[LISTITEM]
+Attribute		14
+Position		0,0
+HitBox			0,0,639,104
+FileSize		0,0,639,104
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\CreatureBook\CB_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\CreatureBook\CB_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[THIRDGRID START]
+FirstTex		403,42
+SecondTex		413,42
+ThirdTex		423,42
+ImageSize		10,104
+ScaleType		0
+Pixel	609
+[THIRDGRID END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		3
+Position		8,4
+HitBox			8,4,632,24
+FileSize		0,0,624,20
+Scale			1,1
+[TEXTBOX START]
+TextBox			8,4,632,24
+TextScaling		1
+SortFlag		36
+RGBA			236,229,210
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		1
+[FONT_BOLD_START]
+0
+[TEXTBOX END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		1
+Position		512,47
+HitBox			512,47,607,84
+FileSize		0,0,95,37
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\Common_Texture_1.tga
+TexFilePath		TexturesSV\ui\newUI\Common\Common_Texture_1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[BUTTON START]
+NormalTex		132,156
+PressedTex		417,156
+DisableTex		417,156
+HighlightTex	227,156
+Size			95,37
+TextBoxSetApart	0
+IconFront		1
+TextBoxIndent	0
+Attribute		3
+Position		512,47
+HitBox			512,47,607,84
+FileSize		0,0,95,37
+Scale			1,1
+[TEXTBOX START]
+TextBox			0,0,95,37
+TextScaling		1
+SortFlag		37
+RGBA			236,229,210
+DisableRGB		133,133,133
+Indent			0,0
+DefaultShow		1
+[FONT_BOLD_START]
+0
+[TEXTBOX END]
+[BUTTON END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		418,33
+HitBox			418,33,481,97
+FileSize		0,0,63,64
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\CreatureBook\CB_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\CreatureBook\CB_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		434,42
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		430,52
+HitBox			430,52,470,92
+FileSize		0,0,40,40
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\CreatureBook\CB_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\CreatureBook\CB_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		45,45
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		145,30
+HitBox			145,30,211,96
+FileSize		0,0,66,66
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\Common_Texture_1.tga
+TexFilePath		TexturesSV\ui\newUI\Common\Common_Texture_1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		132,194
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		75,30
+HitBox			75,30,141,96
+FileSize		0,0,66,66
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\Common_Texture_1.tga
+TexFilePath		TexturesSV\ui\newUI\Common\Common_Texture_1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		132,194
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		5,30
+HitBox			5,30,71,96
+FileSize		0,0,66,66
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\Common_Texture_1.tga
+TexFilePath		TexturesSV\ui\newUI\Common\Common_Texture_1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		132,194
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		8,33
+HitBox			8,33,68,93
+FileSize		0,0,60,60
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\Common_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\Common\Common_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		8,33
+HitBox			8,33,68,93
+FileSize		0,0,60,60
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\Common_Texture_1.tga
+TexFilePath		TexturesSV\ui\newUI\Common\Common_Texture_1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		387,422
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		48,36
+HitBox			48,36,66,49
+FileSize		0,0,18,13
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\Common_Texture_1.tga
+TexFilePath		TexturesSV\ui\newUI\Common\Common_Texture_1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		333,247
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		8,67
+HitBox			8,67,34,93
+FileSize		0,0,26,26
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\Common_Texture_1.tga
+TexFilePath		TexturesSV\ui\newUI\Common\Common_Texture_1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		346,364
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		78,33
+HitBox			78,33,138,93
+FileSize		0,0,60,60
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\Common_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\Common\Common_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		78,33
+HitBox			78,33,138,93
+FileSize		0,0,60,60
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\Common_Texture_1.tga
+TexFilePath		TexturesSV\ui\newUI\Common\Common_Texture_1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		387,422
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		118,36
+HitBox			118,36,136,49
+FileSize		0,0,18,13
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\Common_Texture_1.tga
+TexFilePath		TexturesSV\ui\newUI\Common\Common_Texture_1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		333,247
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		78,67
+HitBox			78,67,104,93
+FileSize		0,0,26,26
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\Common_Texture_1.tga
+TexFilePath		TexturesSV\ui\newUI\Common\Common_Texture_1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		346,391
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		148,33
+HitBox			148,33,208,93
+FileSize		0,0,60,60
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\Common_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\Common\Common_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		148,33
+HitBox			148,33,208,93
+FileSize		0,0,60,60
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\Common_Texture_1.tga
+TexFilePath		TexturesSV\ui\newUI\Common\Common_Texture_1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		387,422
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		188,36
+HitBox			188,36,206,49
+FileSize		0,0,18,13
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\Common_Texture_1.tga
+TexFilePath		TexturesSV\ui\newUI\Common\Common_Texture_1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		333,247
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		148,67
+HitBox			148,67,174,93
+FileSize		0,0,26,26
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\Common_Texture_1.tga
+TexFilePath		TexturesSV\ui\newUI\Common\Common_Texture_1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		346,391
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		8,33
+HitBox			8,33,68,93
+FileSize		0,0,60,60
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\Common_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\Common\Common_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,152
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		78,33
+HitBox			78,33,138,93
+FileSize		0,0,60,60
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\Common_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\Common\Common_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,152
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		148,33
+HitBox			148,33,208,93
+FileSize		0,0,60,60
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\Common_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\Common\Common_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,152
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		430,52
+HitBox			430,52,470,92
+FileSize		0,0,40,40
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\CreatureBook\CB_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\CreatureBook\CB_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		434,106
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM COMPLETE]
+[LISTBOX END]
+[END]	

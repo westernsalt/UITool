@@ -1,0 +1,33 @@
+[START]
+Attribute		4
+Position		0,0
+HitBox			0,0,110,26
+FileSize		0,0,110,26
+Scale			1,1
+[TEXTBOX START]
+TextBox			0,0,110,26
+TextScaling		1
+SortFlag		37
+RGBA			209,209,209
+DisableRGB		113,113,113
+Indent			0,0
+DefaultShow		1
+[FONT_BOLD_START]
+0
+[TEXTBOX END]
+[INPUTTEXT START]
+PasswordType	0
+Interval		0
+Attribute		0
+Position		0,0
+HitBox			0,0,110,26
+FileSize		0,0,110,26
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\CM_Popup_2.tga
+TexFilePath		TexturesSV\ui\newUI\Common\CM_Popup_2.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		285,903
+[PICTURE END]
+[INPUTTEXT END]
+[END]	

@@ -1,0 +1,13 @@
+[START]
+Attribute		0
+Position		0,0
+HitBox			0,0,320,108
+FileSize		0,0,320,108
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\EXItem_Popup\EXItemPopup_Ani_EquipmentSynthesis_Texture1.tga
+TexFilePath		TexturesSV\ui\newUI\EXItem_Popup\EXItemPopup_Ani_EquipmentSynthesis_Texture1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		1,641
+[PICTURE END]
+[END]	

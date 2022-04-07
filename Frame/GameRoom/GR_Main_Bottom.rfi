@@ -1,0 +1,43 @@
+[REVISE_FRAME]
+19,521
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\GameRoom\GR_BG_L_PIC.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_BG_R_PIC.rai
+AssetPosition	492,0
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_InputText_Chatting_INP.rai
+AssetPosition	4,171
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Btn_Black_S_BTN.rai
+AssetPosition	436,37
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Btn_Black_S_BTN.rai
+AssetPosition	436,68
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Btn_Black_S_BTN.rai
+AssetPosition	436,99
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Btn_Enter_BTN.rai
+AssetPosition	417,136
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Btn_Start_BTN.rai
+AssetPosition	417,136
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Btn_Ready_BTN.rai
+AssetPosition	417,136
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_ListBox_Chatting_LST.rai
+AssetPosition	7,22
+[END]	

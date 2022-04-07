@@ -1,0 +1,39 @@
+[START]
+Attribute		1
+Position		0,0
+HitBox			0,0,730,26
+FileSize		0,0,730,26
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\CM_Popup_3.tga
+TexFilePath		TexturesSV\ui\newUI\Common\CM_Popup_3.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[BUTTON START]
+NormalTex		3,684
+PressedTex		3,639
+DisableTex		3,666
+HighlightTex	3,612
+Size			730,26
+TextBoxSetApart	0
+IconFront		1
+TextBoxIndent	0
+Attribute		3
+Position		0,0
+HitBox			0,0,730,26
+FileSize		0,0,730,26
+Scale			1,1
+[TEXTBOX START]
+TextBox			0,0,730,26
+TextScaling		1
+SortFlag		36
+RGBA			209,209,209
+DisableRGB		209,209,209
+Indent			28,0
+DefaultShow		1
+[FONT_BOLD_START]
+0
+[TEXTBOX END]
+[BUTTON END]
+[END]	

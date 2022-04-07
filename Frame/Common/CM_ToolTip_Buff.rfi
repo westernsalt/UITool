@@ -1,0 +1,12 @@
+[START]
+AssetPath		.\Asset\Common\CM_Tooltip_Line_PIC.rai
+AssetPosition	1,6
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Tooltip_Buff_Red_TXT.rai
+AssetPosition	12,13
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Tooltip_Buff_Blue_TXT.rai
+AssetPosition	12,26
+[END]	

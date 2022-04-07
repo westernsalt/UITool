@@ -1,0 +1,30 @@
+[START]
+FrameFilePath	.\Frame\CreatureBook\CreatureBook.rfi
+FramePosition	-128,-96
+FrameSize		1280,960
+[END]	
+[START]
+FrameFilePath	.\Frame\CreatureBook\CB_Collection.rfi
+FramePosition	189,247
+FrameSize		647,355
+[END]	
+[START]
+FrameFilePath	.\Frame\CreatureBook\CB_TotalCreature.rfi
+FramePosition	189,247
+FrameSize		496,351
+[END]	
+[START]
+FrameFilePath	.\Frame\CreatureBook\CB_Popup_None.rfi
+FramePosition	258,246
+FrameSize		508,282
+[END]	
+[START]
+FrameFilePath	.\Frame\CreatureBook\CB_Popup_Proterty.rfi
+FramePosition	258,165
+FrameSize		508,443
+[END]	
+[START]
+FrameFilePath	.\Frame\CreatureBook\CB_Popup_ComboInfo.rfi
+FramePosition	-128,-95
+FrameSize		1280,960
+[END]	

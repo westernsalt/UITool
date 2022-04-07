@@ -1,0 +1,21 @@
+[START]
+Attribute		14
+Position		0,0
+HitBox			0,0,282,127
+FileSize		0,0,282,127
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\Common_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\Common\Common_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[THIRDGRID START]
+FirstTex		154,430
+SecondTex		154,439
+ThirdTex		154,448
+ImageSize		282,9
+ScaleType		1
+Pixel	100
+[THIRDGRID END]
+[END]	

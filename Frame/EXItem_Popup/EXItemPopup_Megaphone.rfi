@@ -1,0 +1,43 @@
+[REVISE_FRAME]
+-128,-96
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Common\PopupBg\Inven_Blur_Bg_PIC.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_1_PIC.rai
+AssetPosition	393,272
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_Send_BTN.rai
+AssetPosition	462,538
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_Cancel_BTN.rai
+AssetPosition	672,538
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_Symbol_Megaphone_PIC.rai
+AssetPosition	613,289
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_Megaphone_TextInput_INP.rai
+AssetPosition	446,408
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_Megaphone_Text_1_TXT.rai
+AssetPosition	448,382
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_Megaphone_Text_2_TXT.rai
+AssetPosition	788,382
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_Change_BTN.rai
+AssetPosition	462,538
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_Symbol_Write_PIC.rai
+AssetPosition	613,289
+[END]	

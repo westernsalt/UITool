@@ -1,0 +1,59 @@
+[REVISE_FRAME]
+265,176
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Common\CM_Popup_1_PIC.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_Symbol_SendMail_PIC.rai
+AssetPosition	220,17
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_EquipClass_DecoLine_Top_PIC.rai
+AssetPosition	341,98
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_EquipClass_DecoLine_Bottom_PIC.rai
+AssetPosition	341,219
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_Btn_Send_BTN.rai
+AssetPosition	69,266
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_Cancel_BTN.rai
+AssetPosition	279,266
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ListItem_Btn_Creature_ITM.rai
+AssetPosition	373,139
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_EquipClass_Text_1_TXT.rai
+AssetPosition	328,117
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_SendMail_TextInput_1_INP.rai
+AssetPosition	23,104
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_SendMail_TextInput_2_INP.rai
+AssetPosition	23,165
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_SendMail_UsingNum_TXT.rai
+AssetPosition	46,226
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_SendMail_Text1_TXT.rai
+AssetPosition	25,81
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_SendMail_Text1_TXT.rai
+AssetPosition	25,144
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_TipIcon_PIC.rai
+AssetPosition	27,227
+[END]	

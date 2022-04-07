@@ -1,0 +1,22 @@
+[START]
+Attribute		5
+Position		0,0
+HitBox			0,0,16,16
+FileSize		0,0,16,16
+Scale			1,1
+[LISTITEM START]
+[LISTITEM]
+Attribute		0
+Position		0,0
+HitBox			0,0,16,16
+FileSize		0,0,16,16
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\UserInfo\UserInfo_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\UserInfo\UserInfo_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		114,17
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM COMPLETE]
+[END]	

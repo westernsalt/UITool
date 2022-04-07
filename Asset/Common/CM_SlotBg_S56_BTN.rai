@@ -1,0 +1,39 @@
+[START]
+Attribute		1
+Position		0,0
+HitBox			0,0,62,62
+FileSize		0,0,62,62
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Refinery\Refinery_Texture_1.tga
+TexFilePath		TexturesSV\ui\newUI\Refinery\Refinery_Texture_1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[BUTTON START]
+NormalTex		0,91
+PressedTex		124,91
+DisableTex		0,91
+HighlightTex	62,91
+Size			62,62
+TextBoxSetApart	0
+IconFront		1
+TextBoxIndent	0
+Attribute		3
+Position		0,0
+HitBox			0,0,62,62
+FileSize		0,0,62,62
+Scale			1,1
+[TEXTBOX START]
+TextBox			0,0,62,62
+TextScaling		1
+SortFlag		36
+RGBA			0,0,0
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		0
+[FONT_BOLD_START]
+0
+[TEXTBOX END]
+[BUTTON END]
+[END]	

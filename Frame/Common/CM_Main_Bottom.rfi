@@ -1,0 +1,27 @@
+[REVISE_FRAME]
+0,0
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Common\CM_MSG_LineBg_GRI.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_MSG_Bg_Deco_PIC.rai
+AssetPosition	124,2
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_PrevScene_BTN.rai
+AssetPosition	7,8
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_MSG_BTN.rai
+AssetPosition	871,2
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_MSG_Bg_Deco_PIC.rai
+AssetPosition	863,2
+[END]	
+[START]
+AssetPath		.\Asset\Messenger\MSG_Btn_Chatting_BTN.rai
+AssetPosition	132,3
+[END]	

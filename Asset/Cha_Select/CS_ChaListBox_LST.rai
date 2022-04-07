@@ -1,0 +1,421 @@
+[START]
+Attribute		6
+Position		0,0
+HitBox			0,0,212,456
+FileSize		0,0,212,456
+Scale			1,1
+[LISTBOX START]
+ListBoxArea		0,0,212,456
+FilePath		
+ScrollPath		
+ListItemPath	.\Asset\Cha_Select\CS_ChaListItem_ITM.rai
+ListItemCount	7
+ListInterval	0,1
+ListStartPos	0,0
+Attribute		0
+Position		0,0
+HitBox			0,0,0,0
+FileSize		0,0,0,0
+Scale			1,1
+[PICTURE START]
+FilePath		
+TexFilePath		
+FolderPath		
+StartPos		0,0
+[PICTURE END]
+Attribute		10
+Position		0,0
+HitBox			0,0,0,0
+FileSize		0,0,0,0
+Scale			1,1
+[SCROLL START]
+Attribute		1
+Position		0,0
+HitBox			0,0,0,0
+FileSize		0,0,0,0
+Scale			1,1
+[PICTURE START]
+FilePath		
+TexFilePath		
+FolderPath		
+StartPos		0,0
+[PICTURE END]
+[BUTTON START]
+NormalTex		0,0
+PressedTex		0,0
+DisableTex		0,0
+HighlightTex	0,0
+Size			0,0
+TextBoxSetApart	0
+IconFront		1
+TextBoxIndent	0
+Attribute		3
+Position		0,0
+HitBox			0,0,0,0
+FileSize		0,0,0,0
+Scale			1,1
+[TEXTBOX START]
+TextBox			0,0,0,0
+TextScaling		1
+SortFlag		37
+RGBA			0,0,0
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		1
+[TEXTBOX END]
+[BUTTON END]
+Attribute		-1
+Position		0,0
+HitBox			0,0,0,0
+FileSize		0,0,0,0
+Scale			1,1
+[PICTURE START]
+FilePath		
+TexFilePath		
+FolderPath		
+StartPos		0,0
+[PICTURE END]
+[SCROLL END]
+Attribute		5
+Position		0,0
+HitBox			0,0,211,64
+FileSize		0,0,211,64
+Scale			1,1
+[LISTITEM START]
+[LISTITEM]
+Attribute		1
+Position		0,0
+HitBox			0,0,211,64
+FileSize		0,0,211,64
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\Common_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\Common\Common_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[BUTTON START]
+NormalTex		154,105
+PressedTex		154,235
+DisableTex		154,105
+HighlightTex	154,170
+Size			211,64
+TextBoxSetApart	0
+IconFront		1
+TextBoxIndent	0
+Attribute		3
+Position		0,0
+HitBox			0,0,211,64
+FileSize		0,0,211,64
+Scale			1,1
+[TEXTBOX START]
+TextBox			0,0,211,64
+TextScaling		1
+SortFlag		36
+RGBA			0,0,0
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		0
+[TEXTBOX END]
+[BUTTON END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		6,4
+HitBox			6,4,56,54
+FileSize		0,0,50,50
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\Common_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\Common\Common_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		156,2
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		3
+Position		64,15
+HitBox			64,15,104,31
+FileSize		0,0,40,16
+Scale			1,1
+[TEXTBOX START]
+TextBox			64,15,104,31
+TextScaling		1.5
+SortFlag		36
+RGBA			209,209,209
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		1
+[TEXTBOX END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		3
+Position		64,34
+HitBox			64,34,208,50
+FileSize		0,0,144,16
+Scale			1,1
+[TEXTBOX START]
+TextBox			64,34,208,50
+TextScaling		1.5
+SortFlag		36
+RGBA			209,209,209
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		1
+[TEXTBOX END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		11
+Position		2,55
+HitBox			2,55,207,61
+FileSize		0,0,205,6
+Scale			1,1
+[PROGRESSBAR START]
+FilePath		.\Texture\Cha_Select\CharacterSelect_Texture.tga
+GaugePercentage	80
+ExtraGaugePercentage	0
+GaugeIndent		2,0
+GaugeCount		1
+Attribute		-1
+Position		-1,55
+HitBox			-1,55,204,61
+FileSize		0,0,205,6
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Cha_Select\CharacterSelect_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\Cha_Select\CharacterSelect_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		180,3
+[PICTURE END]
+Attribute		-1
+Position		-1,2
+HitBox			-1,2,1,4
+FileSize		0,0,201,2
+Scale			0.0100995,1
+[PICTURE START]
+FilePath		.\Texture\Cha_Select\CharacterSelect_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\Cha_Select\CharacterSelect_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		182,13
+[PICTURE END]
+GaugeBarfScale	0.0100995
+Attribute		-1
+Position		-1,-52
+HitBox			-1,-52,-1,-52
+FileSize		0,0,0,0
+Scale			1.96577e-024,1
+[PICTURE START]
+FilePath		D:\Rakion\DataSetup\UI\Texture\Cha_Select\CharacterSelect_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\Cha_Select\CharacterSelect_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[PROGRESSBAR END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		0,0
+HitBox			0,0,0,0
+FileSize		0,0,0,0
+Scale			0,0
+[PICTURE START]
+FilePath		..\UI
+TexFilePath		
+FolderPath		
+StartPos		0,0
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		5,12
+HitBox			5,12,25,32
+FileSize		0,0,20,20
+Scale			1,1
+[PICTURE START]
+FilePath		..\UI
+TexFilePath		00
+FolderPath		002020
+StartPos		0,2020
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		0,0
+HitBox			0,0,0,0
+FileSize		0,0,0,0
+Scale			0,0
+[PICTURE START]
+FilePath		..\UI
+TexFilePath		
+FolderPath		
+StartPos		0,0
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		5,0
+HitBox			5,0,214,62
+FileSize		0,0,209,62
+Scale			1,1
+[PICTURE START]
+FilePath		..\UI
+TexFilePath		1825
+FolderPath		182520629
+StartPos		0,2424
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		182,5
+HitBox			182,5,206,29
+FileSize		0,0,24,24
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Cha_Select\CharacterSelect_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\Cha_Select\CharacterSelect_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		182,5
+HitBox			182,5,206,29
+FileSize		0,0,24,24
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Cha_Select\CharacterSelect_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\Cha_Select\CharacterSelect_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		103,12
+HitBox			103,12,123,32
+FileSize		0,0,20,20
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\Common_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\Common\Common_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		420,214
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		1
+Position		0,0
+HitBox			0,0,211,64
+FileSize		0,0,211,64
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Cha_Select\CharacterSelect_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\Cha_Select\CharacterSelect_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[BUTTON START]
+NormalTex		3,259
+PressedTex		3,389
+DisableTex		3,389
+HighlightTex	3,324
+Size			211,64
+TextBoxSetApart	0
+IconFront		1
+TextBoxIndent	0
+Attribute		3
+Position		0,0
+HitBox			0,0,211,64
+FileSize		0,0,211,64
+Scale			1,1
+[TEXTBOX START]
+TextBox			0,0,211,64
+TextScaling		1.5
+SortFlag		36
+RGBA			209,209,209
+DisableRGB		133,133,133
+Indent			65,0
+DefaultShow		1
+[TEXTBOX END]
+[BUTTON END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		1
+Position		2,2
+HitBox			2,2,211,64
+FileSize		0,0,209,62
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Cha_Select\CharacterSelect_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\Cha_Select\CharacterSelect_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[BUTTON START]
+NormalTex		181,19
+PressedTex		181,149
+DisableTex		181,19
+HighlightTex	181,84
+Size			209,62
+TextBoxSetApart	0
+IconFront		1
+TextBoxIndent	0
+Attribute		3
+Position		2,2
+HitBox			2,2,211,64
+FileSize		0,0,209,62
+Scale			1,1
+[TEXTBOX START]
+TextBox			2,2,211,64
+TextScaling		1
+SortFlag		36
+RGBA			0,0,0
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		0
+[TEXTBOX END]
+[BUTTON END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		0,0
+HitBox			0,0,0,0
+FileSize		0,0,0,0
+Scale			0,0
+[PICTURE START]
+FilePath		..\UI
+TexFilePath		
+FolderPath		
+StartPos		0,0
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		0,0
+HitBox			0,0,0,0
+FileSize		0,0,0,0
+Scale			0,0
+[PICTURE START]
+FilePath		..\UI
+TexFilePath		
+FolderPath		
+StartPos		0,0
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM]
+Attribute		0
+Position		0,0
+HitBox			0,0,0,0
+FileSize		0,0,0,0
+Scale			0,0
+[PICTURE START]
+FilePath		..\UI
+TexFilePath		
+FolderPath		
+StartPos		0,0
+[PICTURE END]
+[LISTITEM_END]
+[LISTITEM COMPLETE]
+[LISTBOX END]
+[END]	

@@ -1,0 +1,37 @@
+[START]
+Attribute		1
+Position		0,0
+HitBox			0,0,24,24
+FileSize		0,0,24,24
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Messenger\MSG_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\Messenger\MSG_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[BUTTON START]
+NormalTex		370,325
+PressedTex		487,354
+DisableTex		487,354
+HighlightTex	420,325
+Size			24,24
+TextBoxSetApart	0
+IconFront		1
+TextBoxIndent	0
+Attribute		3
+Position		0,0
+HitBox			0,0,24,24
+FileSize		0,0,24,24
+Scale			1,1
+[TEXTBOX START]
+TextBox			0,0,24,24
+TextScaling		1
+SortFlag		36
+RGBA			0,0,0
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		0
+[TEXTBOX END]
+[BUTTON END]
+[END]	

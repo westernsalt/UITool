@@ -1,0 +1,13 @@
+[START]
+Attribute		0
+Position		0,0
+HitBox			0,0,233,59
+FileSize		0,0,233,59
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Cha_Details\ChaDetails_Texture1.tga
+TexFilePath		TexturesSV\ui\newUI\Cha_Details\ChaDetails_Texture1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		232,230
+[PICTURE END]
+[END]	

@@ -1,0 +1,17 @@
+[BACKGROUND]
+BackgroundPath	.\Asset\Server\Sever_Bg_PIC.rai
+[START]
+FrameFilePath	.\Frame\Server\ServerList.rfi
+FramePosition	31,199
+FrameSize		348,506
+[END]	
+[START]
+FrameFilePath	.\Frame\Server\Btn_Logout.rfi
+FramePosition	31,728
+FrameSize		44,21
+[END]	
+[START]
+FrameFilePath	.\Frame\Server\Logo.rfi
+FramePosition	77,28
+FrameSize		253,138
+[END]	

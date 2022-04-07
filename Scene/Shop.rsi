@@ -1,0 +1,47 @@
+[BACKGROUND]
+BackgroundPath	.\Asset\Common\CM_MainBg_PIC.rai
+[START]
+FrameFilePath	.\Frame\Common\CM_Main_TopMenu.rfi
+FramePosition	14,15
+FrameSize		994,83
+[END]	
+[START]
+FrameFilePath	.\Frame\Common\CM_Main_Bottom.rfi
+FramePosition	0,736
+FrameSize		1024,32
+[END]	
+[START]
+FrameFilePath	.\Frame\Shop\Shop_BtnSwitch.rfi
+FramePosition	15,654
+FrameSize		95,37
+[END]	
+[START]
+FrameFilePath	.\Frame\Common\QuickSlot.rfi
+FramePosition	578,654
+FrameSize		432,54
+[END]	
+[START]
+FrameFilePath	.\Frame\Common\CM_Megaphone.rfi
+FramePosition	7,712
+FrameSize		815,20
+[END]	
+[START]
+FrameFilePath	.\Frame\Common\CM_Notice.rfi
+FramePosition	0,110
+FrameSize		500,15
+[END]	
+[START]
+FrameFilePath	.\Frame\Shop\Shop_ItemList.rfi
+FramePosition	12,141
+FrameSize		645,503
+[END]	
+[START]
+FrameFilePath	.\Frame\Common\CM_Inventory_ItemList.rfi
+FramePosition	668,170
+FrameSize		348,513
+[END]	
+[START]
+FrameFilePath	.\Frame\Gacha\Gacha_Reel.rfi
+FramePosition	688,198
+FrameSize		320,511
+[END]	

@@ -1,0 +1,52 @@
+[START]
+AssetPath		.\Asset\Common\CM_Inventory_TopLine_PIC.rai
+AssetPosition	1,0
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Inventory_BottomLine_PIC.rai
+AssetPosition	1,47
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Inventory_BottomLine_PIC.rai
+AssetPosition	1,473
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Inventory_Locker_BTN.rai
+AssetPosition	4,12
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Inventory_Locker_BTN.rai
+AssetPosition	38,12
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Inventory_Locker_BTN.rai
+AssetPosition	72,12
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Inventory_Locker_BTN.rai
+AssetPosition	106,12
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Inventory_Locker_BTN.rai
+AssetPosition	140,12
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Inventory_Locker_BTN.rai
+AssetPosition	174,12
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Inventory_Locker_BTN.rai
+AssetPosition	208,12
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Inventory_Security_BTN.rai
+AssetPosition	279,15
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Inventory_Arrange_BTN.rai
+AssetPosition	315,19
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Inventory_ItemListBox_LST.rai
+AssetPosition	0,54
+[END]	

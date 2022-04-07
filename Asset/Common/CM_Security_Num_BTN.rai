@@ -1,0 +1,37 @@
+[START]
+Attribute		1
+Position		0,0
+HitBox			0,0,55,40
+FileSize		0,0,55,40
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\Common_Texture_1.tga
+TexFilePath		TexturesSV\ui\newUI\Common\Common_Texture_1.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[BUTTON START]
+NormalTex		133,156
+PressedTex		243,156
+DisableTex		243,156
+HighlightTex	188,156
+Size			55,40
+TextBoxSetApart	0
+IconFront		1
+TextBoxIndent	0
+Attribute		3
+Position		0,0
+HitBox			0,0,55,40
+FileSize		0,0,55,40
+Scale			1,1
+[TEXTBOX START]
+TextBox			0,0,55,40
+TextScaling		1
+SortFlag		37
+RGBA			209,209,209
+DisableRGB		133,133,133
+Indent			0,0
+DefaultShow		1
+[TEXTBOX END]
+[BUTTON END]
+[END]	

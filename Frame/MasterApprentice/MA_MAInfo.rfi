@@ -1,0 +1,127 @@
+[REVISE_FRAME]
+348,206
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\MasterApprentice\MA_img_PIC.rai
+AssetPosition	0,9
+[END]	
+[START]
+AssetPath		.\Asset\MasterApprentice\MA_DecoLine_Bottom_PIC.rai
+AssetPosition	0,96
+[END]	
+[START]
+AssetPath		.\Asset\MasterApprentice\MA_DecoLine_Top_PIC.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\MasterApprentice\MA_DecoLine_Bottom_PIC.rai
+AssetPosition	0,155
+[END]	
+[START]
+AssetPath		.\Asset\MasterApprentice\MA_DecoLine_Bottom_PIC.rai
+AssetPosition	0,260
+[END]	
+[START]
+AssetPath		.\Asset\MasterApprentice\MA_DecoLine_Brown_PIC.rai
+AssetPosition	1,307
+[END]	
+[START]
+AssetPath		.\Asset\MasterApprentice\MA_DecoLine_Brown_PIC.rai
+AssetPosition	1,353
+[END]	
+[START]
+AssetPath		.\Asset\MasterApprentice\MA_Text_Bold_S13_TXT.rai
+AssetPosition	2,137
+[END]	
+[START]
+AssetPath		.\Asset\MasterApprentice\MA_Text_Bold_S13_TXT.rai
+AssetPosition	2,242
+[END]	
+[START]
+AssetPath		.\Asset\MasterApprentice\MA_Text_W136_TXT.rai
+AssetPosition	253,22
+[END]	
+[START]
+AssetPath		.\Asset\MasterApprentice\MA_Text_W136_TXT.rai
+AssetPosition	253,45
+[END]	
+[START]
+AssetPath		.\Asset\MasterApprentice\MA_Text_W136_TXT.rai
+AssetPosition	253,68
+[END]	
+[START]
+AssetPath		.\Asset\MasterApprentice\MA_Text_W88_TXT.rai
+AssetPosition	392,22
+[END]	
+[START]
+AssetPath		.\Asset\MasterApprentice\MA_Text_W88_TXT.rai
+AssetPosition	392,45
+[END]	
+[START]
+AssetPath		.\Asset\MasterApprentice\MA_Text_W88_TXT.rai
+AssetPosition	392,68
+[END]	
+[START]
+AssetPath		.\Asset\MasterApprentice\MA_Text_W166_TXT.rai
+AssetPosition	6,170
+[END]	
+[START]
+AssetPath		.\Asset\MasterApprentice\MA_Text_W88_TXT.rai
+AssetPosition	189,170
+[END]	
+[START]
+AssetPath		.\Asset\MasterApprentice\MA_Text_W88_TXT.rai
+AssetPosition	291,170
+[END]	
+[START]
+AssetPath		.\Asset\MasterApprentice\MA_Btn_1_BTN.rai
+AssetPosition	382,165
+[END]	
+[START]
+AssetPath		.\Asset\MasterApprentice\MA_Text_W166_TXT.rai
+AssetPosition	6,276
+[END]	
+[START]
+AssetPath		.\Asset\MasterApprentice\MA_Text_W88_TXT.rai
+AssetPosition	189,276
+[END]	
+[START]
+AssetPath		.\Asset\MasterApprentice\MA_Text_W88_TXT.rai
+AssetPosition	291,276
+[END]	
+[START]
+AssetPath		.\Asset\MasterApprentice\MA_Btn_1_BTN.rai
+AssetPosition	382,271
+[END]	
+[START]
+AssetPath		.\Asset\MasterApprentice\MA_Text_W166_TXT.rai
+AssetPosition	6,322
+[END]	
+[START]
+AssetPath		.\Asset\MasterApprentice\MA_Text_W88_TXT.rai
+AssetPosition	189,322
+[END]	
+[START]
+AssetPath		.\Asset\MasterApprentice\MA_Text_W88_TXT.rai
+AssetPosition	291,322
+[END]	
+[START]
+AssetPath		.\Asset\MasterApprentice\MA_Btn_1_BTN.rai
+AssetPosition	382,317
+[END]	
+[START]
+AssetPath		.\Asset\MasterApprentice\MA_Text_W166_TXT.rai
+AssetPosition	6,368
+[END]	
+[START]
+AssetPath		.\Asset\MasterApprentice\MA_Text_W88_TXT.rai
+AssetPosition	189,368
+[END]	
+[START]
+AssetPath		.\Asset\MasterApprentice\MA_Text_W88_TXT.rai
+AssetPosition	291,368
+[END]	
+[START]
+AssetPath		.\Asset\MasterApprentice\MA_Btn_1_BTN.rai
+AssetPosition	382,363
+[END]	

@@ -1,0 +1,12 @@
+[START]
+AssetPath		.\Asset\Common\CM_LoadScene_MsgBg_PIC.rai
+AssetPosition	310,320
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_LoadScene_Msg_TXT.rai
+AssetPosition	322,363
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_LoadScene_Dot_IMG.rai
+AssetPosition	495,347
+[END]	

@@ -1,0 +1,75 @@
+[REVISE_FRAME]
+22,217
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Refinery\Refinery_Enchant_MagicCircle_PIC.rai
+AssetPosition	143,14
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ListItem_Btn_Creature_ITM.rai
+AssetPosition	273,144
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotBg_BTN.rai
+AssetPosition	273,33
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_60_PIC.rai
+AssetPosition	276,36
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotImg_Close_PIC.rai
+AssetPosition	276,36
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotBg_BTN.rai
+AssetPosition	155,255
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_60_PIC.rai
+AssetPosition	158,258
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotImg_Close_PIC.rai
+AssetPosition	158,258
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotBg_BTN.rai
+AssetPosition	273,255
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_60_PIC.rai
+AssetPosition	276,258
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotImg_Close_PIC.rai
+AssetPosition	276,258
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotBg_BTN.rai
+AssetPosition	394,255
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_60_PIC.rai
+AssetPosition	397,258
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_SlotImg_Close_PIC.rai
+AssetPosition	397,258
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_Upgrade_BTN.rai
+AssetPosition	227,373
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_Text_Tip_TXT.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_Text_Tip_TXT.rai
+AssetPosition	0,438
+[END]	
+[START]
+AssetPath		.\Asset\Refinery\Refinery_Text_Tip_1_TXT.rai
+AssetPosition	0,457
+[END]	

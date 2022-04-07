@@ -1,0 +1,31 @@
+[REVISE_FRAME]
+16,15
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Common\CM_TopMenuLine_PIC.rai
+AssetPosition	1,30
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_TopMenuLine_PIC.rai
+AssetPosition	480,30
+[END]	
+[START]
+AssetPath		.\Asset\Common\SceneTitle\CM_Title_GameRoom_PIC.rai
+AssetPosition	1,1
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Btn_EXIT_BTN.rai
+AssetPosition	971,0
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_LockedRoom_PIC.rai
+AssetPosition	0,39
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_GameRoomName_TXT.rai
+AssetPosition	35,43
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_GameRoomName_TXT.rai
+AssetPosition	1,43
+[END]	

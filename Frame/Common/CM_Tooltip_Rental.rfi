@@ -1,0 +1,11 @@
+[REVISE_FRAME]
+1,6
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Common\CM_Tooltip_Line_PIC.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Tooltip_Buff_Purple_TXT.rai
+AssetPosition	11,7
+[END]	

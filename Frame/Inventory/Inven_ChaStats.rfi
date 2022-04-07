@@ -1,0 +1,204 @@
+[START]
+AssetPath		.\Asset\Inventory\Inven_ChaDetailInfo_BTN.rai
+AssetPosition	0,319
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Icon_Stats_BasicPower_PIC.rai
+AssetPosition	2,0
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Icon_Stats_DistancePower_PIC.rai
+AssetPosition	2,32
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Icon_Stats_SpecialPower_PIC.rai
+AssetPosition	2,64
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Icon_Stats_GrapPower_PIC.rai
+AssetPosition	2,96
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Icon_Stats_CreatureDestructionPower_PIC.rai
+AssetPosition	2,128
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Icon_Stats_MaxHP_PIC.rai
+AssetPosition	2,160
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Icon_Stats_MaxDefence_PIC.rai
+AssetPosition	2,192
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Icon_Stats_AttackSpeed_PIC.rai
+AssetPosition	2,224
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Icon_Stats_Speed_PIC.rai
+AssetPosition	2,256
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Icon_Stats_SummonPoint_PIC.rai
+AssetPosition	2,288
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Text_Stats_TXT.rai
+AssetPosition	22,1
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Text_Stats_Num_TXT.rai
+AssetPosition	125,1
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Text_Stats_Num1_TXT.rai
+AssetPosition	22,14
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_Plus_BTN.rai
+AssetPosition	172,0
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Text_Stats_TXT.rai
+AssetPosition	22,33
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Text_Stats_Num_TXT.rai
+AssetPosition	125,33
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Text_Stats_Num1_TXT.rai
+AssetPosition	22,46
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_Plus_BTN.rai
+AssetPosition	172,32
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Text_Stats_TXT.rai
+AssetPosition	22,65
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Text_Stats_Num_TXT.rai
+AssetPosition	125,65
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Text_Stats_Num1_TXT.rai
+AssetPosition	23,78
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_Plus_BTN.rai
+AssetPosition	172,64
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Text_Stats_TXT.rai
+AssetPosition	22,97
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Text_Stats_Num_TXT.rai
+AssetPosition	125,97
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Text_Stats_Num1_TXT.rai
+AssetPosition	21,110
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_Plus_BTN.rai
+AssetPosition	172,96
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Text_Stats_TXT.rai
+AssetPosition	22,129
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Text_Stats_Num_TXT.rai
+AssetPosition	125,129
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Text_Stats_Num1_TXT.rai
+AssetPosition	22,142
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_Plus_BTN.rai
+AssetPosition	172,128
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Text_Stats_TXT.rai
+AssetPosition	22,161
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Text_Stats_Num_TXT.rai
+AssetPosition	125,161
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Text_Stats_Num1_TXT.rai
+AssetPosition	22,174
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_Plus_BTN.rai
+AssetPosition	172,160
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Text_Stats_TXT.rai
+AssetPosition	22,193
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Text_Stats_Num_TXT.rai
+AssetPosition	125,193
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Text_Stats_Num1_TXT.rai
+AssetPosition	22,206
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_Plus_BTN.rai
+AssetPosition	172,192
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Text_Stats_TXT.rai
+AssetPosition	22,225
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Text_Stats_Num_TXT.rai
+AssetPosition	125,225
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Text_Stats_Num1_TXT.rai
+AssetPosition	22,238
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_Plus_BTN.rai
+AssetPosition	172,224
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Text_Stats_TXT.rai
+AssetPosition	22,257
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Text_Stats_Num_TXT.rai
+AssetPosition	125,257
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Text_Stats_Num1_TXT.rai
+AssetPosition	22,270
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_Plus_BTN.rai
+AssetPosition	172,256
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Text_Stats_TXT.rai
+AssetPosition	22,289
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Text_Stats_Num_TXT.rai
+AssetPosition	125,289
+[END]	
+[START]
+AssetPath		.\Asset\Inventory\Inven_Text_Stats_Num1_TXT.rai
+AssetPosition	22,302
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_Plus_BTN.rai
+AssetPosition	172,288
+[END]	

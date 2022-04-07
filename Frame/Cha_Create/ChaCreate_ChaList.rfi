@@ -1,0 +1,40 @@
+[START]
+AssetPath		.\Asset\Cha_Create\CC_DecoLine_Top_PIC.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Create\ClassBtn\CC_Archer_BTN.rai
+AssetPosition	0,81
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Create\ClassBtn\CC_Blacksmith_BTN.rai
+AssetPosition	0,136
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Create\ClassBtn\CC_CombatWizard_BTN.rai
+AssetPosition	0,191
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Create\ClassBtn\CC_Ninja_BTN.rai
+AssetPosition	0,246
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Create\ClassBtn\CC_DoubleSword_BTN.rai
+AssetPosition	0,301
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Create\CC_DecoLine_Bottom_PIC.rai
+AssetPosition	0,369
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Create\ClassBtn\CC_Sword_BTN.rai
+AssetPosition	0,26
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Create\CC_Title_ChaName_TXT.rai
+AssetPosition	0,424
+[END]	
+[START]
+AssetPath		.\Asset\Cha_Create\CC_NickName_INP.rai
+AssetPosition	0,442
+[END]	

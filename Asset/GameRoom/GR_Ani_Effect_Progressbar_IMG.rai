@@ -1,0 +1,23 @@
+[START]
+Attribute		13
+Position		0,0
+HitBox			0,0,15,32
+FileSize		0,0,15,32
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\GameRoom\GameRoom_Twinkle_Ani.tga
+TexFilePath		TexturesSV\ui\newUI\GameRoom\GameRoom_Twinkle_Ani.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[ANIMATION START]
+TextureSize		64,64
+ImageStartPos		0,0
+ImageInterval		0,0
+ImageSize		15,32
+ImageNum	4,2
+ImageTotalNum			8
+AniLoop			1
+DelayTime			0.1
+[ANIMATION END]
+[END]	

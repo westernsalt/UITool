@@ -1,0 +1,79 @@
+[REVISE_FRAME]
+637,552
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_TitleRoomInfo_TXT.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Common\Icon_Limit\CM_Icon_FriendMode_PIC.rai
+AssetPosition	131,120
+[END]	
+[START]
+AssetPath		.\Asset\Common\Icon_Limit\CM_Icon_Limit_Effect_PIC.rai
+AssetPosition	155,120
+[END]	
+[START]
+AssetPath		.\Asset\Common\Icon_Limit\CM_Icon_Limit_Potion_PIC.rai
+AssetPosition	177,120
+[END]	
+[START]
+AssetPath		.\Asset\Common\Icon_Limit\CM_Icon_Limit_RandomPoiton_PIC.rai
+AssetPosition	200,120
+[END]	
+[START]
+AssetPath		.\Asset\Common\Icon_Limit\CM_Icon_Limit_Life_1_PIC.rai
+AssetPosition	223,120
+[END]	
+[START]
+AssetPath		.\Asset\Common\Icon_Limit\CM_Icon_Limit_Creature_1_PIC.rai
+AssetPosition	245,120
+[END]	
+[START]
+AssetPath		.\Asset\Common\Icon_Limit\CM_Icon_Limit_KingCreature_PIC.rai
+AssetPosition	268,120
+[END]	
+[START]
+AssetPath		.\Asset\Common\Icon_Limit\CM_Icon_Limit_TWeapon_PIC.rai
+AssetPosition	292,120
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Load_MapImg_PIC.rai
+AssetPosition	0,27
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_W125_S13_L_TXT.rai
+AssetPosition	131,30
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_W125_S13_L_TXT.rai
+AssetPosition	131,52
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_W125_S13_L_TXT.rai
+AssetPosition	131,74
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_W125_S13_L_TXT.rai
+AssetPosition	131,95
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_W80_S13_R_TXT.rai
+AssetPosition	260,95
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_W80_S13_R_TXT.rai
+AssetPosition	260,74
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_W80_S13_R_TXT.rai
+AssetPosition	260,52
+[END]	
+[START]
+AssetPath		.\Asset\GameRoom\GR_Text_W80_S13_R_TXT.rai
+AssetPosition	260,30
+[END]	
+[START]
+AssetPath		.\Asset\Lobby\Lobby_Icon_SuperRoom_PIC.rai
+AssetPosition	315,120
+[END]	

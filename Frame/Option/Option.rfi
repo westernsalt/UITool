@@ -1,0 +1,35 @@
+[REVISE_FRAME]
+-129,-96
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Common\PopupBg\Inven_Blur_Bg_PIC.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_2_PIC.rai
+AssetPosition	303,245
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_PT_PIC.rai
+AssetPosition	530,255
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Close_BTN.rai
+AssetPosition	946,279
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Bg_DividePage_H389_PIC.rai
+AssetPosition	379,306
+[END]	
+[START]
+AssetPath		.\Asset\Option\Option_TabBtn_TAB.rai
+AssetPosition	318,305
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_128_BTN.rai
+AssetPosition	321,673
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_Apply_BTN.rai
+AssetPosition	816,660
+[END]	

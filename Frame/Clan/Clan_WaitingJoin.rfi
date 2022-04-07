@@ -1,0 +1,31 @@
+[REVISE_FRAME]
+508,208
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Clan\Clan_ListGuideBg_PIC.rai
+AssetPosition	1,0
+[END]	
+[START]
+AssetPath		.\Asset\Clan\Clan_ListGuideBg_DivideLine_PIC.rai
+AssetPosition	101,2
+[END]	
+[START]
+AssetPath		.\Asset\Clan\Clan_ListGuideBg_DivideLine_PIC.rai
+AssetPosition	157,2
+[END]	
+[START]
+AssetPath		.\Asset\Clan\Clan_ListBox_WaitingJoin_LST.rai
+AssetPosition	0,26
+[END]	
+[START]
+AssetPath		.\Asset\Clan\Clan_Text_W95_DG_TXT.rai
+AssetPosition	4,3
+[END]	
+[START]
+AssetPath		.\Asset\Clan\Clan_Text_W52_DG_TXT.rai
+AssetPosition	104,3
+[END]	
+[START]
+AssetPath		.\Asset\Clan\Clan_Text_W142_DG_TXT.rai
+AssetPosition	160,3
+[END]	

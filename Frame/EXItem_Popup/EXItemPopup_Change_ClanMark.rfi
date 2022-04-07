@@ -1,0 +1,43 @@
+[REVISE_FRAME]
+-128,-96
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Common\PopupBg\Inven_Blur_Bg_PIC.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Popup_2_PIC.rai
+AssetPosition	302,245
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_ChangeClanMark_Pt_PIC.rai
+AssetPosition	530,255
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_Change_BTN.rai
+AssetPosition	446,654
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_Cancel_BTN.rai
+AssetPosition	679,654
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_ChangeClanMark_SlotListBox_LST.rai
+AssetPosition	470,361
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_FlagBg_ClanMark_PIC.rai
+AssetPosition	324,330
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_ChangeClanMark_Decoline_Top_PIC.rai
+AssetPosition	327,322
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_64_PIC.rai
+AssetPosition	360,360
+[END]	
+[START]
+AssetPath		.\Asset\EXItem_Popup\EXItemPopup_ChangeClanMark_TabBtn_TAB.rai
+AssetPosition	470,328
+[END]	

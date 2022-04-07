@@ -1,0 +1,87 @@
+[REVISE_FRAME]
+12,159
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Clan\Clan_DecoLine_Top_PIC.rai
+AssetPosition	4,0
+[END]	
+[START]
+AssetPath		.\Asset\Clan\Clan_DecoLine_Bottom_PIC.rai
+AssetPosition	4,359
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_FlagBg_ClanMark_PIC.rai
+AssetPosition	0,5
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemIcon_64_PIC.rai
+AssetPosition	37,36
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_128_BTN.rai
+AssetPosition	3,324
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Btn_128_BTN.rai
+AssetPosition	3,324
+[END]	
+[START]
+AssetPath		.\Asset\Clan\Clan_TextBg_1_GRI.rai
+AssetPosition	148,235
+[END]	
+[START]
+AssetPath		.\Asset\Clan\Clan_Text_ClanName_Bold_TXT.rai
+AssetPosition	148,26
+[END]	
+[START]
+AssetPath		.\Asset\Clan\Clan_Text_W90_TXT.rai
+AssetPosition	148,59
+[END]	
+[START]
+AssetPath		.\Asset\Clan\Clan_Text_W225_Bold_TXT.rai
+AssetPosition	250,59
+[END]	
+[START]
+AssetPath		.\Asset\Clan\Clan_Text_W90_TXT.rai
+AssetPosition	148,90
+[END]	
+[START]
+AssetPath		.\Asset\Clan\Clan_Text_W225_Bold_TXT.rai
+AssetPosition	250,90
+[END]	
+[START]
+AssetPath		.\Asset\Clan\Clan_Text_W90_TXT.rai
+AssetPosition	148,121
+[END]	
+[START]
+AssetPath		.\Asset\Clan\Clan_Text_W225_Bold_TXT.rai
+AssetPosition	250,121
+[END]	
+[START]
+AssetPath		.\Asset\Clan\Clan_Text_W90_TXT.rai
+AssetPosition	148,152
+[END]	
+[START]
+AssetPath		.\Asset\Clan\Clan_Text_W225_Bold_TXT.rai
+AssetPosition	250,152
+[END]	
+[START]
+AssetPath		.\Asset\Clan\Clan_Text_W90_TXT.rai
+AssetPosition	148,183
+[END]	
+[START]
+AssetPath		.\Asset\Clan\Clan_Text_W225_Bold_TXT.rai
+AssetPosition	250,183
+[END]	
+[START]
+AssetPath		.\Asset\Clan\Clan_Text_W90_TXT.rai
+AssetPosition	148,214
+[END]	
+[START]
+AssetPath		.\Asset\Clan\Clan_Text_H92_TXT.rai
+AssetPosition	161,247
+[END]	
+[START]
+AssetPath		.\Asset\Clan\Clan_Btn_Writing_BTN.rai
+AssetPosition	458,218
+[END]	

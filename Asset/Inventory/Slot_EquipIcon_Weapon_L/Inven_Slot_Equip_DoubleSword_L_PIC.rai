@@ -1,0 +1,13 @@
+[START]
+Attribute		0
+Position		0,0
+HitBox			0,0,52,52
+FileSize		0,0,52,52
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Inventory\Inventory_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\Inventory\Inventory_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		54,54
+[PICTURE END]
+[END]	

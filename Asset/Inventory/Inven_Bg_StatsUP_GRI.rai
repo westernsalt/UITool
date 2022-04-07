@@ -1,0 +1,21 @@
+[START]
+Attribute		14
+Position		0,0
+HitBox			0,0,40,28
+FileSize		0,0,40,28
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Inventory\Inventory_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\Inventory\Inventory_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[THIRDGRID START]
+FirstTex		479,26
+SecondTex		489,26
+ThirdTex		499,26
+ImageSize		10,28
+ScaleType		0
+Pixel	10
+[THIRDGRID END]
+[END]	

@@ -1,0 +1,23 @@
+[START]
+Attribute		13
+Position		0,0
+HitBox			0,0,34,8
+FileSize		0,0,34,8
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Common\CM_Sprite_LodingAni.tga
+TexFilePath		TexturesSV\ui\newUI\Common\CM_Sprite_LodingAni.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[ANIMATION START]
+TextureSize		128,128
+ImageStartPos		1,1
+ImageInterval		2,2
+ImageSize		34,8
+ImageNum	3,4
+ImageTotalNum			12
+AniLoop			1
+DelayTime			0.1
+[ANIMATION END]
+[END]	

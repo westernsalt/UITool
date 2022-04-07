@@ -1,0 +1,263 @@
+[REVISE_FRAME]
+0,0
+[REVISE_FRAME_END]
+[START]
+AssetPath		.\Asset\Common\CM_ItemSlotBg_48_PIC.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemSlotBg_48_PIC.rai
+AssetPosition	54,0
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemSlotBg_48_PIC.rai
+AssetPosition	108,0
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemSlotBg_48_PIC.rai
+AssetPosition	162,0
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemSlotBg_48_PIC.rai
+AssetPosition	216,0
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemSlotBg_48_PIC.rai
+AssetPosition	270,0
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemSlotBg_48_PIC.rai
+AssetPosition	324,0
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemSlotBg_48_PIC.rai
+AssetPosition	378,0
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Load_ItemIcon_48_TXT.rai
+AssetPosition	3,3
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Load_ItemIcon_48_TXT.rai
+AssetPosition	57,3
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Load_ItemIcon_48_TXT.rai
+AssetPosition	111,3
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Load_ItemIcon_48_TXT.rai
+AssetPosition	165,3
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Load_ItemIcon_48_TXT.rai
+AssetPosition	219,3
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Load_ItemIcon_48_TXT.rai
+AssetPosition	273,3
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Load_ItemIcon_48_TXT.rai
+AssetPosition	327,3
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Load_ItemIcon_48_TXT.rai
+AssetPosition	381,3
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemSlotBg_Red_48_PIC.rai
+AssetPosition	3,3
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemSlotBg_Red_48_PIC.rai
+AssetPosition	57,3
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemSlotBg_Red_48_PIC.rai
+AssetPosition	111,3
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemSlotBg_Red_48_PIC.rai
+AssetPosition	165,3
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemSlotBg_Red_48_PIC.rai
+AssetPosition	219,3
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemSlotBg_Red_48_PIC.rai
+AssetPosition	273,3
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemSlotBg_Red_48_PIC.rai
+AssetPosition	327,3
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemSlotBg_Red_48_PIC.rai
+AssetPosition	381,3
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemSlotBg_Yellow_48_PIC.rai
+AssetPosition	3,3
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemSlotBg_Yellow_48_PIC.rai
+AssetPosition	57,3
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemSlotBg_Yellow_48_PIC.rai
+AssetPosition	111,3
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemSlotBg_Yellow_48_PIC.rai
+AssetPosition	165,3
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemSlotBg_Yellow_48_PIC.rai
+AssetPosition	219,3
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemSlotBg_Yellow_48_PIC.rai
+AssetPosition	273,3
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemSlotBg_Yellow_48_PIC.rai
+AssetPosition	327,3
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemSlotBg_Yellow_48_PIC.rai
+AssetPosition	381,3
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemSlotBg_102_PIC.rai
+AssetPosition	0,0
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Load_ItemIcon_102_PIC.rai
+AssetPosition	3,3
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemSlotBg_Yellow_102_PIC.rai
+AssetPosition	3,3
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemSlotBg_Red_102_PIC.rai
+AssetPosition	3,3
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_QuickSlot_NumBg_PIC.rai
+AssetPosition	3,4
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_QuickSlot_NumBg_PIC.rai
+AssetPosition	57,4
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_QuickSlot_NumBg_PIC.rai
+AssetPosition	111,4
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_QuickSlot_NumBg_PIC.rai
+AssetPosition	165,4
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_QuickSlot_NumBg_PIC.rai
+AssetPosition	219,4
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_QuickSlot_NumBg_PIC.rai
+AssetPosition	273,4
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_QuickSlot_NumBg_PIC.rai
+AssetPosition	327,4
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_QuickSlot_NumBg_PIC.rai
+AssetPosition	381,4
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemSlot_Num_TXT.rai
+AssetPosition	3,3
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemSlot_Num_TXT.rai
+AssetPosition	57,3
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemSlot_Num_TXT.rai
+AssetPosition	111,3
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemSlot_Num_TXT.rai
+AssetPosition	165,3
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemSlot_Num_TXT.rai
+AssetPosition	219,3
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemSlot_Num_TXT.rai
+AssetPosition	273,3
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemSlot_Num_TXT.rai
+AssetPosition	327,3
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemSlot_Num_TXT.rai
+AssetPosition	381,3
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Text_ItemSlot_Num_TXT.rai
+AssetPosition	2,37
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Text_ItemSlot_Num_TXT.rai
+AssetPosition	56,37
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Text_ItemSlot_Num_TXT.rai
+AssetPosition	110,37
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Text_ItemSlot_Num_TXT.rai
+AssetPosition	164,37
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Text_ItemSlot_Num_TXT.rai
+AssetPosition	218,37
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Text_ItemSlot_Num_TXT.rai
+AssetPosition	272,37
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Text_ItemSlot_Num_TXT.rai
+AssetPosition	326,37
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_Text_ItemSlot_Num_TXT.rai
+AssetPosition	380,37
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemSlot_Lock_48_BTN.rai
+AssetPosition	165,3
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemSlot_Lock_48_BTN.rai
+AssetPosition	219,3
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemSlot_Lock_48_BTN.rai
+AssetPosition	273,3
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemSlot_Lock_48_BTN.rai
+AssetPosition	327,3
+[END]	
+[START]
+AssetPath		.\Asset\Common\CM_ItemSlot_Lock_48_BTN.rai
+AssetPosition	381,3
+[END]	

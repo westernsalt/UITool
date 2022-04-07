@@ -1,0 +1,37 @@
+[START]
+Attribute		1
+Position		639,242
+HitBox			639,242,699,302
+FileSize		0,0,60,60
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Inventory\Inventory_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\Inventory\Inventory_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[BUTTON START]
+NormalTex		1,160
+PressedTex		123,150
+DisableTex		1,160
+HighlightTex	62,160
+Size			60,60
+TextBoxSetApart	0
+IconFront		1
+TextBoxIndent	0
+Attribute		3
+Position		639,242
+HitBox			639,242,699,302
+FileSize		0,0,60,60
+Scale			1,1
+[TEXTBOX START]
+TextBox			639,242,699,302
+TextScaling		1
+SortFlag		36
+RGBA			0,0,0
+DisableRGB		0,0,0
+Indent			0,0
+DefaultShow		0
+[TEXTBOX END]
+[BUTTON END]
+[END]	

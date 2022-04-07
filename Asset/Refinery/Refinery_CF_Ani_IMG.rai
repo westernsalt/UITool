@@ -1,0 +1,23 @@
+[START]
+Attribute		13
+Position		0,0
+HitBox			0,0,256,256
+FileSize		0,0,256,256
+Scale			1,1
+[PICTURE START]
+FilePath		.\Texture\Refinery\Refinery_Ani_CF_Texture.tga
+TexFilePath		TexturesSV\ui\newUI\Refinery\Refinery_Ani_CF_Texture.tex
+FolderPath		TexturesSV\ui\newUI
+StartPos		0,0
+[PICTURE END]
+[ANIMATION START]
+TextureSize		1024,1024
+ImageStartPos		0,0
+ImageInterval		0,0
+ImageSize		256,256
+ImageNum	4,2
+ImageTotalNum			6
+AniLoop			1
+DelayTime			0.1
+[ANIMATION END]
+[END]	
